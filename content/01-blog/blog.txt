@@ -1,0 +1,4 @@
+Title: Blog
+----
+Text: Lorem ipsum dolor sit amet
+

@@ -1,0 +1,204 @@
+Title: Ausgabe #2
+----
+Date: 15.02.2012
+----
+Text: Freunde und Förderer des Hyperlinks, dies ist die berühmt, berüchtigte Artikelreihe und der Newsletter *Die illsten Links von neulich*. Abonniere den Newsletter [hier](http://tinyletter.com/kahlil) um in eurem Freundeskreis nahezu vergöttert zu werden, weil sie einfach nicht rausfinden können woher ihr diese illen Links schon so früh her habt! (True Story.)
+
+Heute bringe ich euch die zweite Ausgabe:
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Fieldrunners](https://chrome.google.com/webstore/detail/lkpikhjbfbffdblahfidklcohlaeabak)
+
+Paul Irish [tweetete](http://twitter.com/#!/paul_irish/status/128889391782436864) und linkte auf dieses Tower Defense Spiel das von Bocoup umgesetzt wurde. Bocoup ist eine eine kleine Armee an JavaScript Devs bei denen es sich durchaus lohnt [vorbei zu schauen](http://bocoup.com).
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[JSConf.eu Videos](http://blip.tv/jsconfeu)
+
+[JSConf.eu](http://jsconf.eu) war vor kurzem in Berlin und ich war nicht dort, deshalb freue ich mich um so mehr über die Videos der Talks.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Joss Crowcroft](http://www.josscrowcroft.com/)
+
+Paul Irish, seines Zeichens Mitglied des Chrome Teams und exzellenter Frontend Dev ist auch extraklasse im Hyperlinken und verweiste neulich auf diese schönen Frontend Dev Blog mit zahlreichen Experimenten und Tutorials.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Color Scheme Designer](http://colorschemedesigner.com/)
+
+Zach Holman, der sehr lustige Mitarbeiter von Github hat mich mit seinem Artikel über Präsentationen für Developer inspiriert einen alten Link für Farbpalletten auszugraben. Ich als nicht-Designer brauche da nämlich solche Krücken und freue mich um so mehr, daß es sie gibt.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Hubot](https://github.com/blog/968-say-hello-to-hubot)
+
+> Hubot is a library and an executable that wraps up all the logic of connecting to chat servers. Right now there are adapters for Campfire and IRC, but adding stuff like Hipchat or other services should be pretty trivial.
+
+Als Riesenfan von der Art und Weise [wie GitHub arbeitet](http://zachholman.com/posts/how-github-works/) bin ich auch Fan von Hubot, der Chat-Roboter der eine sehr wichtige Rolle bei der Github'schen Arbeitsweise spielt. Er ist nun quelloffen.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[iPhone 4S Slideshow Deconstructed](http://johnbhall.com/iphone-4s/)
+
+> The "phone stage" (blue-bordered box) contains all 6 "slides" of the animation sequence and has a transition css property with a duration and timing function (a cubic bezier curve).
+
+Diesen Link hatte ich in Episode 1 vergessen: Eine Analyse der CSS Transitions in der iPhone 4 Slideshow. Cool.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Lightning JS](http://www.olark.com/spw/2011/10/lightningjs-safe-fast-and-asynchronous-third-party-javascript/)
+
+Diese kleine JavaScript Lib stellt eine verbesserte Lösung für asynchrones Laden von eingebettetem JavaScript dar. Es platziert die jeweiligen Skripte in einer sicheren Umgebung mit eigener window Instanz und verhindert das Blocken von document ready und window.onload Events durch die verschiedenen Bibliotheken..
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[5 questions with Paul Irish](http://css-tricks.com/14727-five-questions-with-paul-irish/)
+
+Und nochmal Paul Irish, der CSS-Gott Chris Coyier führt ein Mini-Interview mit ihm durch, sie besprechen u. a. die zukünftige Browserlandschaft und die Chrome Dev Tools. Chris  führt seine "5 questions with ..."-Reiche mit der griechisch-stämmigen Frontend Developerin Lea Verou weiter, die durch ihre CSS3 Experimente und Single-Page Apps hohe Aufmerksamkeit in der internationalen Frontend Dev Community genießt.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Learn to think like a Git](http://think-like-a-git.net/)
+
+Git ist geil und hier kann man als Git-n00b tiefer in die Materie einsteigen.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Gitbox](http://www.gitboxapp.com/)
+
+Gleich hinterher ein neuer Git Client für Mac, sehr simpel gehalten mit praktischen Features.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Logos in CSS](http://www.ecsspert.com/twitter.php)
+
+Hier hatte jemand definitiv zu viel Zeit. Reine CSS Logos mit tonnenweise Divs sind zwar schön aber leider Semantisch völlig wertlos, Lea Verou schlägt für solche Zwecke SVG vor, welches eigentlich für solche Zwecke gedacht ist.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Stickyness](http://m.spielzeugz.de/sticky/readme/)
+
+Sehr cooles Experiment, vor allem wenn man es mit einem Touch-Gerät testet.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[JS H.264 Decoder](https://plus.google.com/u/0/115813704442142647528/posts/KyXgQnC88SH) via [@sir_pepe](http://twitter.com/sir_pepe)
+
+Oh yeah!
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Banksimple](https://banksimple.com/) & [Banksimple iPhone App](http://www.fastcodesign.com/1665303/first-look-banksimples-iphone-app-aims-to-reimagine-your-money)
+
+Ok, Banksimple spielt für Deutschland erstmal keine Rolle, allerdings wollte ich mal Aufmerksamkeit darauf lenken, da die Idee einfach fett geil ist. Bin total gespannt auf Erfahrungsberichte.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Punchd by Google](http://getpunchd.com/)
+
+Die Datenkrake hat neue Tentakel :D
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Crockford on JS Code Style and your brain](http://www.youtube.com/watch?v=cIOIyfRoGcM) via [javascriptweekly.com](http://javascriptweekly.com)
+
+Crockford ist der Autor von "JavaScript: The Good Parts" und es lohnt sich immer ihm zuzuhören.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Schöner Tooltip](http://jsfiddle.net/ryanseddon/EMhRJ/145/)
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Terse JavaScript](http://james.padolsey.com/javascript/terse-javascript-101-part-1/)
+
+Eine Artikelreihe voller Tips darüber wie man schönen JS Code schreibt.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Sisyphus JS](http://simsalabim.github.com/sisyphus/) via [Smashing Magazine](http://smashingmagazine.com)
+
+Dieses Skript speichert Benutzereingaben in ein Formular regelmäßig im localStorage, so gehen die Eingaben auch nach einem Crash oder schließen der Browsersession nicht verloren. Das sollte jedes Formular haben!
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Responsive Web Comics](http://defendini.com/bib/)
+
+Das find ich geil, hab selber schon über sowas nachgedacht. Interessant wäre ein Framework mit dem man leicht innerhalb eines responsive Designs Sprechblasen in Bildkästen für Comics unterbringen könnte. Sickness!
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Gitpad](https://github.com/blog/975-gitpad-write-your-commits-in-notepad)
+
+Für Windows-User eine kleine .exe Datei die Notepad als Standardeditor für Git-Merges festlegt.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Useful Coding & Workflow Tools for Webdesigners & Developers](http://www.smashingmagazine.com/2011/10/28/useful-coding-workflow-tools-for-web-designers-developers/)
+
+Smashingmag haben mal in ihrer Followerschaft Dev Tools gecrowdsourced. Das Ergebnis lässt sich an Nützlichkeit kaum übertreffen.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Lessons From a Review of JavaScript Code](http://coding.smashingmagazine.com/2011/10/27/lessons-from-a-review-of-javascript-code/)
+
+Ein Repost von einem Code-Review Artikel von Addy Osmani, wie immer eine schier endlose Quelle an Tipps und Einsichten zu JavaScript Development.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Jonathan Krause](http://www.jonathan-krause.de/)
+
+Jonathan, der meine Seite designed hat, hat seine Seite redesigned. Sieht heiß aus! Gebt ihm Props oder Jobs unter http://twitter.com/jonykrause!
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Deep into the frontend](https://plus.google.com/113127438179392830442/posts/TuLrSEzh1AZ)
+
+Das sind mal richtig deepe Links... woah.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Brunch IO](http://brunch.io/)
+
+Oi! Ein Framework ganz nach meinem Geschmack: bestehend aus Frameworks. In den Tools trifft sich das Who ist Who der aktuellen JS Frameworks und vereinen sich zur perfekten Entwicklungsumgebung für komplexe JavaScript Apps.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Paul Irish's open Tabs](https://plus.google.com/113127438179392830442/posts/1xjUkhk9mFa)
+
+Was der Paule so liest. Ganz schön ill.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Der ultimative Slider](http://greweb.fr/slider/)
+
+Ein JS Slider der mit CSS Transitions, jQuery und Canvas arbeitet. Die Übergänge sind, vielfältig, unsagbar smooth und anscheinend unendlich anpassbar.
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[Github Enterprise](https://github.com/blog/978-introducing-github-enterprise)
+
+Github zum Selberhosten für große Firmen für $ 5000,-/Monat/20 User. Heeelllooo Sah!
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+[The Verge](http://www.theverge.com/)
+
+Das neue Projekt von Joshua Topolsky (ehemals Editor in Chief bei [Engadget](http://engadget.com)) hat Style!
+
+<p style="text-align:center; font-size:1.5em; margin-bottom:.8em">⚡</p>
+
+## Bonuslinks
+
+[Henry Waltz](http://henrywaltz.com/)
+
+Ein Konzepttrailer.
+
+[PressPausePlay](http://www.presspauseplay.com/)
+
+> PressPausePlay, a documentary film containing interviews with some of the world's most influential creators of the digital era.
+
+
+Abonniere [⚡](http://tinyletter.com/kahlil) für early access zum nächsten Vol.!

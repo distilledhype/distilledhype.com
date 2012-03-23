@@ -1,0 +1,78 @@
+Title: Ausgabe #1
+----
+Date: 15.02.2012
+----
+Text: Sei der coolste in deiner Crew und bleib auf dem laufenden mit den illsten Links in Webdevelopment!
+Diese Artikelreihe & [Newsletter](http://tinyletter.com/kahlil) will die Frage beantworten: Was sind gerade so die illsten Hyperlinks around?
+Here we go:
+
+[jQuery Standards Team &rarr;](http://blog.jquery.com/2011/10/24/announcing-the-jquery-standards-team/)
+
+> The jQuery Standards Team has three primary goals:
+>
+> * To represent the web developer community, in particular jQuery users, to standards bodies such as the W3C and TC39 with the intention of improving existing standards and standards in progress to better meet the needs of web developers.
+> * To represent the web developer community, and especially jQuery users, to browser vendors with the intent of helping them identify standards that they should prioritize for implementing, and proofs of concept that they can build.
+> * To help the jQuery project adopt new standards and browser features as appropriate.
+
+
+jQuery geht ab und schickt Paul Irish und Yehuda Katz in das Standards-Business. Die beiden werden die Web Development-Community gegenüber den Browser-Normungsgremien vertreten, dafür sind sie aufgrund ihrer bisherigen Tätigkeiten bestens gerüstet. Ich habe vollstes Vertrauen in die beiden und fühle mich bestens repräsentiert.
+
+[Badass JS &rarr;](http://badassjs.com/post/11867989702/badass-js-is-back-with-a-new-look-heres-a-little)
+
+> WE’RE BACK BABY!
+
+Hey? Wusste gar nicht dass es sie gab, aber sie sind schon wieder zurück. Sieht cool aus, der Blog. Bin gespannt ob sich die Postfrequenz von 7 Monaten tatsächlich erhöhen wird. Wenn ja, dann würde mich das freuen.
+
+[jQuery Swap &rarr;](http://timmywillison.com/2011/jQuery.swap.html)
+
+Timmy Willison, seines Zeichens jQuery Core Member und so, hat was entdeckt:
+
+>  I had discovered a surprisingly useful internal jQuery function that may be of use to you: jQuery.swap.
+
+und diese nützliche Funktion macht folgendes:
+
+> It swaps the styles of the element you pass with the given css, calls your callback, then returns the element to its original style.
+
+In seinem Beispiel holt er für eine Lightbox über jQuery Swap schnell die Koordination des Endzustands, seines zu animierenden Bildes. Clever.
+
+[Ixoth &rarr;](http://ixoth.com/)
+
+> Hook anything up to Siri with Ixoth.
+
+Ich finde ja, dass Siri ein Geniestreich ist, Ixoth erweitert die Fahigkeiten von Siri nach Wunsch. Genial.
+
+[JavaScript Conventions &rarr;](http://javascript.crockford.com/code.html)
+
+Crockford (of _JavaScript: The Good Parts_ fame):
+
+> The long-term value of software to an organization is in direct proportion to the quality of the codebase. Over its lifetime, a program will be handled by many pairs of hands and eyes. If a program is able to clearly communicate its structure and characteristics, it is less likely that it will break when modified in the never-too-distant future.
+
+Der Crockford legt Konventionen für JavaScript hin. Exzellent. Einfach danach richten...
+
+[Style in jQuery Plugins &rarr;](http://msdn.microsoft.com/en-us/scriptjunkie/ff696759)
+
+[Cowboy](http://twitter.com/cowboy) von [Bocoup](http://bocoup.com):
+
+> Ultimately, while there are many different plugin style considerations, the most important thing is for you to focus on developing your own personal style that balances efficiency with readability and maintainability. Your plugin not only needs to work well, but it needs to be easy to update and maintain, because you're going to be the person maintaining it!
+
+In diesem Artikel bietet Cowboy eine Unmenge von sehr hilfreichen Best Practices, Links, Tipps und Style-Empfehlungen die man als JavaScriptler definitiv kennen sollte!
+
+[Mixergy Interview mit Neville Medhora &rarr;](http://mixergy.com/neville-medhora-kopywriting-kourse-interview/)
+
+> You know what formal means to me? It means boring as fuck!
+
+Diese grandiose Interview mit Neville Medhora über seine Art Copy zu schreiben fand ich sehr erhellend. Schon seit langem wundere ich mich warum E-Mails und Werbetexte immer so scheißelangweilig sein müssen.
+Müssen se nich, und wenn man es richtig macht und frei nach Schnauze schreibt hat man einen Riesenvorsprung vor den meisten, weil man connected und sich sonst keiner traut. Sehr inspirierend.
+
+[HTML5 For Webdesigners &rarr;](http://html5forwebdesigners.com)
+
+Das Buch HTML5 For Webdesigners von Jeremy Keith hat jetzt eine eigene Seite, der komplette Content des Buches steht als HTML zur Verfügung und wird per Cache Manifest heruntergeladen, das heißt das Buch steht einmal geladen auch offline zur Verfügung!
+Noch bemerkenswert ist das der Titel der Seite einfach durch einen gestylten `<title>`-Tag dargestellt wird.
+
+[Slide Design for Developers](http://zachholman.com/posts/slide-design-for-developers/)
+
+> Working on your slide design pays off for the audience in front of you and for the audience online reading your slides later. I learned a lot designing this talk, and I think it can be helpful for you, too.
+
+Der Zach Holman, dessen [Blogpostreihe über das arbeiten bei Github](http://zachholman.com/posts/how-github-works/) gibt hier ein paar fantastische Präsentations-Design Tipps für Entwickler anhand [der Folien für einen seiner Vorträge](http://zachholman.com/talk/how-github-uses-github-to-build-github).
+
+Wenn du die illsten Links in Webdevelopment gerne regelmäßig im Elektrobriefkasten haben möchtest bevor ich sie hier poste, klicke auf [diesen Link](http://tinyletter.com/kahlil) trage deine Emailadresse ein und bestätige mit Klick auf den Bestätigungslink!
