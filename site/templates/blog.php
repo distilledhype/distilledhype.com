@@ -17,7 +17,7 @@
         <?php echo html($article->title()) ?></a></h1>
 
     <p><?php echo excerpt($article->text(), 150) ?></p>
-    <a href="<?php echo $article->url() ?>">Mehr &rarr;</a>
+    <a href="<?php echo $article->url() ?>">Gib mir die Linkings! &rarr;</a>
   </article>
 
   <?php endforeach ?>

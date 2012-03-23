@@ -2,10 +2,19 @@
 @import "mixins";
 
 
+
+@bgcol: lighten(black, 90%);
+
 a:hover { text-decoration: none; }
 
+html {
+	min-height: 100%;
+}
+
 body {
-	background: lighten(@gray, 50%);
+	min-height: 100%;
+	background-color: @bgcol;
+	#gradient > .vertical(lighten(black, 95%), lighten(black, 80%));
 }
 
 header {
@@ -34,7 +43,7 @@ header {
 
 .blog {
 	article {
-		background: lighten(@gray, 50%);
+		background-color: transparent;
 		// border-bottom: 1px solid darken(@gray, 10%);
 		// border-radius: 3px;
 		// .box-shadow(1px 1px 5px rgba(0,0,0,.5));
