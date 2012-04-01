@@ -1,4 +1,5 @@
-Title: Blog
-----
-Text: Lorem ipsum dolor sit amet
+﻿Title: Blog
 
+----
+
+Text: 

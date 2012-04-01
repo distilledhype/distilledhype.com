@@ -24,7 +24,13 @@ li {
 a {
 	.transition(background .2s linear);
 	.transition(color .2s linear);
+	h3 {
+		a {
+			.transition(color 0s linear);
+		}
+	}
 }
+
 
 .coffee {
 	color: #aaa;
@@ -36,6 +42,12 @@ a {
 .shadowed {
 	.box-shadow(0 1px 8px rgba(0,0,0,.25));
 }
+
+.back {
+	display: block;
+	margin-top: 30px;
+}
+
 header {
 	margin: 0 auto 30px auto;
 	text-align: left;
@@ -83,10 +95,16 @@ header {
 		}
 	}
 	.subtitle {
-		font-family: "Merriweather", times, @altFontFamily;
+		font-family: @baseFontFamily;
 		font-size: 11px;
 		font-weight: 300;
-		color: lighten(black, 35%);
+		color: @electricescape;
+		position: absolute;
+		bottom: 5px;
+		left: 62px;
+		margin: 0;
+		line-height: 14px;
+
 	}
 }
 
@@ -154,12 +172,12 @@ footer {
 	padding-top: 10px;
 	color: lighten(@gray, 30%);
 	p {
-		font-size: 14px;
+		font-size: 12px;
 	}
 	a {
 		color: lighten(@gray, 30%);
 		&:hover {
-			color: lighten(@gray, 30%);
+			color: lighten(@gray, 10%);
 		}
 	}
 }

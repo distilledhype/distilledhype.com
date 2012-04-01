@@ -9,7 +9,7 @@
     <div class="linkings">
     	<?php echo kirbytext($page->text()) ?>
 	</div>
-    <a href="<?php echo url('blog') ?>">&larr; Zurück</a>
+    <a href="<?php echo url('blog') ?>" class="back">&larr; Zurück</a>
 
   </article>
 </section>

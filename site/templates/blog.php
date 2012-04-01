@@ -14,7 +14,7 @@
       <a href="<?php echo $article->url() ?>">
         <?php echo html($article->title()) ?></a></h1>
 
-    <p><?php echo excerpt($article->text(), 150) ?></p>
+    <p><?php echo excerpt($article->text(), 250) ?></p>
     <a href="<?php echo $article->url() ?>" class="morelink">Zu den Linkings &rarr;</a>
   </article>
 

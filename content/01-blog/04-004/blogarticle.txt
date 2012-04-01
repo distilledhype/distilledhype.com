@@ -6,27 +6,26 @@ Text: Willkommen zu einer neuen Ausgabe der illsten Links von neulich. Dieses ma
 
 _Den Newsletter habe ich übrigens erstmal eingestellt. Ist mir grad zu blöd beides am laufen zu halten. Ich poste es lieber einfach auf dem Blog. Ich werde den Newsletter aber weiter rausschicken mit Hinweis auf neue Blogposts. Wenn ihr darauf Bock habt gerne [hier](http://tinyletter.com/kahlil) anmelden._
 
-[Smashing Magazine Meetup #3 Videos](http://vimeo.com/smashingmagazine)
+### [Smashing Magazine Meetup #3 Videos &rarr;](http://vimeo.com/smashingmagazine)
 Paul Irish und Christian Heilmann haben auf dem Smashing Magazine Meetup in Stuttgart zwei sehr gute Vorträge gehalten und diese sind jetzt auf Vimeo.
 
-[Working Draft Revision 53 #smmeetup](http://workingdraft.de/53/)
+### [Working Draft Revision 53 #smmeetup &rarr;](http://workingdraft.de/53/)
 Auf selbigem Meetup hatten wir die Ehre mit Paul, Christian und Vitaly eine Diskussionsrunde für Working Draft führen zu dürfen.
 
-[Changelog Episode mit dem Programmierer von Spine](http://thechangelog.com/post/14517970749/episode-0-7-1-spine-and-client-side-mvc-with-alex-maccaw)
+### [Changelog Episode mit dem Programmierer von Spine &rarr;](http://thechangelog.com/post/14517970749/episode-0-7-1-spine-and-client-side-mvc-with-alex-maccaw)
 Eine tolle Changelog Episode mit dem Programmierer des von Backbone JS inspirierten Spine Frameworks.
 
-[Die illsten Bilder auf mlkshk.com nach Likes](http://mlkshk.typepad.com/mlkshk/2011/12/top-files-by-likes.html)
+### [Die illsten Bilder auf mlkshk.com nach Likes &rarr;](http://mlkshk.typepad.com/mlkshk/2011/12/top-files-by-likes.html)
 mlkshk hat um den Jahreswechsel abzufeiern die meist-geliktesten Bilder auf ihrem Blog gepostet. Ist sehenswert.
 
-[5by5 After Dark Episode 75](http://5by5.tv/afterdark/75)
+### [5by5 After Dark Episode 75 &rarr;](http://5by5.tv/afterdark/75)
 Dan Benjamin spricht über sein Equipment, Business und Behind-The-Scenes von 5by5 Studios.
 
-Update:
-[Stop Whining and Start Hiring Remote Workers](http://37signals.com/svn/posts/3064-stop-whining-and-start-hiring-remote-workers)
+### [Stop Whining and Start Hiring Remote Workers &rarr;](http://37signals.com/svn/posts/3064-stop-whining-and-start-hiring-remote-workers)
 
 > If we were only trying to hire in Chicago, we’d never have the world-class team we have today. 37signals has people from such distinct tech hubs as Fenwick (Canada), Phoenix, Caldwell (Idaho), Romiley (UK), Jefferson Hills (Pensylvania), Ann Arbor (Michigan), Boulder (Colorado), Tampa (Florida).
 
 Diese Obsession mit dem Vor-Ort-Sein ist absoluter Schwachsinn.
 
-[Impress.js](http://bartaz.github.com/impress.js/)
+### [Impress.js &rarr;](http://bartaz.github.com/impress.js/)
 Prezi mit JavaScript und CSS3 Transitions umgesetzt! Wicked!

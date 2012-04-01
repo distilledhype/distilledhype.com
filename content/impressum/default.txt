@@ -1,0 +1,9 @@
+﻿Title: Impressum
+
+----
+
+Text: Kahlil Lechelt
+Ruhrstr. 15
+70374 Stuttgart
+
+Email: kahlil@kahlil.co

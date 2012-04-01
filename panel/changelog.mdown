@@ -1,0 +1,27 @@
+#Kirby Panel Changelog
+
+## 0.5
+
+- complete redesign
+
+## 0.4
+
+- custom field implementation. 
+- new mime types for allowed uploads
+- removed the spyc class, because it's in the core now. 
+- min requirement for kirby core is no 1.0.8
+
+## 0.3
+
+- entirely new navigation and bug fixes
+- implemented readable template/blueprint names in the add page dropdown 
+
+## 0.2
+
+- loads of bug fixes and style fixes
+- additional features
+- improved installation and system health checks
+
+## 0.1
+
+First version

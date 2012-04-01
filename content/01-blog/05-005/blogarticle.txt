@@ -1,0 +1,101 @@
+﻿Title: Ausgabe 005: Ein neuer Anfang
+
+----
+
+Text: _Die illsten Links von neulich_ waren bisher eigentlich eine Artikelreihe auf [meinem Blog](http://kahlil.co). Diese hatte ich aus Zeitgründen und wegen Zweifel an der Sinnhaftigkeit dieser Reihe, eingestellt. 
+
+Während dem mehrmonatigen Ausfall der illsten Links wurde ich jedoch so oft nach dem Verbleib der nächsten Ausgabe gefragt, daß ich nicht umhin konnte zu denken, daß ich mich wohl erfolgreich in einige Herzen meiner (4-5) Leser hineingelinkt hatte. 
+
+Mit dieser Erkenntnis und dem famosen [Kirby CMS](http://getkirby.com) bewaffnet, machte ich mich nun auf, den illsten Links von neulich ein eigenes Zuhause zu geben. Dieses Zuhause wird momentan von euren entzündeten Äuglein betrachtet.
+
+Hiermit sind _Die illsten Links von neulich_ also wieder zum Leben erweckt und die fünfte Runde eingeläutet. 
+
+Der frisch gebrühte Kaffee ist hoffentlich zur Hand, denn am besten genossen werden unsere Hyperverlinkungen nämlich morgens bei einer schönen Tasse dieses glorreichen Gebräus. 
+
+### [Essential Sublime Text 2 Plugins and Extensions →](http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions)
+NetTuts+ stellt in diesem Artikel eine sehr schöne Liste an Plugins und Extensions zusammen, die man sich als Sublime Text 2 Benutzer auf jeden Fall anschauen sollte. Ein paar von diesen sind meines Erachtens absolut essentiell. 
+
+### [Morris.js →](http://oesmith.github.com/morris.js/)
+> Making good-looking graphs shouldn't be hard.
+
+Morris.js ist eine kleine JavaScript Bibliothek, die jQuery und Raphaël verwendet um Zeitstrahl-Graphen einfach und hübsch darzustellen. 
+
+### [api.html5please.com →](http://api.html5please.com/)
+Unsere Lieblingsfrontendler haben mal wieder zugeschlagen und haben eine API gebaut über die man abfragen kann, ob der gerade benutzte Browser ein modernes Feature unterstützt und ermöglicht dann eine differenziertere Kommunikation an den Benutzer darüber welcher Browser denn verwendet werden müsste um dieses fantastische Feature zu benutzen. 
+
+### [Technitone Fallstudie →](http://www.html5rocks.com/en/tutorials/casestudies/technitone/)
+> Technitone.com is a fusion of WebGL, Canvas, Web Sockets, CSS3, Javascript, Flash, and the new Web Audio API in Chrome.
+
+Eine Fallstudie über ein Projekt, dass mal ganz locker auf einen Schlag den kompletten Stack an heißem Webscheiß in sich vereinigt.
+
+### [Wrangle Async Tasks With JQuery Promises →](http://net.tutsplus.com/tutorials/javascript-ajax/wrangle-async-tasks-with-jquery-promises/)
+> Once you understand Promises, you’ll want to use them for everything from AJAX calls to UI flow.
+
+Gebt es zu, ihr habt Promises immer noch nicht verstanden! Hier, einer der besten Artikel zu dem Thema.
+
+### [Elon Musk auf 60 Minutes →](http://www.cbsnews.com/video/watch/?id=50121782n) 
+> From PayPal to electric cars to rockets, billionaire entrepreneur Elon Musk wants his company, SpaceX, to build America's next manned spacecraft.
+
+Ein sehr interessanter Report über Elon Musk und SpaceX, ein privates Raumfahrtunternehmen. Der Mann hat Eier. 
+
+### [Zeitmessung von JavaScript Code mit den Chrome Dev Tools →](http://jsfiddle.net/andreruffert/bLjBn/)
+Mein Kumpel, der [André Ruffert](http://twitter.com/andreruffert) hat mich aufgrund einem seiner Tweets daran erinnert, daß man mit den Chrome Dev Tools messen kann, wie lange ein bestimmter JavaScript Code zur Ausführung benötigt. Ist ein cooles Feature, daß nicht viele kennen. 
+
+### [Sublime Text 2 und Snippet Management mit Gist →](http://net.tutsplus.com/tutorials/tools-and-tips/sexy-code-snippet-management-with-gists/)
+Jedes Tool, daß die Gist API verwendet geniesst bei mir ein ganz hohes Ansehen.
+
+### [blur.js](http://www.blurjs.com/)
+> blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.
+
+Ein jQuery Plugin, dass HTML-Elementen einen pseudotransparenten, verschwommenen Hintergrund verpasst.
+
+
+http://hellohappy.org/beautiful-web-type/
+https://developer.mozilla.org/fr/demos/detail/the-box/launch
+
+http://www.youtube.com/watch?feature=player_embedded&v=GZadCj8O1-0#!
+
+http://a-class.mercedes-benz.com/uk/en/#!/?s=start
+
+http://37signals.com/svn/posts/3137-using-event-capturing-to-improve-basecamp-page-load-times
+
+http://faavorite.com/csswizardry/tags/Read%20Later
+
+http://www.soundstep.com/blog/experiments/jstracking/
+http://creativejs.com/2012/03/augmented-reality/
+
+http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/
+
+http://www.starbucks.com/static/reference/styleguide/
+
+http://www.robinsloan.com/fish/
+
+http://dcurt.is/codename-svbtle
+
+http://www.jeanniejeannie.com/2012/03/16/frustro-the-impossible-typeface/
+
+http://natewienert.com/codename-obtvse
+
+http://news.ycombinator.com/item?id=3744237
+
+http://css-tricks.com/content-folding/
+
+https://github.com/cujojs/wire
+
+http://css.dzone.com/articles/javascripts-two-zeros
+
+http://www.git-legit.org/
+
+http://jasonweaver.name/lab/offcanvas/
+
+http://www.youtube.com/watch?v=69Wjc6QYuKI Music Docu
+
+Proxtube for Chrome
+
+http://swagger.wordnik.com/
+
+http://www.backlift.com/index.html
+
+http://srobbin.com/jquery-plugins/intelligist/
+
+https://github.com/cowboy/grunt

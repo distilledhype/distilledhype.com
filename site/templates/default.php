@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
-<?php snippet('menu') ?>
-<?php snippet('submenu') ?>
+<?php //snippet('menu') ?>
+<?php //snippet('submenu') ?>
 
 <section class="container">
 

@@ -21,4 +21,5 @@
 <body>
 	<header id="logo">
     	<h1><a href="<?php echo url() ?>" id="header"><span>&#9749;</span> Die illsten Links von neulich</a></h1>
+    	<p class="subtitle">Geniesst der geneigte Web Developer am besten morgens zum Kaffee.</p>
 	</header>

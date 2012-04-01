@@ -1,9 +1,17 @@
-Title: Die illsten Links von neulich
+﻿Title: Die illsten Links von neulich
+
 ----
+
 Author: Kahlil Lechelt
+
 ----
+
 Description: Kirby is awesome
+
 ----
+
 Keywords: links, webdev, nerdkram
+
 ----
-Copyright: © 2009-(date: Year) (link: http://kahlil.co text: Kahlil Lechelt)
+
+Copyright: © 2009-(date: Year) (link: http://kahlil.co text: Kahlil Lechelt) • [Impressum](/impressum) <br> Gebaut mit [Kirby](http://getkirby.com) • Gehostet auf [Uberspace](http://uberspace.de) • Versioniert mit Git auf Uberspace
