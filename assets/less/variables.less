@@ -31,7 +31,7 @@
 @blue:                  #049cdb;
 @blueDark:              #0064cd;
 @green:                 #46a546;
-@red:                   lighten(#9d261d, 15%);
+@red:                   #9d261d;
 @yellow:                #ffc40d;
 @orange:                #f89406;
 @pink:                  #c3325f;
@@ -51,14 +51,14 @@
 // @linkColor: darken(#08c, 15%);
 // @linkColorHover: darken(#08c, 15%);
 
-@linkColor: @red;
-@linkColorHover: @red;
+@linkColor: @electricescape;
+@linkColorHover: darken(@electricescape, 15%);
 
 // Typography
 // -------------------------
-@baseFontSize:          13px;
-@baseFontFamily:        "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-@baseLineHeight:        18px;
+@baseFontSize:          16px;
+@baseFontFamily:        "PT Sans", "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@baseLineHeight:        22px;
 @altFontFamily:         "Merriweather", Georgia, "Times New Roman", Times, serif;
 
 
@@ -202,8 +202,8 @@
 // Default 940px grid
 // -------------------------
 @gridColumns:             12;
-@gridColumnWidth:         60px;
-@gridGutterWidth:         20px;
+@gridColumnWidth:         70px;
+@gridGutterWidth:         30px;
 @gridRowWidth:            (@gridColumns * @gridColumnWidth) + (@gridGutterWidth * (@gridColumns - 1));
 
 

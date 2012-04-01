@@ -1,7 +1,8 @@
 <?php snippet('header') ?>
 <?php // snippet('menu') ?>
 
-<section class="container blogarticle">
+<div class="container">
+<section class="blogarticle">
   <article>
     <h1><?php echo html($page->title()) ?></h1>
 
@@ -12,5 +13,6 @@
 
   </article>
 </section>
+</div><!-- / -->
 
 <?php snippet('footer') ?>

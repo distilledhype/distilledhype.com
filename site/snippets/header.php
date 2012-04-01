@@ -11,11 +11,7 @@
   <link rel="shortcut icon" href="<?php echo url('assets/img/favicon.png') ?>" type="image/png" />
   <link rel="icon" href="<?php echo url('assets/img/favicon.png') ?>" type="image/png" />
   <link rel="apple-touch-icon" href="<?php echo u('assets/images/apple-touch-icon.png') ?>" />
-  <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,900,300' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300' rel='stylesheet' type='text/css'>
 
-  <link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400italic' rel='stylesheet' type='text/css'>
 
   <?php echo css('assets/css/bootstrap.css') ?>
   <?php echo css('assets/css/responsive.css') ?>
@@ -23,3 +19,6 @@
 </head>
 
 <body>
+	<header id="logo">
+    	<h1><a href="<?php echo url() ?>" id="header"><span>&#9749;</span> Die illsten Links von neulich</a></h1>
+	</header>

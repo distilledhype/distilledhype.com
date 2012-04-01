@@ -1,4 +1,4 @@
-Title: Ausgabe #3
+Title: Ausgabe 003: Lieber spät als nie
 ----
 Date: 15.02.2012
 ----
@@ -6,14 +6,11 @@ Text: Lieber spät als nie.
 Der bevorstehende Relaunch und Albumrelease von [Agent Lexie](http://agentlexie.com) füllt gerade meine Freizeit aus, deshalb bin ich etwas spät dran.
 Ich hatte zwar noch einige Links mehr in der Liste habe die dann auf die essentiellen Links runterdestilliert und denke, dass ich eine ganz schöne Gruppe zusammengesammelt habe.
 
---
-## Der güldene Link der Ausgabe:
+### Der güldene Link der Ausgabe:
 Eine kleine neue Rubrik in den illsten Links ist der güldene Link der Ausgabe. Der Link mit dem höchsten Mehrwert. Gemessen mit höchstwissenschaftlichen Methoden wie Bauchgefühl, eigene Meinung etc.
 
 [Modernizr Test Suite](http://www.modernizr.com/news/modernizr-test-suite)
 Ein Killerscreencast von Paul Irish der wieder mal viele Juwelen birgt.
-
---
 
 [dude](https://github.com/fhemberger/dude)
 > Uses the wonderful Lebowski Ipsum and Node.js.

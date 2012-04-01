@@ -5,6 +5,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <?php echo js('assets/js/jquery.js') ?>
+    <?php echo js('assets/js/jquery.slabtext.js') ?>
     <?php echo js('assets/js/bootstrap-transition.js') ?>
     <?php echo js('assets/js/bootstrap-alert.js') ?>
     <?php echo js('assets/js/bootstrap-modal.js') ?>
@@ -17,6 +18,7 @@
     <?php echo js('assets/js/bootstrap-collapse.js') ?>
     <?php echo js('assets/js/bootstrap-carousel.js') ?>
     <?php echo js('assets/js/bootstrap-typeahead.js') ?>
+    <?php echo js('assets/js/script.js') ?>
 
 </body>
 
