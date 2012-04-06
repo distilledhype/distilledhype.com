@@ -21,5 +21,5 @@
 <body>
 	<header id="logo">
     	<h1><a href="<?php echo url() ?>" id="header"><span>&#9749;</span> Die illsten Links von neulich</a></h1>
-    	<p class="subtitle">&laquo;Ill, iller, illest. Bombe!&raquo; - @<a href="https://twitter.com/#!/MadeMyDay/statuses/131845647333732352">mademyday</a></p>
+    	<p class="subtitle">&#8222;Ill, iller, illest. Bombe!&#8221; - @<a href="https://twitter.com/#!/MadeMyDay/statuses/131845647333732352">mademyday</a></p>
 	</header>
