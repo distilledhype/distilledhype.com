@@ -2,15 +2,17 @@ title: Ausgabe 005: Ein neuer Anfang
 
 ----
 
-text: _Die illsten Links von neulich_ waren bisher eigentlich eine Artikelreihe auf [meinem Blog](http://kahlil.co). Diese hatte ich aus Zeitgründen und wegen Zweifel an der Sinnhaftigkeit dieser Reihe, eingestellt. 
+text: _Die illsten Links von neulich_ waren bisher eigentlich eine Artikelreihe und Newsletter auf [meinem Blog](http://kahlil.co). Diese hatte ich aus Zeitgründen und wegen Zweifel an der Sinnhaftigkeit dieser Reihe, eingestellt. 
 
-Während dem mehrmonatigen Ausfall der illsten Links wurde ich jedoch so oft nach dem Verbleib der nächsten Ausgabe gefragt, daß ich nicht umhin konnte zu denken, daß ich mich wohl erfolgreich in einige Herzen meiner (4-5) Leser hineingelinkt hatte. 
+Während dem mehrmonatigen Ausfall der illsten Links wurde ich jedoch so oft nach dem Verbleib der nächsten Ausgabe gefragt, dass ich nicht umhin konnte zu denken, dass ich mich wohl erfolgreich in einige Herzen meiner (4-5) Leser hineingelinkt hatte. 
 
 Mit dieser Erkenntnis und dem famosen [Kirby CMS](http://getkirby.com) bewaffnet, machte ich mich nun auf, den illsten Links von neulich ein eigenes Zuhause zu geben. Dieses Zuhause wird momentan von euren entzündeten Äuglein betrachtet.
 
+Der Newsletter ist nun auch wieder reaktiviert und ist unter seiner neuen URL 
+
 Hiermit sind _Die illsten Links von neulich_ also wieder zum Leben erweckt und die fünfte Runde eingeläutet. 
 
-Der frisch gebrühte Kaffee ist hoffentlich zur Hand, denn am besten genossen werden unsere Hyperverlinkungen nämlich morgens bei einer schönen Tasse dieses glorreichen Gebräus. 
+Der frisch gebrühte Kaffee ist hoffentlich zur Hand, denn am besten genossen werden diese Hyperverlinkungen nämlich morgens bei einer schönen Tasse warmen Gebräus. 
 
 ### [Essential Sublime Text 2 Plugins and Extensions →](http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions)
 NetTuts+ stellt in diesem Artikel eine sehr schöne Liste an Plugins und Extensions zusammen, die man sich als Sublime Text 2 Benutzer auf jeden Fall anschauen sollte. Ein paar von diesen sind meines Erachtens absolut essentiell. 
@@ -21,7 +23,7 @@ NetTuts+ stellt in diesem Artikel eine sehr schöne Liste an Plugins und Extensi
 Morris.js ist eine kleine JavaScript Bibliothek, die jQuery und Raphaël verwendet um Zeitstrahl-Graphen einfach und hübsch darzustellen. 
 
 ### [api.html5please.com →](http://api.html5please.com/)
-Unsere Lieblingsfrontendler haben mal wieder zugeschlagen und haben eine API gebaut über die man abfragen kann, ob der gerade benutzte Browser ein modernes Feature unterstützt und ermöglicht dann eine differenziertere Kommunikation an den Benutzer darüber welcher Browser denn verwendet werden müsste um dieses fantastische Feature zu benutzen. 
+Unsere Lieblingsfrontendler (unter anderem auch @[drublic](http://twitter.com/drublic) von [Working Draft](http://workingdraft.de) Fame) haben mal wieder zugeschlagen und haben eine API gebaut über die man abfragen kann, ob der gerade benutzte Browser ein modernes Feature unterstützt und ermöglicht dann eine differenziertere Kommunikation an den Benutzer darüber welcher Browser denn verwendet werden müsste um dieses fantastische Feature zu benutzen. 
 
 ### [Technitone Fallstudie →](http://www.html5rocks.com/en/tutorials/casestudies/technitone/)
 > Technitone.com is a fusion of WebGL, Canvas, Web Sockets, CSS3, Javascript, Flash, and the new Web Audio API in Chrome.
@@ -39,10 +41,10 @@ Gebt es zu, ihr habt Promises immer noch nicht verstanden! Hier, einer der beste
 Ein sehr interessanter Report über Elon Musk und SpaceX, ein privates Raumfahrtunternehmen. Der Mann hat Eier. 
 
 ### [Zeitmessung von JavaScript Code mit den Chrome Dev Tools →](http://jsfiddle.net/andreruffert/bLjBn/)
-Mein Kumpel, der [André Ruffert](http://twitter.com/andreruffert) hat mich aufgrund einem seiner Tweets daran erinnert, daß man mit den Chrome Dev Tools messen kann, wie lange ein bestimmter JavaScript Code zur Ausführung benötigt. Ist ein cooles Feature, daß nicht viele kennen. 
+Mein Kumpel, der [André Ruffert](http://twitter.com/andreruffert) hat mich aufgrund einem seiner Tweets daran erinnert, dass man mit den Chrome Dev Tools messen kann, wie lange ein bestimmter JavaScript Code zur Ausführung benötigt. Ist ein cooles Feature, dass nicht viele kennen. 
 
 ### [Sublime Text 2 und Snippet Management mit Gist →](http://net.tutsplus.com/tutorials/tools-and-tips/sexy-code-snippet-management-with-gists/)
-Jedes Tool, daß die Gist API verwendet geniesst bei mir ein ganz hohes Ansehen.
+Jedes Tool, dass die Gist API verwendet geniesst bei mir ein ganz hohes Ansehen.
 
 ### [blur.js](http://www.blurjs.com/)
 > blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.
@@ -100,6 +102,11 @@ Ein Versuch Git-Befehler zu vereinfachen, nach dem Vorbild von Github für Mac.
 > Grunt is a task-based command line build tool for JavaScript projects.
 
 Ein sehr schönes build Tool von @[cowboy](http://twitter.com/cowboy) von @[bocoup](http://twitter.com/bocoup). Aufgrund seiner sorgfältigen Programmierung und einer guten API, lässt sich Grunt um alle denkbaren Module erweitern und ist somit mit Sicherheit ein Anwärter auf die Position eines Quasi-Standards wenn es um Build-Tools für Node.js und das Frontend geht. 
+
+### [Backbone Boilerplate &rarr;](https://github.com/backbone-boilerplate/backbone-boilerplate)
+> Existing boilerplates freely modify Backbone core, lack a build process, and are very prescriptive; this boilerplate changes that.
+
+Das Backbone Boilerplate von Bocoup verwendet Require.js und Grunt und ist wahrscheinlich das beste Backbone.js Boilerplate da draussen.
 
 ### [Multi-Device Layout Patterns &rarr;](http://www.lukew.com/ff/entry.asp?1514)
 
