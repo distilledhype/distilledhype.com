@@ -40,7 +40,7 @@ Gebt es zu, ihr habt Promises immer noch nicht verstanden! Hier, einer der beste
 
 Ein sehr interessanter Report über Elon Musk und SpaceX, ein privates Raumfahrtunternehmen. Der Mann hat Eier. 
 
-### [Zeitmessung von JavaScript Code mit den Chrome Dev Tools →](http://jsfiddle.net/andreruffert/bLjBn/)
+### [Zeitmessung in JavaScript Code mit den Chrome Dev Tools →](http://jsfiddle.net/andreruffert/bLjBn/)
 Mein Kumpel, der [André Ruffert](http://twitter.com/andreruffert) hat mich aufgrund einem seiner Tweets daran erinnert, dass man mit den Chrome Dev Tools messen kann, wie lange ein bestimmter JavaScript Code zur Ausführung benötigt. Ist ein cooles Feature, dass nicht viele kennen. 
 
 ### [Sublime Text 2 und Snippet Management mit Gist →](http://net.tutsplus.com/tutorials/tools-and-tips/sexy-code-snippet-management-with-gists/)
