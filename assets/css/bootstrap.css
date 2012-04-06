@@ -5994,9 +5994,8 @@ a h3 a {
 header {
   margin: 0 auto 30px auto;
   text-align: left;
-  border-bottom: 0px solid #555555;
   background: #eeeeee;
-  border-bottom: 1px solid #607890;
+  border-bottom: 1px solid #b9c4d0;
   padding-bottom: 5px;
   position: fixed;
   width: 100%;
