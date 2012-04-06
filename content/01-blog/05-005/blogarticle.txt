@@ -1,8 +1,8 @@
-﻿Title: Ausgabe 005: Ein neuer Anfang
+title: Ausgabe 005: Ein neuer Anfang
 
 ----
 
-Text: _Die illsten Links von neulich_ waren bisher eigentlich eine Artikelreihe auf [meinem Blog](http://kahlil.co). Diese hatte ich aus Zeitgründen und wegen Zweifel an der Sinnhaftigkeit dieser Reihe, eingestellt. 
+text: _Die illsten Links von neulich_ waren bisher eigentlich eine Artikelreihe auf [meinem Blog](http://kahlil.co). Diese hatte ich aus Zeitgründen und wegen Zweifel an der Sinnhaftigkeit dieser Reihe, eingestellt. 
 
 Während dem mehrmonatigen Ausfall der illsten Links wurde ich jedoch so oft nach dem Verbleib der nächsten Ausgabe gefragt, daß ich nicht umhin konnte zu denken, daß ich mich wohl erfolgreich in einige Herzen meiner (4-5) Leser hineingelinkt hatte. 
 
@@ -49,53 +49,91 @@ Jedes Tool, daß die Gist API verwendet geniesst bei mir ein ganz hohes Ansehen.
 
 Ein jQuery Plugin, dass HTML-Elementen einen pseudotransparenten, verschwommenen Hintergrund verpasst.
 
+### [Beautiful Web Type &rarr;](http://hellohappy.org/beautiful-web-type/)
+> A showcase of the best typefaces from the Google web fonts directory.
 
-http://hellohappy.org/beautiful-web-type/
-https://developer.mozilla.org/fr/demos/detail/the-box/launch
+Die besten Google webfonts, ansprechend dargestellt.
 
-http://www.youtube.com/watch?feature=player_embedded&v=GZadCj8O1-0#!
+### [Rob Reid's TED Talk über Copyright Math &rarr;](http://www.youtube.com/watch?feature=player_embedded&v=GZadCj8O1-0#!)
 
-http://a-class.mercedes-benz.com/uk/en/#!/?s=start
+Rob Reid zeigt sehr anschaulich die Absurdität der Behauptungen die die Unterhaltungsindustrie über ihre Verluste durch Piraterie aufstellt. Unbedingt anschauen!
 
-http://37signals.com/svn/posts/3137-using-event-capturing-to-improve-basecamp-page-load-times
+### [Peter Kruse über Kreativität &rarr;](http://www.youtube.com/watch?feature=player_embedded&v=oyo_oGUEH-I#!)
+> Harmonische Systeme, sind dumme Systeme.
 
-http://faavorite.com/csswizardry/tags/Read%20Later
+Professor Peter Kruse spricht über Kreativität und darüber wie sie in einem komplexen System entstehen kann. Absolut faszinierend.
 
-http://www.soundstep.com/blog/experiments/jstracking/
-http://creativejs.com/2012/03/augmented-reality/
 
-http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/
 
-http://www.starbucks.com/static/reference/styleguide/
 
-http://www.robinsloan.com/fish/
+### [Neue Webseite für Mercedes-Benz’ A-Klasse mit Backbone.js &rarr;](http://a-class.mercedes-benz.com/) via [@drublic](http://twitter.com/drublic)
+Mercedes Benz präsentiert die neue A-Klasse mit einem One-Pager, der sich wirklich sehen lassen kann. Mit Backbone.js wurde hier eine moderne Webseite geschaffen, die auf der HTML5 Boilerplate, Modernizr und jQuery aufbaut. Quelltext anschauen!  
+_Linksubmit und Beschreibung von [Hans-Christian Reinl](http://drublic.de)._
 
-http://dcurt.is/codename-svbtle
 
-http://www.jeanniejeannie.com/2012/03/16/frustro-the-impossible-typeface/
+### [Motion Tracking in JavaScript &rarr;](http://www.soundstep.com/blog/experiments/jstracking/)
 
-http://natewienert.com/codename-obtvse
 
-http://news.ycombinator.com/item?id=3744237
+### [Source Maps &rarr;](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
+> Basically it's a way to map a combined/minified file back to an unbuilt state.
 
-http://css-tricks.com/content-folding/
+Source Maps ermöglichen es einem konkatinierten und komprimierten Code zurück zur Quelle zu mappen
 
-https://github.com/cujojs/wire
 
-http://css.dzone.com/articles/javascripts-two-zeros
 
-http://www.git-legit.org/
+### [Starbucks Styleguide &rarr;](http://www.starbucks.com/static/reference/styleguide/)
+Interssant und evtl. was zum abgucken: der Styleguide von Startbucks.
 
-http://jasonweaver.name/lab/offcanvas/
+### [Github Styleguide &rarr;](https://github.com/styleguide)
+Die Kollegen von Github haben auch einen kleinen Styleguide.
 
-http://www.youtube.com/watch?v=69Wjc6QYuKI Music Docu
+### [Kirby Styleguide Theme &rarr;](http://getkirby.com/blog/styleguides)
+Das exzellente CMS Kirby, nutzt den aktuellen Styleguide hype zu seinem Vorteil und stellt ein Theme zur Verfügung mit dem man sehr schnell seinen eigenen Styleguide erzeugen kann. 
 
-Proxtube for Chrome
 
-http://swagger.wordnik.com/
+### [Svbtle &rarr;](http://dcurt.is/codename-svbtle)
+> A couple of months ago, after being irritated by the complexity and uninspiring nature of most blogging platforms, […]
 
-http://www.backlift.com/index.html
+Aufgrund seiner Frustration mit bestehenden Blogging Platform hat Dustin Curtis eine überaus schöne Alternative geschaffen und nennt sie Svbtle. Die Applikation ist nicht offen und wurde sofort von einem [Dude auf Hacker News kopiert](http://natewienert.com/codename-obtvse), woraufhin ein Streit über Design-Copyright [auf Hacker News ausbrach](http://news.ycombinator.com/item?id=3744237). Svbtle ist und bleibt jedoch ein überaus interessantes Projekt. Es darf halt fast keiner mitmachen. Man kann sich [hier](http://svbtle.com/apply) bewerben und wenn man beweisen kann, dass man ein ernsthafter und guter Schreiber ist wird man vielleicht reingelassen. Was ich darüber hinaus noch interessant finde, ist der Fakt, dass die Platform Faktenprüfung, ähnlich wie es bei einer Zeitung sein sollte, mitliefert.
 
-http://srobbin.com/jquery-plugins/intelligist/
+### [Git Legit &rarr;](http://www.git-legit.org/)
+> Legit is a complementary command-line interface for Git, optimized for workflow simplicity. It is heavily inspired by GitHub for Mac.
 
-https://github.com/cowboy/grunt
+Ein Versuch Git-Befehler zu vereinfachen, nach dem Vorbild von Github für Mac.
+
+
+### [Grunt &rarr;](https://github.com/cowboy/grunt)
+> Grunt is a task-based command line build tool for JavaScript projects.
+
+Ein sehr schönes build Tool von @[cowboy](http://twitter.com/cowboy) von @[bocoup](http://twitter.com/bocoup). Aufgrund seiner sorgfältigen Programmierung und einer guten API, lässt sich Grunt um alle denkbaren Module erweitern und ist somit mit Sicherheit ein Anwärter auf die Position eines Quasi-Standards wenn es um Build-Tools für Node.js und das Frontend geht. 
+
+### [Multi-Device Layout Patterns &rarr;](http://www.lukew.com/ff/entry.asp?1514)
+
+LukeW der Kopf hiner "Mobile First" hat sich die Mühe gemacht um aus vielen Best Practices für responsive Layouts, die häufigsten Muster herauszudestillieren.
+
+>I combed through all the examples curated on the Media Queries gallery site several times. I looked for what high-level patterns showed up most frequently and tried to avoid defining separate patterns where there were only small differences.
+
+
+
+### [Rails.app &rarr;](http://www.kickstarter.com/projects/1397300529/railsapp)
+
+### [Subtle Sans &rarr;](http://www.subtlepatterns.com/subtlesans/)
+
+### [Maps Tower Defense &rarr;](http://www.mapstd.com/)
+
+
+### [HSL Picker &rarr;](http://hslpicker.com/#0095FF)
+
+### [The Industry &rarr;](http://theindustry.cc)
+
+### [Startups, this is how design works &rarr;](http://startupsthisishowdesignworks.com/)
+
+### [Foresight.js &rarr;](https://github.com/adamdbradley/foresight.js)
+
+### [Game Of Thrones Season 2 &rarr;](http://www.youtube.com/watch?v=rOzXsqoJhtE)
+
+### [Diskussion zu Flash und HTML5 feat. Peter Kröner &rarr;](https://plus.google.com/115813704442142647528/posts/gBVguobT6Ho)
+
+### [JS Resources &rarr;](http://wijmo.com/javascript-programming-resources/)
+
+### [If Twitter was invented in the 80s &rarr;](http://www.youtube.com/watch?feature=player_embedded&v=FCvidD5JKBg#!)

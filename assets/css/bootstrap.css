@@ -5997,6 +5997,7 @@ header {
   border-bottom: 0px solid #555555;
   background: #eeeeee;
   border-bottom: 1px solid #607890;
+  padding-bottom: 5px;
   position: fixed;
   width: 100%;
   top: 0;
@@ -6041,9 +6042,9 @@ header .subtitle {
   font-family: "PT Sans", "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 11px;
   font-weight: 300;
-  color: #607890;
+  color: #8b9eb2;
   position: absolute;
-  bottom: 5px;
+  top: 50px;
   left: 62px;
   margin: 0;
   line-height: 14px;
