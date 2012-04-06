@@ -6,7 +6,7 @@ Author: Kahlil Lechelt
 
 ----
 
-Description: Kirby is awesome
+Description: Famose Links für Frontend Developer, in unregelmässigen Abständen.
 
 ----
 
@@ -14,5 +14,5 @@ Keywords: links, webdev, nerdkram
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://kahlil.co text: Kahlil Lechelt) • [Impressum](/impressum) &bullet; Linktips an @[dieillstenLinks](http://twitter.com/dieillstenlinks)
+Copyright: © 2009-(date: Year) (link: http://kahlil.co text: Kahlil Lechelt) &bullet; Linktips an @[dieillstenLinks](http://twitter.com/dieillstenlinks) • [Impressum](/impressum)
 Gebaut mit [Kirby](http://getkirby.com) • Gehostet auf [Uberspace](http://uberspace.de) • Versioniert mit Git auf Uberspace
