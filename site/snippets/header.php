@@ -12,7 +12,7 @@
   <link rel="icon" href="<?php echo url('assets/img/favicon.png') ?>" type="image/png" />
   <link rel="apple-touch-icon" href="<?php echo u('assets/images/apple-touch-icon.png') ?>" />
 
-  <link href='http://fonts.googleapis.com/css?family=Lato:300,700|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700|Open+Sans:400italic,400,300' rel='stylesheet' type='text/css'>
 
 
   <?php echo css('assets/css/bootstrap.css') ?>
