@@ -4,7 +4,7 @@ Date: 15.02.2012
 ----
 Text: Willkommen zu einer neuen Ausgabe der illsten Links von neulich. Dieses mal sehr kurz gehalten, da die Illness neulich eher spärlich war aber dafür sind die paar Links hier besonders ill.
 
-_Den Newsletter habe ich übrigens erstmal eingestellt. Ist mir grad zu blöd beides am laufen zu halten. Ich poste es lieber einfach auf dem Blog. Ich werde den Newsletter aber weiter rausschicken mit Hinweis auf neue Blogposts. Wenn ihr darauf Bock habt gerne [hier](http://tinyletter.com/kahlil) anmelden._
+_Den Newsletter habe ich übrigens erstmal eingestellt. Ist mir grad zu blöd beides am laufen zu halten. Ich poste es lieber einfach auf dem Blog. Ich werde den Newsletter aber weiter rausschicken mit Hinweis auf neue Blogposts. Wenn ihr darauf Bock habt gerne [hier](/newsletter) anmelden._
 
 ### [Smashing Magazine Meetup #3 Videos &rarr;](http://vimeo.com/smashingmagazine)
 Paul Irish und Christian Heilmann haben auf dem Smashing Magazine Meetup in Stuttgart zwei sehr gute Vorträge gehalten und diese sind jetzt auf Vimeo.

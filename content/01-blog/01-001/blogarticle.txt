@@ -3,7 +3,7 @@ Title: Ausgabe 001: Sei der coolste in deiner Crew
 Date: 15.02.2012
 ----
 Text: Sei der coolste in deiner Crew und bleib auf dem laufenden mit den illsten Links in Webdevelopment!
-Diese Artikelreihe & [Newsletter](http://tinyletter.com/kahlil) will die Frage beantworten: Was sind gerade so die illsten Hyperlinks around?
+Diese Artikelreihe & [Newsletter](/newsletter) will die Frage beantworten: Was sind gerade so die illsten Hyperlinks around?
 Here we go:
 
 ### [jQuery Standards Team &rarr;](http://blog.jquery.com/2011/10/24/announcing-the-jquery-standards-team/)

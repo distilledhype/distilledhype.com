@@ -2,7 +2,7 @@ Title: Ausgabe 002: Neues aus der Welt des illen Hyperlinks
 ----
 Date: 15.02.2012
 ----
-Text: Freunde und Förderer des Hyperlinks, dies ist die berühmt, berüchtigte Artikelreihe und der Newsletter *Die illsten Links von neulich*. Abonniere den Newsletter [hier](http://tinyletter.com/kahlil) um in eurem Freundeskreis nahezu vergöttert zu werden, weil sie einfach nicht rausfinden können woher ihr diese illen Links schon so früh her habt! (True Story.)
+Text: Freunde und Förderer des Hyperlinks, dies ist die berühmt, berüchtigte Artikelreihe und der Newsletter *Die illsten Links von neulich*. Abonniere den Newsletter [hier](/newsletter) um in eurem Freundeskreis nahezu vergöttert zu werden, weil sie einfach nicht rausfinden können woher ihr diese illen Links schon so früh her habt! (True Story.)
 
 Heute bringe ich euch die zweite Ausgabe:
 
