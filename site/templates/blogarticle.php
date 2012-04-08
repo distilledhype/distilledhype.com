@@ -1,18 +1,22 @@
 <?php snippet('header') ?>
-<?php // snippet('menu') ?>
 
 <div class="container">
-<section class="blogarticle">
-  <article>
-    <h1><?php echo html($page->title()) ?></h1>
+    <div class="row">
+        <div class="span2">
+            <?php snippet('sidebarcontent') ?>
+        </div>
+        <div class="span5">
+            <section class="blogarticle">
+                <article>
+                    <h1><?php echo html($page->title()) ?></h1>
 
-    <div class="linkings">
-    	<?php echo kirbytext($page->text()) ?>
-	</div>
-    <a href="<?php echo url('blog') ?>" class="back">&larr; Zurück</a>
-
-  </article>
-</section>
-</div><!-- / -->
+                    <div class="linkings">
+                	   <?php echo kirbytext($page->text()) ?>
+            	   </div>
+                    <a href="<?php echo url('blog') ?>" class="back">&larr; Zurück</a>
+                </article>
+            </section>
+        </div>
+</div>
 
 <?php snippet('footer') ?>
