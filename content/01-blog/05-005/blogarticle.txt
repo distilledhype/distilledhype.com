@@ -23,7 +23,7 @@ NetTuts+ stellt in diesem Artikel eine sehr schöne Liste an Plugins und Extensi
 Morris.js ist eine kleine JavaScript Bibliothek, die jQuery und Raphaël verwendet um Zeitstrahl-Graphen einfach und hübsch darzustellen.
 
 ### [api.html5please.com →](http://api.html5please.com/)
-Unsere Lieblingsfrontendler (unter anderem auch @[drublic](http://twitter.com/drublic) von [Working Draft](http://workingdraft.de) Fame) haben mal wieder zugeschlagen und haben eine API gebaut über die man abfragen kann, ob der gerade benutzte Browser ein modernes Feature unterstützt und ermöglicht dann eine differenziertere Kommunikation an den Benutzer darüber welcher Browser denn verwendet werden müsste um dieses fantastische Feature zu benutzen.
+Unsere Lieblingsfrontendler (unter anderem auch @[drublic](http://drublic.de) von [Working Draft](http://workingdraft.de) Fame) haben mal wieder zugeschlagen und haben eine API gebaut über die man abfragen kann, ob der gerade benutzte Browser ein modernes Feature unterstützt und ermöglicht dann eine differenziertere Kommunikation an den Benutzer darüber welcher Browser denn verwendet werden müsste um dieses fantastische Feature zu benutzen.
 
 ### [Technitone Fallstudie →](http://www.html5rocks.com/en/tutorials/casestudies/technitone/)
 > Technitone.com is a fusion of WebGL, Canvas, Web Sockets, CSS3, Javascript, Flash, and the new Web Audio API in Chrome.
@@ -68,7 +68,7 @@ Professor Peter Kruse spricht über Kreativität und darüber wie sie in einem k
 
 
 
-### [Neue Webseite für Mercedes-Benz’ A-Klasse mit Backbone.js &rarr;](http://a-class.mercedes-benz.com/) via [@drublic](http://twitter.com/drublic)
+### [Neue Webseite für Mercedes-Benz’ A-Klasse mit Backbone.js &rarr;](http://a-class.mercedes-benz.com/) via [@drublic](http://drublic.de)
 Mercedes Benz präsentiert die neue A-Klasse mit einem One-Pager, der sich wirklich sehen lassen kann. Mit Backbone.js wurde hier eine moderne Webseite geschaffen, die auf der HTML5 Boilerplate, Modernizr und jQuery aufbaut. Quelltext anschauen!
 _Linksubmit und Beschreibung von [Hans-Christian Reinl](http://drublic.de)._
 
