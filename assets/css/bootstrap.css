@@ -6060,11 +6060,18 @@ a h3 a {
   font-size: 12px;
   line-height: 20px;
 }
-.blog article {
+article {
   background-color: transparent;
   margin-bottom: 30px;
 }
-.blog article h1 a {
+article h1 {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 48px;
+  color: #607890;
+}
+article h1 a {
   display: block;
   position: relative;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -6074,11 +6081,11 @@ a h3 a {
   color: #607890;
   text-transform: uppercase;
 }
-.blog article h1 a:hover {
+article h1 a:hover {
   text-decoration: none;
   color: #415262;
 }
-.blog article .morelink:hover {
+article .morelink:hover {
   color: #415262;
 }
 .blogarticle h1 {
