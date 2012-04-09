@@ -168,3 +168,17 @@ Lol.
 > Berlin. October 6th–7th (+/-2).
 
 Da will ich hin.
+
+### [EMBLR &rarr;](http://emberjs.tumblr.com/)
+> EMBLR, THE EMBER.JS TUMBLR
+
+Ember.js, das JavaScript MV* Framework von Yehuda Katz, nimmt stark an Fahrt auf. 
+Meines Erachtens hat das mit der fantastischen Dokumentation zu tun und mit dem Fakt das Ember.js einem viel mehr Entscheidungen abnimmt als beispielsweise Backbone.js.
+
+Von [emberjs.com](http://emberjs.com):
+> Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.
+
+Der Weg zum eigentlichen Erstellen einer komplexen JavaScript Applikation ist kürzer, da die Architektur, sowie eine klare Vorstellung wie vorzugehen ist, hier mitgeliefert wird. Inspiriert ist diese Herangehensweise von Ruby On Rails. Welche der beiden besser ist, daran scheiden sich die Geister. Man kommt aber nicht umhin zu bemerken das Ember stark im kommen ist. 
+
+Paul Irish hat nun, wohl aus eigenem Interesse, ein Tumblr aufgesetzt auf dem Ember.js-relevante Links gesammelt werden. Eigentlich eine echt coole Idee, warum macht das keiner für Backbone.js? Ich habe das Gefühl, dass Ember.js eventuell über eine höhere Zugänglichkeit verfügt, die auf grosses Interesse stösst. Backbone.js zu verstehen und dann auch erfolgreich anzuwenden erfordert einiges an Erfahrung oder Recherche an anderen Orten, Ember hingegen gibt einem das Meiste in einem praktischen Paket. 
+
