@@ -173,7 +173,7 @@ Da will ich hin.
 > EMBLR, THE EMBER.JS TUMBLR
 
 Ember.js, das JavaScript MV* Framework von Yehuda Katz, nimmt stark an Fahrt auf. 
-Meines Erachtens hat das mit der fantastischen Dokumentation zu tun und mit dem Fakt das Ember.js einem viel mehr Entscheidungen abnimmt als beispielsweise Backbone.js.
+Meines Erachtens hat das mit dem Fakt zu tun das Ember.js einem viel mehr Entscheidungen abnimmt als beispielsweise Backbone.js.
 
 Von [emberjs.com](http://emberjs.com):
 > Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.
