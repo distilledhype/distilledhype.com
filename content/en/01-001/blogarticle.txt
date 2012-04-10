@@ -2,20 +2,20 @@ title: Episode 001: A fresh start
 
 ----
 
-text: _Die illsten Links von neulich_ was a series of posts and a newsletter [in my blog](http://kahlil.co). But I decided to dicontinue this series for time reasons and because I was not sure if the links were needed anyway.
+text: _Die illsten Links von neulich_ was a series of posts [on my blog](http://kahlil.co) and a newsletter. Which I decided to discontinues due to time restrictions and doubt in the usefulness of that series.
 
-As I did not continue the series within several months I was asked about the release-date for the next post by people off and on. So I thought that I had *link*ed myself and the series to the heart of my (four to five) readers.
+After a couple of months I received a bunch of inquiries about when the next issue will come. That was when I realized I had successfully linked myself into the hearts of my (4 to 5) readers. 
 
-Now the series starts fresh with its own website, based on the overall really great [Kirby CMS](http://getkirby.com). This website is what you are currently looking at. And the best thing: The links are now available in German and English.
+So now the series starts fresh with its own website, built with the fantastic [Kirby CMS](http://getkirby.com) and Twitter Bootstrap. And the best thing: The links are now available in German and English.
 
-Also you can subscribe to the newsletter which is re-activated and can be found [over here](/newsletter).
+You can also subscribe to the newsletter which is re-activated and can be found [over here](/en/newsletter).
 
-Hopefully you've prepared some great coffee… Because these hyperlinks are enjoyed best on a morning with a cup of hot coffee!
+Hopefully you've prepared some great coffee… Because these hyperlinks are enjoyed best  in the morning with a hot cup of that delicious dark brew!
 
-Now, go on and have fun.
+So, here goes:
 
 ### [Essential Sublime Text 2 Plugins and Extensions →](http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions)
-NetTuts+ presents a decent list of plugins and extensions that you should know if you use Sublime Text 2. Some of them are essention for coding, I think!
+NetTuts+ presents a great list of Sublime Text 2 Plugins and Extensions. Some of those are absolutely essential for your daily coding needs!
 
 ### [Morris.js →](http://oesmith.github.com/morris.js/)
 > Making good-looking graphs shouldn't be hard.
@@ -23,7 +23,7 @@ NetTuts+ presents a decent list of plugins and extensions that you should know i
 Morris.js is a small JavaScript-Library that uses jQuery and Raphaël to present chronological timelines.
 
 ### [api.html5please.com →](http://api.html5please.com/)
-Some of our favorite front-end devs (including [Working Draft](http://workingdraft.de) colleague @[drublic](http://twitter.com/drublic)) put together an API that allows you to request the current browser's capability to handle modern features. If the browser does not support the requested features the API intellegently suggests other browsers to the user based on the device and the OS she/he is using.
+Some of our favorite front-end devs (including [Working Draft](http://workingdraft.de) colleague @[drublic](http://drublic.de)) put together an API that allows you to request the current browser's capability to handle modern features. If the browser does not support the requested features the API intellegently suggests other browsers to the user based on the device and the OS she/he is using.
 
 ### [Technitone Case Study →](http://www.html5rocks.com/en/tutorials/casestudies/technitone/)
 > Technitone.com is a fusion of WebGL, Canvas, Web Sockets, CSS3, Javascript, Flash, and the new Web Audio API in Chrome.
