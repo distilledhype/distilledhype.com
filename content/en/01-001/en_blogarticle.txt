@@ -2,7 +2,7 @@ title: Issue 001: A fresh start
 
 ----
 
-text: _Die illsten Links von neulich_ was a series of German posts [on my blog](http://kahlil.co) and a newsletter that distilled the latest high quality links in front-end development and general geekery from the the big river of information passing through in recent weeks and lists them with a little commentary. I decided to discontinue that series due to time restrictions and doubts in it's usefulness.
+text: _Die illsten Links von neulich_ was a series of German posts [on my blog](http://kahlil.co) and a newsletter that distilled the latest high quality links in front-end development and general geekery from the the relentless flood of information passing through in recent weeks and lists them with a little commentary. I decided to discontinue that series due to time restrictions and doubts in it's usefulness.
 
 After a couple of months I received a bunch of inquiries about when the next issue will come. That was when I realized I had successfully hyperlinked myself into the hearts of my (4 to 5) readers.
 
