@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <title>Distilled From Hype - <?php echo html($page->title()) ?></title>
+  <title>Distilled From The Hype - <?php echo html($page->title()) ?></title>
   <meta charset="utf-8" />
   <meta name="description" content="<?php echo html($site->description()) ?>" />
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
