@@ -7,7 +7,7 @@ text: _Die illsten Links von neulich_ was a series of German posts [on my blog](
 After a couple of months I received a bunch of inquiries about when the next issue will come. That was when I realized I had successfully hyperlinked myself into the hearts of my (4 to 5) readers.
 
 So now the series starts fresh with its own website, built with the fantastic [Kirby CMS](http://getkirby.com) and Twitter Bootstrap. But the biggest improvement must be, that they will be in English and German from now on, thanks to the help of [Hans](http://drublic.de).
-You can also subscribe to the newsletter which is re-activated and can be found [over here](/en/newsletter).
+You can also subscribe to the newsletter which is re-activated and can be found [over here](/newsletter).
 
 Hopefully you've prepared some great coffee… Because these hyperlinks are enjoyed best  in the morning with a hot cup of that delicious dark brew!
 
