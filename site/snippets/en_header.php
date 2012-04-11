@@ -22,6 +22,6 @@
 
 <body>
 	<header class="container header">
-    	<h1><a href="/en" id="header">Distilled From The Hype</a></h1>
+    	<h1><a href="/en" id="header">Distilled From Hype</a></h1>
         <p class="subtitle">Hyperlinks for front-end developers and geeks distilled from the latest hype</a></p>
 	</header>
