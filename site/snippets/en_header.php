@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
 
   <title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
@@ -22,6 +22,6 @@
 
 <body>
 	<header class="container header">
-    	<h1><a href="<?php echo url() ?>" id="header">Die illsten Links von neulich</a></h1>
-        <p class="subtitle">&#8222;Ill, iller, illest. Bombe!&#8221; - @<a href="https://twitter.com/#!/MadeMyDay/statuses/131845647333732352">mademyday</a></p>
+    	<h1><a href="/en" id="header" contenteditable>The sickest things people linked to recently</a></h1>
+        <p class="subtitle">Hyperlinks for front-end developers and geeks distilled from the latest hype</a></p>
 	</header>

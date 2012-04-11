@@ -14,5 +14,5 @@ Keywords: links, webdev, nerdkram
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://kahlil.co text: Kahlil Lechelt) &bullet; Linktips an @[dieillstenLinks](http://twitter.com/dieillstenlinks) • [Impressum](/impressum)
+Copyright: © 2009-(date: Year) (link: http://kahlil.co text: Kahlil Lechelt) &bullet; Linktips an @[dieillstenLinks](http://twitter.com/dieillstenlinks) • [English version](/en) • [Impressum](/impressum)
 Gebaut mit [Kirby](http://getkirby.com) • Gehostet auf [Uberspace](http://uberspace.de) • Versioniert mit Git auf Uberspace

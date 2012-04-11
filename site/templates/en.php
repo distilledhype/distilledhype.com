@@ -1,4 +1,4 @@
-<?php snippet('header') ?>
+<?php snippet('en_header') ?>
 
 <?php // snippet('menu') ?>
 
@@ -6,7 +6,7 @@
 
     <div class="row">
         <div class="span2">
-            <?php snippet('sidebarcontent') ?>
+            <?php snippet('en_sidebarcontent') ?>
         </div>
         <div class="span5">
 
@@ -27,4 +27,4 @@
 
 </section>
 
-<?php snippet('footer') ?>
+<?php snippet('en_footer') ?>
