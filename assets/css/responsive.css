@@ -92,7 +92,7 @@
   }
   .page-header h1 small {
     display: block;
-    line-height: 22px;
+    line-height: 24px;
   }
   input[type="checkbox"],
   input[type="radio"] {
@@ -137,7 +137,6 @@
   body {
     padding-left: 20px;
     padding-right: 20px;
-    padding-top: 100px;
   }
   .navbar-fixed-top {
     margin-left: -20px;
