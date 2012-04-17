@@ -1,0 +1,73 @@
+title: Ausgabe 006: For Realz
+
+----
+
+text: Wow. Turbulente Woche.
+
+
+### [Meteor.js &rarr;](http://www.meteor.com/)
+
+> Meteor is a set of new technologies for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
+
+Meteor basiert auf Node.js und ist Server- wie Clientseitig in JavaScript geschrieben. Es erlaubt es einem, sogenannte Realtime-Applikationen zu schreiben, die alle Clients automatisch updaten sobald es eine Änderung in der Datenbank gibt. MongoDB wird hier für die Datenpersistenz verwendet. Ein Clou dieses Frameworks ist, dass man über den Client selbst auf die Datenbank zugreifen kann. 
+
+Momentan befindet sich Meteor noch in "Rapid Development" und ist nicht produktiv nutzbar, es ist noch keine Form von Authentifizierung in das Framework eingebaut und dient wohl vorerst als Proof-Of-Concept. 
+
+"Rapid Development" bedeutet auch, dass sich die API des Frameworks, bis zur ersten stabilen Version, noch stark ändern kann. 
+
+Als Meteor Anfang letzter Woche auf [Hacker News landete](http://news.ycombinator.com/item?id=3824908), hat es sofort sehr viel Aufregung und Begeisterung generiert. Aber auch Fragen nach [Möglichkeiten zur Absicherung dieses Systems](http://tgriff3.tumblr.com/post/21025342161/how-can-client-side-databases-be-secure) ([HN](http://news.ycombinator.com/item?id=3839871)) und wie im Falle von Meteor, nach der [Sinnhaftigkeit der Verwendung der GPL-Lizenz](http://news.ycombinator.com/item?id=3836212). Gleichzeitig brachte diese Aufmerksamkeit andere Services bzw. Frameworks ans Tageslicht, die sehr ähnliche Funktionalitäten bieten und sich sogar in ähnlichen Entwicklungsstadien befinden: 
+
+* [Firebase](http://firebase.com)
+* [SpaceMagic](http://spacemagic.io)
+* [Derby.js](http://derbyjs.com)
+
+Die Leute von Derby.js haben auf vermehrte Anfrage hin einen Vergleich zwischen Derby und Meteor auf [ihrem Blog gepostet](http://blog.derbyjs.com/2012/04/14/our-take-on-derby-vs-meteor/), der sehr interessante Erklärungen enthält.
+
+Es poppt also plötzlich aus dem Nichts eine neue Klasse von Frameworks auf, die es ermöglicht ohne großen Aufwand Realtime-Webapplikationen zu erstellen. Ich kann nur eins sagen: 
+
+WANT!
+
+Nachdem ich den Vergleich zwischen Derby und Meteor gelesen habe, finde ich Derby vorerst interessanter und auch etwas durchdachter als Meteor. Aber letztendlich befinden sich alle diese Frameworks noch in der Entstehung und es gilt ein Auge auf alle zu haben.
+
+Sehr fett!
+
+### [Crockford: Principles of Security &rarr;](http://www.youtube.com/watch?v=zKuFu19LgZA)
+Interessanterweise erscheinte zeitgleich zu den Sicherheitsbedenken zu Meteor.js ein Video in dem Crockford über die Prinzipien der Sicherheit im Web spricht. 
+
+Crockford spricht darin über die grundsätzlichen Sicherheitsbedenken die das Web mit sich bringt und stellt dann als Lösung in JavaScript das Actor Model vor. 
+
+### [Kirby Toolkit 101 &rarr;](http://getkirby.com/blog/toolkit-101)
+Letzte Woche wurde mal wieder das Sprachdesign von PHP [kritisiert](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/). Da PHP trotz schlechtem Design unheimlich nützlich ist, gab es natürlich auch ein [paar Reaktionen](http://www.codinghorror.com/blog/2008/05/php-sucks-but-it-doesnt-matter.html) in [diesem Sinne](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html).
+
+Am besten hat mir jedoch Bastian Allgeiers Beitrag gefallen, sein Kirby Toolkit.
+Diese Toolkit ist ein Satz von Klassen die die Nutzung von alltäglichen Funktionalitäten in PHP stark vereinfacht. Die Funktionen sind einheitlich benannt, mächtiger und viel leichter zu merken.
+
+### [Light Table - A New IDE Concept &rarr;](http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/)
+> Light Table is based on a very simple idea: we need a real work surface to code on, not just an editor and a project explorer. We need to be able to move things around, keep clutter down, and bring information to the foreground in the places we need it most. 
+
+Sehr beeindruckend. Wegen dem regen Interesse hat sich daraus nun [ein Kickstarter Projekt](http://www.chris-granger.com/2012/04/15/light-tables-numbers/) entwickelt. Die IDE wird vorerst nur für JavaScript und Clojure entwickelt, wird aber durch Plugins für weitere Sprachen erweiterbar. 
+
+Ich freu mich schon auf die erste Version.
+
+### [Understanding MVVM &rarr;](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+> MVVM (Model View ViewModel) is an architectural pattern based on MVC and MVP, which attempts to more clearly separate the development of user-interfaces (UI) from that of the business logic and behaviour in an application.
+
+Addy Osmani, neuerdings von Google, hat mal wieder einen MV*-Artikel hingelegt. Diesmal geht um MVVM, das Design Pattern das beispielsweise von Knockout.js verwendet wird.
+
+### [YC Facelift: Flutter &rarr;](http://kyrobeshay.com/post/20950516669/yc-facelift-flutter)
+Im ersten Facelift schrieb Kyro: 
+> In an effort to refine my design skills, I’ve decided each week or so to redesign the landing page of a YC company I dig and whose website I don’t feel so similarly about.
+
+Mittlerweile ist er beim zweiten Facelift angekommen. Ein ganz cooles Experiment wie ich finde. 
+
+### [mag.js &rarr;](www.magjs.de)
+Die erste Ausgabe des deutschen JavaScript Onlinemagazins ist draussen.
+
+### [A New Baseline For Front-End Developers &rarr;](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
+> Here are a few things that I want to start expecting people to be familiar with, along with some resources you can use if you feel like you need to get up to speed.
+
+Frontend Development wird erwachsen und erfordert, wenn man es denn ernst meint, mittlerweile Kenntnisse über weit mehr Technologien und Tools als vor ein paar Jahren, Rebecca Murphy gibt hier einen Überblick. 
+
+### [Budnitz Bicycles &rarr;](http://37signals.com/svn/posts/3158-basecamp-behooves-boutique-bike-business)
+Ok das hier ist ein Link zu einem Werbevideo von 37signals Basecamp. Ich finde es allerdings verlinkenswert weil dieser Budnitz ein echt interessanter Typ ist und coole Bikes macht. 
+
