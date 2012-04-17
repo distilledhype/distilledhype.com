@@ -60,7 +60,7 @@ Im ersten Facelift schrieb Kyro:
 
 Mittlerweile ist er beim zweiten Facelift angekommen. Ein ganz cooles Experiment wie ich finde. 
 
-### [mag.js &rarr;](www.magjs.de)
+### [mag.js &rarr;](http://www.magjs.de)
 Die erste Ausgabe des deutschen JavaScript Onlinemagazins ist draussen.
 
 ### [A New Baseline For Front-End Developers &rarr;](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
