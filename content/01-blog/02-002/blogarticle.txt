@@ -2,7 +2,9 @@ title: Issue 002: For Realz
 
 ----
 
-text: ### [Meteor.js &rarr;](http://www.meteor.com/)
+text: Distilled From The Hype, the English version of "Die illsten Links von neulich" just moved to it's own domain. Here is the second issue directly from the link distillery.
+
+### [Meteor.js &rarr;](http://www.meteor.com/)
 
 > Meteor is a set of new technologies for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
 
