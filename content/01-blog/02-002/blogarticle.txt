@@ -1,137 +1,70 @@
-Title: Ausgabe 002: Neues aus der Welt des illen Hyperlinks
+title: Issue 002: For Realz
+
 ----
-Date: 15.02.2012
-----
-Text: Freunde und Förderer des Hyperlinks, dies ist die berühmt, berüchtigte Artikelreihe und der Newsletter *Die illsten Links von neulich*. Abonniere den Newsletter [hier](/newsletter) um in eurem Freundeskreis nahezu vergöttert zu werden, weil sie einfach nicht rausfinden können woher ihr diese illen Links schon so früh her habt! (True Story.)
 
-Heute bringe ich euch die zweite Ausgabe:
+text: ### [Meteor.js &rarr;](http://www.meteor.com/)
 
-### [Fieldrunners &rarr;](https://chrome.google.com/webstore/detail/lkpikhjbfbffdblahfidklcohlaeabak)
+> Meteor is a set of new technologies for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
 
-Paul Irish [tweetete](http://twitter.com/#!/paul_irish/status/128889391782436864) und linkte auf dieses Tower Defense Spiel das von Bocoup umgesetzt wurde. Bocoup ist eine eine kleine Armee an JavaScript Devs bei denen es sich durchaus lohnt [vorbei zu schauen](http://bocoup.com).
+Meteor is based on Node.js and is written in JavaScript for both the server and the client-side. This framework enables its user to write realtime-apps which means that all clients are updated automatically when a change in the database occures. MongoDB is used as the persistence-layer. One of the main features of this framework is the direct connection to the database from the client-side.
 
-### [JSConf.eu Videos &rarr;](http://blip.tv/jsconfeu)
+At the moment Meteor is under “rapid development” and not meant to be used in production as there is no means of authentication built into the framework yet. It seems like it is a proof-of-concept for now.
 
-[JSConf.eu](http://jsconf.eu) war vor kurzem in Berlin und ich war nicht dort, deshalb freue ich mich um so mehr über die Videos der Talks.
+The term “rapid development” meams that the API of this framework is still in a state of flux and will likely be changed often in the near future.
 
-### [Joss Crowcroft &rarr;](http://www.josscrowcroft.com/)
+When Meteor was published on [Hacker News](http://news.ycombinator.com/item?id=3824908) last week people talked about it eagerly and were delighted. But apart from that ,questions about [security issues](http://tgriff3.tumblr.com/post/21025342161/how-can-client-side-databases-be-secure) ([HN](http://news.ycombinator.com/item?id=3839871)) and solutions for them came up. Others questioned the usage of the [GPL-licence](http://news.ycombinator.com/item?id=3836212). Luckily this brought up the discussion of other frameworks in the same league as Meteor which are currently in the same state of development:
 
-Paul Irish, seines Zeichens Mitglied des Chrome Teams und exzellenter Frontend Dev ist auch extraklasse im Hyperlinken und verweiste neulich auf diese schönen Frontend Dev Blog mit zahlreichen Experimenten und Tutorials.
+* [Firebase](http://firebase.com)
+* [SpaceMagic](http://spacemagic.io)
+* [Derby.js](http://derbyjs.com)
 
-### [Color Scheme Designer &rarr;](http://colorschemedesigner.com/)
+After some requests, the devs of Derby.js published a comparison of Meteor and their approach [on their blog](http://blog.derbyjs.com/2012/04/14/our-take-on-derby-vs-meteor/), which bears some great insights.
 
-Zach Holman, der sehr lustige Mitarbeiter von Github hat mich mit seinem Artikel über Präsentationen für Developer inspiriert einen alten Link für Farbpalletten auszugraben. Ich als nicht-Designer brauche da nämlich solche Krücken und freue mich um so mehr, daß es sie gibt.
+As it turns out there is a new class of frameworks, which enables you to build realtime-web-apps in a short amount of time without a deep knowledge of this topic. All I can say is this:
 
-### [Hubot &rarr;](https://github.com/blog/968-say-hello-to-hubot)
+WANT!
 
-> Hubot is a library and an executable that wraps up all the logic of connecting to chat servers. Right now there are adapters for Campfire and IRC, but adding stuff like Hipchat or other services should be pretty trivial.
+After I have understood the difference between Derby and Meteor I think Derby is currently more thought-through and more interesting. But in the end all of these frameworks are still in development and all look very interesting.
 
-Als Riesenfan von der Art und Weise [wie GitHub arbeitet](http://zachholman.com/posts/how-github-works/) bin ich auch Fan von Hubot, der Chat-Roboter der eine sehr wichtige Rolle bei der Github'schen Arbeitsweise spielt. Er ist nun quelloffen.
+**Update:** Meteor just changed their [licensing to MIT](http://meteor.com/faq/how-is-meteor-licensed). In their latest newsletter update they also call for anybody to create a blog with Meteor that they will then use. They also give advice on how to secure the clients communication with the database for that purpose.
 
-### [iPhone 4S Slideshow Deconstructed &rarr;](http://johnbhall.com/iphone-4s/)
+### [Crockford: Principles of Security &rarr;](http://www.youtube.com/watch?v=zKuFu19LgZA)
+This in this video Douglas Crockford talkes about the principles of security in web development. Pretty interesting that this comes at the same time as the security-issues for Meteor.js arise.
 
-> The "phone stage" (blue-bordered box) contains all 6 "slides" of the animation sequence and has a transition css property with a duration and timing function (a cubic bezier curve).
+Crockford talks about general security concerns in web-design and presents a solution for this in JavaScript called the Actor Model.
 
-Diesen Link hatte ich in Episode 1 vergessen: Eine Analyse der CSS Transitions in der iPhone 4 Slideshow. Cool.
+### [Kirby Toolkit 101 &rarr;](http://getkirby.com/blog/toolkit-101)
+Once again the language design of PHP was [criticized](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) last week. Since PHP is still pretty useful, some people [reacted](http://www.codinghorror.com/blog/2008/05/php-sucks-but-it-doesnt-matter.html) [this way](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) and stood up for the language and its oddities.
 
-### [Lightning JS &rarr;](http://www.olark.com/spw/2011/10/lightningjs-safe-fast-and-asynchronous-third-party-javascript/)
+To me the best of all contributions is Bastian Allgeier’s Kirby Toolkit.
+It’s a set of classes which helps your daily usage of PHP by making functions that you use often more concise and very easy to remember.
 
-Diese kleine JavaScript Lib stellt eine verbesserte Lösung für asynchrones Laden von eingebettetem JavaScript dar. Es platziert die jeweiligen Skripte in einer sicheren Umgebung mit eigener window Instanz und verhindert das Blocken von document ready und window.onload Events durch die verschiedenen Bibliotheken..
+### [Light Table - A New IDE Concept &rarr;](http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/)
+> Light Table is based on a very simple idea: we need a real work surface to code on, not just an editor and a project explorer. We need to be able to move things around, keep clutter down, and bring information to the foreground in the places we need it most.
 
-### [5 questions with Paul Irish &rarr;](http://css-tricks.com/14727-five-questions-with-paul-irish/)
+Pretty impressive. This seems like un inevitable development. It is a totally new paradigm for an IDE and a long way to go, but exciting nevertheless.
 
-Und nochmal Paul Irish, der CSS-Gott Chris Coyier führt ein Mini-Interview mit ihm durch, sie besprechen u. a. die zukünftige Browserlandschaft und die Chrome Dev Tools. Chris  führt seine "5 questions with ..."-Reiche mit der griechisch-stämmigen Frontend Developerin Lea Verou weiter, die durch ihre CSS3 Experimente und Single-Page Apps hohe Aufmerksamkeit in der internationalen Frontend Dev Community genießt.
+### [Understanding MVVM &rarr;](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+> MVVM (Model View ViewModel) is an architectural pattern based on MVC and MVP, which attempts to more clearly separate the development of user-interfaces (UI) from that of the business logic and behaviour in an application.
 
-### [Learn to think like a Git &rarr;](http://think-like-a-git.net/)
+Addy Osmani, now of Google, has written another post about the MV*-patterns. This time he talks about MVVM which is the underlying pattern for Knockout.js for example.
 
-Git ist geil und hier kann man als Git-n00b tiefer in die Materie einsteigen.
+### [YC Facelift: Flutter &rarr;](http://kyrobeshay.com/post/20950516669/yc-facelift-flutter)
+Kyro writes about the first Facelift:
+> In an effort to refine my design skills, I’ve decided each week or so to redesign the landing page of a YC company I dig and whose website I don’t feel so similarly about.
 
-### [Gitbox &rarr;](http://www.gitboxapp.com/)
+This is the second facelift for a YC startup. I like these sort of experiments.
 
-Gleich hinterher ein neuer Git Client für Mac, sehr simpel gehalten mit praktischen Features.
+### [mag.js &rarr;](www.magjs.de)
+The first issue of the German JavaScript online-magazine is out now.
 
-### [Logos in CSS &rarr;](http://www.ecsspert.com/twitter.php)
+### [A New Baseline For Front-End Developers &rarr;](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
+> Here are a few things that I want to start expecting people to be familiar with, along with some resources you can use if you feel like you need to get up to speed.
 
-Hier hatte jemand definitiv zu viel Zeit. Reine CSS Logos mit tonnenweise Divs sind zwar schön aber leider Semantisch völlig wertlos, Lea Verou schlägt für solche Zwecke SVG vor, welches eigentlich für solche Zwecke gedacht ist.
+Front-end development has evolved and is “maturing”. If you are serious you will have to be comfortable with a lot more technologies now, than before. Rebecca presents a pretty round-up in her blog post.
 
-### [Stickyness &rarr;](http://m.spielzeugz.de/sticky/readme/)
+**Update:** She recently held a presentation about that topic in Berlin. You can find the slides of her talk [here](http://speakerdeck.com/u/rmurphey/p/a-new-baseline-for-front-end-devs).
 
-Sehr cooles Experiment, vor allem wenn man es mit einem Touch-Gerät testet.
+### [Budnitz Bicycles &rarr;](http://37signals.com/svn/posts/3158-basecamp-behooves-boutique-bike-business)
 
-### [JS H.264 Decoder &rarr;](https://plus.google.com/u/0/115813704442142647528/posts/KyXgQnC88SH) via [@sir_pepe](http://twitter.com/sir_pepe)
-
-Oh yeah!
-
-### [Banksimple &rarr;](https://banksimple.com/) & [Banksimple iPhone App &rarr;](http://www.fastcodesign.com/1665303/first-look-banksimples-iphone-app-aims-to-reimagine-your-money)
-
-Ok, Banksimple spielt für Deutschland erstmal keine Rolle, allerdings wollte ich mal Aufmerksamkeit darauf lenken, da die Idee einfach fett geil ist. Bin total gespannt auf Erfahrungsberichte.
-
-### [Punchd by Google &rarr;](http://getpunchd.com/)
-
-Die Datenkrake hat neue Tentakel :D
-
-### [Crockford on JS Code Style and your brain &rarr;](http://www.youtube.com/watch?v=cIOIyfRoGcM) via [javascriptweekly.com](http://javascriptweekly.com)
-
-Crockford ist der Autor von "JavaScript: The Good Parts" und es lohnt sich immer ihm zuzuhören.
-
-### [Schöner Tooltip &rarr;](http://jsfiddle.net/ryanseddon/EMhRJ/145/)
-
-### [Terse JavaScript &rarr;](http://james.padolsey.com/javascript/terse-javascript-101-part-1/)
-
-Eine Artikelreihe voller Tips darüber wie man schönen JS Code schreibt.
-
-### [Sisyphus JS &rarr;](http://simsalabim.github.com/sisyphus/) via [Smashing Magazine](http://smashingmagazine.com)
-
-Dieses Skript speichert Benutzereingaben in ein Formular regelmäßig im localStorage, so gehen die Eingaben auch nach einem Crash oder schließen der Browsersession nicht verloren. Das sollte jedes Formular haben!
-
-### [Responsive Web Comics &rarr;](http://defendini.com/bib/)
-
-Das find ich geil, hab selber schon über sowas nachgedacht. Interessant wäre ein Framework mit dem man leicht innerhalb eines responsive Designs Sprechblasen in Bildkästen für Comics unterbringen könnte. Sickness!
-
-### [Gitpad &rarr;](https://github.com/blog/975-gitpad-write-your-commits-in-notepad)
-
-Für Windows-User eine kleine .exe Datei die Notepad als Standardeditor für Git-Merges festlegt.
-
-### [Useful Coding & Workflow Tools for Webdesigners & Developers &rarr;](http://www.smashingmagazine.com/2011/10/28/useful-coding-workflow-tools-for-web-designers-developers/)
-
-Smashingmag haben mal in ihrer Followerschaft Dev Tools gecrowdsourced. Das Ergebnis lässt sich an Nützlichkeit kaum übertreffen.
-
-### [Lessons From a Review of JavaScript Code &rarr;](http://coding.smashingmagazine.com/2011/10/27/lessons-from-a-review-of-javascript-code/)
-
-Ein Repost von einem Code-Review Artikel von Addy Osmani, wie immer eine schier endlose Quelle an Tipps und Einsichten zu JavaScript Development.
-
-### [Jonathan Krause &rarr;](http://www.jonathan-krause.de/)
-
-Jonathan, der [meine Seite](http://kahlil.co) designed hat, hat seine Seite redesigned. Sieht heiß aus! Gebt ihm Props oder Jobs unter http://twitter.com/jonykrause!
-
-### [Deep into the frontend &rarr;](https://plus.google.com/113127438179392830442/posts/TuLrSEzh1AZ)
-
-Das sind mal richtig deepe Links... woah.
-
-### [Brunch IO &rarr;](http://brunch.io/)
-
-Oi! Ein Framework ganz nach meinem Geschmack: bestehend aus Frameworks. In den Tools trifft sich das Who ist Who der aktuellen JS Frameworks und vereinen sich zur perfekten Entwicklungsumgebung für komplexe JavaScript Apps.
-
-### [Paul Irish's open Tabs &rarr;](https://plus.google.com/113127438179392830442/posts/1xjUkhk9mFa)
-
-Was der Paule so liest. Ganz schön ill.
-
-### [Der ultimative Slider &rarr;](http://greweb.fr/slider/)
-
-Ein JS Slider der mit CSS Transitions, jQuery und Canvas arbeitet. Die Übergänge sind, vielfältig, unsagbar smooth und anscheinend unendlich anpassbar.
-
-### [Github Enterprise &rarr;](https://github.com/blog/978-introducing-github-enterprise)
-
-Github zum Selberhosten für große Firmen für $ 5000,-/Monat/20 User. Heeelllooo Sah!
-
-### [The Verge &rarr;](http://www.theverge.com/)
-
-Das neue Projekt von Joshua Topolsky (ehemals Editor in Chief bei [Engadget](http://engadget.com)) hat Style!
-
-### [Henry Waltz &rarr;](http://henrywaltz.com/)
-
-Ein Konzepttrailer.
-
-### [PressPausePlay &rarr;](http://www.presspauseplay.com/)
-
-> PressPausePlay, a documentary film containing interviews with some of the world's most influential creators of the digital era.
+Ok so this video is an ad for 37signals’ Basecamp. But since Basecamp is awesome I have no problem linking to it. The main reason I am doing that though is this Budnitz guy they are interviewing in the video. He is making beautiful stuffz and its interesting to see how people like him work.

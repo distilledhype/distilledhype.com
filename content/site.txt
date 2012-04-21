@@ -1,4 +1,4 @@
-﻿Title: Die illsten Links von neulich
+﻿Title: Distilled From The Hype
 
 ----
 
@@ -6,13 +6,13 @@ Author: Kahlil Lechelt
 
 ----
 
-Description: Famose Links für Frontend Developer, in unregelmässigen Abständen.
+Description: The most awesomest links for web devs.
 
 ----
 
-Keywords: links, webdev, nerdkram
+Keywords: links, webdev, nerdery, geekery
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://kahlil.co text: Kahlil Lechelt) &bullet; Linktips an @[dieillstenLinks](http://twitter.com/dieillstenlinks) • [English version](/en) • [Impressum](/impressum)
-Gebaut mit [Kirby](http://getkirby.com) • Gehostet auf [Uberspace](http://uberspace.de) • Versioniert mit Git auf Uberspace
+Copyright: © 2009-(date: Year) (link: http://kahlil.co text: Kahlil Lechelt) &bullet; Link tips to @[distilledhype](http://twitter.com/distilledhype) • [German version](http://dieillstenlinksvonneulich.de) • [Imprint (German)](http://dieillstenlinksvonneulich.de/impressum)
+Built with [Kirby](http://getkirby.com) • Hosted on [Uberspace](http://uberspace.de) • Versioned with Git on Uberspace

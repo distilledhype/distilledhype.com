@@ -4,7 +4,7 @@
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="de"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -29,6 +29,6 @@
 </head>
 <body>
 	<header class="container header">
-    	<h1><a href="<?php echo url() ?>" id="header">Die illsten Links von neulich</a></h1>
-        <p class="subtitle">&#8222;Ill, iller, illest. Bombe!&#8221; - @<a href="https://twitter.com/#!/MadeMyDay/statuses/131845647333732352">mademyday</a></p>
+    	<h1><a href="<?php echo url() ?>" id="header">Distilled From The Hype</a></h1>
+        <p class="subtitle">Hyperlinks for front-end developers and geeks distilled from the latest hype</p>
 	</header>

@@ -1,14 +1,14 @@
 <div class="coffeecup"><span>&#9749;</span></div>
 <ul class="vertical-nav">
-    <li>
-        <a href="/newsletter" title="Die neueste Ausgabe landet in deiner Mailbox bevor sie online geht.">
+    <!-- <li>
+        <a href="/newsletter" title="This newsletter get the newest issue to your mailbox before we post it online.">
             Newsletter
         </a>
+    </li> -->
+    <li>
+        <a href="http://twitter.com/distilledhype" title="Stay up to date, send us link tips and holler.">@distilledhype</a>
     </li>
     <li>
-        <a href="http://twitter.com/dieillstenlinks" title="Bleib auf dem Laufenden, sprich mit uns und schick uns Linktipps!">@dieillstenlinks</a>
-    </li>
-    <li>
-        <a href="mailto:hallo@dieillstenlinksvonneulich.de" title="Schick uns Feedback oder Linktipps.">Kontakt</a>
+        <a href="mailto:hi@distilledfromthehype.com" title="Send us feedback or link tips">Contact</a>
     </li>
 </ul>
