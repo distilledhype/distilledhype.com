@@ -15,4 +15,4 @@ Keywords: links, webdev, nerdery, geekery
 ----
 
 Copyright: © 2009-(date: Year) (link: http://kahlil.co text: Kahlil Lechelt) &bullet; Link tips to @[distilledhype](http://twitter.com/distilledhype) • [German version](http://dieillstenlinksvonneulich.de) • [Imprint (German)](http://dieillstenlinksvonneulich.de/impressum)
-Built with [Kirby](http://getkirby.com) • Hosted on [Uberspace](http://uberspace.de) • Versioned with Git on Uberspace
+Built with [Kirby](http://getkirby.com) • Hosted on [Uberspace](http://uberspace.de) • All articles translated by [Hans](http://drublic.de) and edited by [Kahlil](http://kahlil.co)
