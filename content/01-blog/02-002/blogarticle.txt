@@ -26,7 +26,7 @@ As it turns out there is a new class of frameworks, which enables you to build r
 
 WANT!
 
-After I have understood the difference between Derby and Meteor I think Derby is currently more thought-through and more interesting. But in the end all of these frameworks are still in development and all look very interesting.
+After I understood the difference between Derby and Meteor I think Derby is currently more thought through. But at the end of the day all of these frameworks are still in development and all look very interesting.
 
 **Update:** Meteor just changed their [licensing to MIT](http://meteor.com/faq/how-is-meteor-licensed). In their latest newsletter update they also call for anybody to create a blog with Meteor that they will then use. They also give advice on how to secure the clients communication with the database for that purpose.
 
@@ -70,3 +70,14 @@ Front-end development has evolved and is “maturing”. If you are serious you 
 ### [Budnitz Bicycles &rarr;](http://37signals.com/svn/posts/3158-basecamp-behooves-boutique-bike-business)
 
 Ok so this video is an ad for 37signals’ Basecamp. But since Basecamp is awesome I have no problem linking to it. The main reason I am doing that though is this Budnitz guy they are interviewing in the video. He is making beautiful stuffz and its interesting to see how people like him work.
+
+### [Todo MVC Labs &rarr;](http://addyosmani.github.com/todomvc/labs/)
+> TodoMVC Labs showcases sample Todo applications for frameworks that have just been released or are still awaiting consideration for inclusion in TodoMVC.
+
+### [HN Pod &rarr;](http://hnpod.com/episodes/kickstarter-raspberry-pi-instagram?hn=1)
+> I want to listen to a half-hour podcast discussing the week's [top HN stories](http://news.ycombinator.com/best).
+>
+> There isn't one.
+>
+> So I'm making it.
+
