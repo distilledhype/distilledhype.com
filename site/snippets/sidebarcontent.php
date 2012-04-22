@@ -11,4 +11,7 @@
     <li>
         <a href="mailto:hi@distilledfromthehype.com" title="Send us feedback or link tips">Contact</a>
     </li>
+    <li>
+        <a href="http://feeds.feedburner.com/DistilledFromTheHype" title="Get the feed.">RSS</a>
+    </li>
 </ul>
