@@ -6,7 +6,8 @@ snippet('feed', array(
   'link'  => url('blog'),
   'items' => $articles,
   'descriptionField'  => 'text',
-  'descriptionLength' => 300
+  'descriptionLength' => 300,
+  'descriptionExcerpt' => false
 ));
 
 ?>
