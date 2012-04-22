@@ -23,6 +23,8 @@ http://getkirby.com/license
 
 c::set('license', '41b969e31ae76c1eff2117d26ff01d33');
 
+// Markdown Extra setup
+c::set('markdown.extra', true);
 
 /*
 
