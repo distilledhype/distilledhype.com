@@ -2,7 +2,7 @@ title: Issue 003: Mostly Tools
 
 ----
 
-text: This is full of tools and zero drama. Enjoy.
+text: This issue is full of tools and zero drama. Enjoy.
 
 ### [Chrome Dev Tools - monitorEvents &rarr;](http://www.briangrinstead.com/blog/chrome-developer-tools-monitorevents)
 Neat little article that shows how to monitor events in the browser via the Chrome Dev Tools.
