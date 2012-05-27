@@ -7,8 +7,6 @@ text: This issue is full of tools and zero drama. Enjoy.
 ### [Chrome Dev Tools - monitorEvents &rarr;](http://www.briangrinstead.com/blog/chrome-developer-tools-monitorevents)
 Neat little article that shows how to monitor events in the browser via the Chrome Dev Tools.
 
-http://net.tutsplus.com/tutorials/tools-and-tips/lightning-fast-folder-and-file-creation-in-sublime-text-2/
-
 ### [Github Play &rarr;](http://zachholman.com/talk/play )
 > GO OUT OF YOUR WAY TO TRY NEW TECHNIQUES
 
