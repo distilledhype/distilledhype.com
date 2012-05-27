@@ -2,6 +2,6 @@
 
 ----
 
-Text: Abonniere den Newsletter wenn Du die neueste Ausgabe zugeschickt bekommen möchtest, kurz bevor sie online gepostet wird.
+Text: Subscribe to this newsletter if you want the newest issue in your inbox right before it gets posted online.
 
-<form style="padding:3px;text-align:center;" action="https://tinyletter.com/dieillstenlinksvonneulich" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/dieillstenlinksvonneulich', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">E-Mail Adresse eintragen</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Abonnieren" /><p><a href="https://tinyletter.com" target="_blank">gepowered von TinyLetter</a></p></form>
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/distilledhype" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/distilledhype', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
