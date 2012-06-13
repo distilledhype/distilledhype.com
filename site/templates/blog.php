@@ -25,13 +25,16 @@
 
             <?php elseif($article->template() == 'article.link'): ?>
 
-                 <h1>
-                    <a href="<?php echo $article->link() ?>">
-                    <?php echo html($article->title()) ?> &rarr;</a>
-                </h1>
+                <article class="linkpost">
+                    <h1>
+                        <a href="<?php echo $article->link() ?>">
+                        <?php echo html($article->title()) ?> &#8674;</a>
+                    </h1>
 
-                <article><?php echo kirbytext($article->text()) ?></article>
-                <a href="<?php echo $article->url() ?>" class="morelink">link post &#8250;</a>
+                    <?php echo kirbytext($article->text()) ?>
+
+                    <a href="<?php echo $article->url() ?>" class="morelink">&#9749;</a>
+                </article>
 
             <?php elseif($article->template() == 'article.video'): ?>
 
