@@ -21,11 +21,17 @@
                 </h1>
 
                 <p><?php echo excerpt($article->text(), 250) ?></p>
-                <a href="<?php echo $article->url() ?>" class="morelink">mehr &rarr;</a>
+                <a href="<?php echo $article->url() ?>" class="morelink">more &rarr;</a>
 
             <?php elseif($article->template() == 'article.link'): ?>
 
-            <!-- put the HTML for the video post here -->
+                 <h1>
+                    <a href="<?php echo $article->link() ?>">
+                    <?php echo html($article->title()) ?> &rarr;</a>
+                </h1>
+
+                <article><?php echo kirbytext($article->text()) ?></article>
+                <a href="<?php echo $article->url() ?>" class="morelink">link post &rarr;</a>
 
             <?php elseif($article->template() == 'article.video'): ?>
 
