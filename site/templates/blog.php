@@ -31,7 +31,7 @@
                 </h1>
 
                 <article><?php echo kirbytext($article->text()) ?></article>
-                <a href="<?php echo $article->url() ?>" class="morelink">link post &rarr;</a>
+                <a href="<?php echo $article->url() ?>" class="morelink">link post &#8250;</a>
 
             <?php elseif($article->template() == 'article.video'): ?>
 
