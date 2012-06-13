@@ -1,4 +1,4 @@
-﻿Title: Distilled From The Hype
+﻿Title: Distilled Hype
 
 ----
 
@@ -6,7 +6,7 @@ Author: Kahlil Lechelt
 
 ----
 
-Description: The most awesomest links for web devs.
+Description: Hyperlinks for front-end developers and geeks distilled from the latest hype by Kahlil Lechelt
 
 ----
 
