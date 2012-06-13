@@ -21,7 +21,7 @@
                 </h1>
 
                 <p><?php echo excerpt($article->text(), 250) ?></p>
-                <a href="<?php echo $article->url() ?>" class="morelink">more &rarr;</a>
+                <a href="<?php echo $article->url() ?>" class="morelink">more &#8250;</a>
 
             <?php elseif($article->template() == 'article.link'): ?>
 

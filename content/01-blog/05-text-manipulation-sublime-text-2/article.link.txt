@@ -1,0 +1,11 @@
+title: Text Manipulation & ST2
+
+----
+
+link: http://whiletruecode.com/post/7-handy-text-manipulation-tricks-sublime-text-2
+
+----
+
+text: > Here are 7 of my favorite Sublime features that take the tedium out of coding.
+
+If you are a heavy Sublime Text 2 user like me (just bought my license yesterday :), you might appreciate this article a lot. I know I did.
