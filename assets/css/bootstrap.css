@@ -5916,24 +5916,7 @@ html {
 body {
   min-height: 100%;
   background-color: #fbfbfb;
-  background-color: #f3f3f3;
-  background-image: -moz-linear-gradient(top, #f6f6f6, #eeeeee);
-  background-image: -ms-linear-gradient(top, #f6f6f6, #eeeeee);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f6f6f6), to(#eeeeee));
-  background-image: -webkit-linear-gradient(top, #f6f6f6, #eeeeee);
-  background-image: -o-linear-gradient(top, #f6f6f6, #eeeeee);
-  background-image: linear-gradient(top, #f6f6f6, #eeeeee);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#eeeeee', GradientType=0);
-  background-color: #f3f3f3;
-  background-image: -moz-linear-gradient(top, #f6f6f6, #eeeeee);
-  background-image: -ms-linear-gradient(top, #f6f6f6, #eeeeee);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f6f6f6), to(#eeeeee));
-  background-image: -webkit-linear-gradient(top, #f6f6f6, #eeeeee);
-  background-image: -o-linear-gradient(top, #f6f6f6, #eeeeee);
-  background-image: linear-gradient(top, #f6f6f6, #eeeeee);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#eeeeee', GradientType=0);
+  background-image: url(/assets/img/bg_clean_textile.png);
 }
 li {
   margin-bottom: 5px;
