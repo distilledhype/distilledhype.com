@@ -12,6 +12,9 @@
 
             <?php foreach($page->children()->visible()->flip() as $article): ?>
             <article>
+
+            <?php if($article->template() == 'article.text'): ?>
+
                 <h1>
                     <a href="<?php echo $article->url() ?>">
                     <?php echo html($article->title()) ?></a>
@@ -19,6 +22,25 @@
 
                 <p><?php echo excerpt($article->text(), 250) ?></p>
                 <a href="<?php echo $article->url() ?>" class="morelink">mehr &rarr;</a>
+
+            <?php elseif($article->template() == 'article.link'): ?>
+
+            <!-- put the HTML for the video post here -->
+
+            <?php elseif($article->template() == 'article.video'): ?>
+
+            <!-- put the HTML for the video post here -->
+
+            <?php elseif($article->template() == 'article.image'): ?>
+
+            <!-- put the HTML for the image post here -->
+
+            <?php elseif($article->template() == 'article.quote'): ?>
+
+            <!-- put the HTML for the quote post here -->
+
+            <?php endif ?>
+
             </article>
             <?php endforeach ?>
 
