@@ -6117,3 +6117,9 @@ footer a {
 footer a:hover {
   color: #6f6f6f;
 }
+.preload * {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+}
