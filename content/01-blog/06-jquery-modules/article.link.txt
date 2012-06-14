@@ -6,4 +6,12 @@ link: https://github.com/jquery/jquery#modules-new-in-18
 
 ----
 
-text: In jQuery 1.8 you will be able to exclude certain parts of it and build your custom jQuery with Grunt.js. Sweet.
+text: > Starting in jQuery 1.8, special builds can now be created that optionally exclude or include any of the following modules:
+>
+> * ajax
+> * css
+> * dimensions
+> * effects
+> * offset
+
+In jQuery 1.8 you will be able to build your custom jQuery with Grunt.js. Sweet. Grunt ftw!!!1!
