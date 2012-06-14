@@ -6,5 +6,5 @@
 # docs: http://getkirby.com/panel/accounts
 
 username: kahlil
-password: lechelt
+password: pureinsanity.howisthispasswordstoredastxt?
 language: de
