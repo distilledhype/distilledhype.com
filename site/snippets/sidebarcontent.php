@@ -1,10 +1,6 @@
-<div class="coffeecup"><span>&#9749;</span></div>
+<!-- <div class="coffeecup"><span>&#9749;</span></div> -->
+<div class="coffeecup"><img src="/assets/img/coffeecup.png" alt="Coffee cup"></div>
 <ul class="vertical-nav">
-    <!-- <li>
-        <a href="/newsletter" title="This newsletter get the newest issue to your mailbox before we post it online.">
-            Newsletter
-        </a>
-    </li> -->
     <li>
         <a href="http://twitter.com/distilledhype" title="Stay up to date, send us link tips and holler.">@distilledhype</a>
     </li>

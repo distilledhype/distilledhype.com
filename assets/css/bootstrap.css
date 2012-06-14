@@ -6071,6 +6071,12 @@ article h1 a:hover {
 article .morelink:hover {
   color: #415262;
 }
+.blog .linkpost h1 {
+  margin-bottom: 10px;
+}
+.blog .linkpost .morelink {
+  font-size: 26px;
+}
 .blogarticle h1 {
   color: #607890;
   padding: 0px 0 20px 0;
@@ -6091,6 +6097,10 @@ article .morelink:hover {
 .blogarticle h3 a:hover {
   background: transparent;
   color: #607890;
+}
+.linkpost .blogarticle h1 {
+  padding-bottom: 0;
+  margin-bottom: 10px;
 }
 footer {
   margin: 20px;
