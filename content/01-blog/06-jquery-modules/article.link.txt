@@ -1,0 +1,9 @@
+title: jQuery can haz modules
+
+----
+
+link: https://github.com/jquery/jquery#modules-new-in-18
+
+----
+
+text: In jQuery 1.8 you will be able to exclude certain parts of it and build your custom jQuery with Grunt.js. Sweet.
