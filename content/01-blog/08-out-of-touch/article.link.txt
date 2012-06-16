@@ -1,0 +1,29 @@
+﻿Title: Out of Touch
+
+----
+
+Link: http://blogs.adobe.com/bparadie/2012/05/07/the-pew-pew-manifesto/
+
+----
+
+Text: Actually, this article contains a few good points. A few good points that are widely known and promoted within the web development community. Things like "minify your code" and "make your app work everywhere, have fallbacks". But on the points where this article tries to be controversial it shows how Adobe is out of touch with where modern JavaScript development stands today.
+
+> JavaScript is not suitable for large web apps.
+
+A very misleading headline. What he is really trying to say is that he doesn't like to program with JavaScript but that JavaScript is perfectly suitable and the best option to build large web apps with. I guess it makes sense for them to propagate the lie that the JavaScript not language enough to build large apps on. They used to make (a big chunk of) money off of the illusion that you need very expensive tools to make cool stuff on the web.
+
+Here a few quotes that show the level of out-of-touchness:
+
+> I don’t know why but JavaScript programmers tend to put all of their code into few files.
+
+Appearantly nobody over there knows of AMD and other dependency management tools, Dojo, MV* frameworks and so on.
+
+> JavaScript is the browser’s assembly language.
+
+Of course Adobe would love for people to think that, so they can make a lot of money with a bunch of tools that compile shit to JavaScript.
+
+> Optimized JavaScript is obfuscated and protects your intellectual property. [...] deploying a product that does not reveal the ideas of your source code.
+
+Wow. Just wow. Yes, yes, please keep all our genius ideas secret through this amazing secret obfuscation technique that can't be de-obfuscated in the Google Chrome Dev Tools with one click (NOT!). Sure the variables would have one letter names, but it still would be easy to study the code if I really really wanted to...  
+Besides, a developer that knows what she is doing will absolutely optimize and minify her code to improve performance but they will also often open source their code or parts of it as well as post tutorials and ideas on their blog to help other people do cool shit.  
+That is how the web works and that's why it is winning. And companies that get that, tend to be successful and actually profit of the exchange with the web development community.
