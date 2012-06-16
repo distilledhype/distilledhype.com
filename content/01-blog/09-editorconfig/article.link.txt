@@ -1,0 +1,11 @@
+﻿Title: EditorConfig
+
+----
+
+Link: http://editorconfig.org/
+
+----
+
+Text: > [...] define and maintain consistent coding styles between different editors and IDEs.
+
+I just found out about this. Very cool. Have your EditorConfig file and your grunt.js file in your version control and boom, any team member has their build process and their editor configuration up and running with the first checkout.
