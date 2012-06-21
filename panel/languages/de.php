@@ -100,7 +100,7 @@ l::set(array(
   'pages.add.success' => 'Die Seite wurde angelegt',
 
   // update page
-  'pages.update.errors.title' => 'Bitte geben Sie einen Titel ein',
+  'pages.update.errors' => 'Bitte füllen Sie alle Felder korrekt aus',
      
   // delete page  
   'pages.delete.title' => 'Diese Seite löschen',
@@ -146,6 +146,7 @@ l::set(array(
   'files.edit.title' => 'Datei bearbeiten',
   'files.edit.filename' => 'Dateiname (ohne Erweiterung)',
   'files.edit.button' => 'Speichern',
+  'files.edit.errors.filename' => 'Der Dateiname ist ungültig',
   'files.edit.errors.notfound' => 'Die Datei wurde nicht gefunden',
   'files.edit.errors.exists' => 'Der Dateiname besteht bereits',
   'files.edit.errors.permissions' => 'Die Datei konnte nicht umbenannt werden',
@@ -187,6 +188,25 @@ l::set(array(
   'writer.errors.write' => 'Die Daten konnten nicht gespeichert werden',
   'writer.success' => 'Die Daten wurden gespeichert',
 
-));
+  // form buttons
+  'form.buttons.h1' => 'h1',
+  'form.buttons.h2' => 'h2',
+  'form.buttons.h3' => 'h3',
+  'form.buttons.bold' => 'fett',
+  'form.buttons.bold.sample' => 'fetter text',
+  'form.buttons.italic' => 'kursiv',
+  'form.buttons.italic.sample' => 'kursiver text',
+  'form.buttons.link' => 'link',
+  'form.buttons.email' => 'email',
 
-?>
+  'form.overlay.link.title' => 'Link einfügen',
+  'form.overlay.link.link' => 'Link',
+  'form.overlay.link.text' => 'Link Text (optional)',
+  'form.overlay.link.button' => 'Link einfügen',
+
+  'form.overlay.email.title' => 'Email einfügen',
+  'form.overlay.email.link' => 'Email Adresse',
+  'form.overlay.email.text' => 'Link Text (optional)',
+  'form.overlay.email.button' => 'Email einfügen',
+  
+));

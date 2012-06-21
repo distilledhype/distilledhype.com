@@ -2,6 +2,8 @@
 
 if(!defined('KIRBY')) die('Direct access is not allowed');
 
+snippet('header');
+
 $action = action::updateSiteinfo();
 $check  = check::infoIsWritable();
 
@@ -15,7 +17,6 @@ $check  = check::infoIsWritable();
 
     <fieldset class="bottom">
       <div class="buttons">
-        <input class="cancel" type="submit" name="cancel-update-info" value="<?php echo l::get('cancel') ?>" />
         <input type="submit" name="update-info" value="<?php echo l::get('siteinfo.button') ?>" />
       </div>
     </fieldset>
@@ -29,3 +30,5 @@ $check  = check::infoIsWritable();
   <?php endif ?>
     
 </div>
+
+<?php snippet('footer') ?>

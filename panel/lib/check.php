@@ -44,7 +44,16 @@ class check {
   }
   
   static function infoIsWritable() {
-    $file = c::get('root.content') . '/site.txt';
+    
+    if(c::get('lang.support')) {
+      $file = c::get('root.content') . '/site.' . c::get('lang.current') . '.txt';
+      if(!file_exists($file)) {
+        return (!is_writable(dirname($file))) ? false : true;
+      }
+    } else {
+      $file = c::get('root.content') . '/site.txt';      
+    }
+    
     return (is_writable($file)) ? true : false;
   }
   
@@ -91,8 +100,11 @@ class check {
       'password' => 'adminpassword',
       'language' => 'en'
     ); 
-    
+            
     foreach($files as $file) {
+      
+      if(f::extension($file) != 'php') continue;
+    
       $username = f::name($file);
       $user     = user::load($username);
       $diff     = array_diff($user, $default);
@@ -107,10 +119,8 @@ class check {
     return (c::get('version.number') < c::get('panel.min.kirby.version')) ? true : false;
   }
 
-  static function disabledRewrite() {
-    return (c::get('rewrite') == false) ? true : false;
+  static function wrongPanelVersion() {
+    return (c::get('panel.version.number') < c::get('panel.min.version')) ? true : false;
   }
 
 }
-
-?>

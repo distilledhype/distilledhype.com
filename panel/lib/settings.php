@@ -9,7 +9,7 @@ class settings extends obj {
 
     global $page;
 
-    $name   = (!$page->content || !$page->content->name) ? c::get('tpl.default') : $page->content->name;
+    $name   = (!$page->intendedTemplate) ? c::get('tpl.default') : $page->intendedTemplate;
     $params = self::load($name); 
 
     // handle defaults
@@ -80,10 +80,11 @@ class settings extends obj {
       $params['fields'] = array_merge($title, $params['fields']);      
                       
     }
-
+    
+    // the title is always required    
+    $params['fields']['title']['required'] = true;
     return $params;
+
   }
   
 }
-
-?>

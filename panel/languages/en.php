@@ -63,8 +63,8 @@ l::set(array(
   'nocontent.text' => 'There\'s no content for this page available.',
     
   // pages
-  'pages.title' => 'Visible pages',
-  'pages.title.home' => 'Pages',
+  'pages.title' => 'Visible subpages',
+  'pages.title.home' => 'Visible pages',
   'pages.home' => 'Home',
   'pages.sort' => 'Sort',
   'pages.add' => 'Add',
@@ -100,7 +100,7 @@ l::set(array(
   'pages.add.success' => 'The page has been created',
 
   // update page
-  'pages.update.errors.title' => 'Please add a title',
+  'pages.update.errors' => 'Please fill out all fields correctly',
     
   // delete page  
   'pages.delete.title' => 'Delete this page',
@@ -120,9 +120,9 @@ l::set(array(
   'options.errors.homepage' => 'You cannot change the URL of the homepage',
   'options.errors.errorpage' => 'You cannot change the URL of the error page',
   'options.errors.characters' => 'Please only use the following characters a-z, 0-9, _, -',
-  'options.errors.permissions' => 'The the content directory cannot be moved',
+  'options.errors.permissions' => 'The content directory cannot be moved',
   'options.errors.exists' => 'The new URL already exists',
-  'options.errors.move' => 'The the content directory cannot be moved',
+  'options.errors.move' => 'The content directory cannot be moved',
 
   // files
   'files.title' => 'Files',
@@ -139,15 +139,16 @@ l::set(array(
   'files.delete.title' => 'Delete this file',
   'files.delete.button' => 'Delete',
   'files.delete.errors.notfound' => 'The file could not be found',
-  'files.delete.errors.permissions' => 'The file could not be delete',
+  'files.delete.errors.permissions' => 'The file could not be deleted',
   'files.delete.success' => 'The file has been deleted',
 
   // edit file
   'files.edit.title' => 'Edit file',
   'files.edit.filename' => 'Filename (without extension)',
   'files.edit.button' => 'Save',
+  'files.edit.errors.filename' => 'Please enter a valid filename',
   'files.edit.errors.notfound' => 'The file could not be found',
-  'files.edit.errors.exists' => 'The the new name already exists',
+  'files.edit.errors.exists' => 'The new name already exists',
   'files.edit.errors.permissions' => 'The file could not be renamed',
   'files.edit.success' => 'The file has been saved',
 
@@ -187,6 +188,25 @@ l::set(array(
   'writer.errors.write' => 'The data could not be added',
   'writer.success' => 'The file has been saved',
   
-));
+  // form buttons
+  'form.buttons.h1' => 'h1',
+  'form.buttons.h2' => 'h2',
+  'form.buttons.h3' => 'h3',
+  'form.buttons.bold' => 'bold',
+  'form.buttons.bold.sample' => 'bold text',
+  'form.buttons.italic' => 'italic',
+  'form.buttons.italic.sample' => 'italic text',
+  'form.buttons.link' => 'link',
+  'form.buttons.email' => 'email',
 
-?>
+  'form.overlay.link.title' => 'Insert Link',
+  'form.overlay.link.link' => 'Link',
+  'form.overlay.link.text' => 'Link Text (optional)',
+  'form.overlay.link.button' => 'Insert Link',
+
+  'form.overlay.email.title' => 'Insert Email',
+  'form.overlay.email.link' => 'Email Address',
+  'form.overlay.email.text' => 'Link Text (optional)',
+  'form.overlay.email.button' => 'Insert Email',
+  
+));

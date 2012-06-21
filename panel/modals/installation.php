@@ -3,7 +3,7 @@
 // direct access protection
 if(!defined('KIRBY')) die('Direct access is not allowed');
 
-if(check::disabledRewrite()) {  
+if(check::wrongPanelVersion()) {  
   $step = 4;
 } else if(check::wrongKirbyVersion()) {  
   $step = 3;
@@ -157,22 +157,21 @@ language: en
 
 You are running an old version of the Kirby core. 
 Please upgrade to the latest version to make the panel work. 
+<br />
+<br />
+Minimum requirement: <a href="http://getkirby.com/downloads"><strong>Kirby CMS <?php echo c::get('panel.min.kirby.version') ?></strong></a><br />
+Your Version: <strong>Kirby CMS <?php echo c::get('version.number') ?></strong>
 
 <?php elseif($step == 4): ?>
 
-<h2>Enable Rewrite</h2>
+<h2>Update the Panel</h2>
 
-The Kirby Panel requiers <strong>mod_rewrite</strong> to be enabled. 
-Make sure to setup your .htaccess correctly and to set…
+You are running an old version of the Kirby Panel, which does not work well with Kirby CMS. 
+Please upgrade to the latest version to make the panel work. 
 <br />
 <br />
-<code>
-<pre>
-c::set('rewrite', true);
-</pre>
-</code>
-
-…in site/config/config.php
+Minimum requirement: <a href="http://getkirby.com/downloads"><strong>Kirby Panel <?php echo c::get('panel.min.version') ?></strong></a><br />
+Your Version: <strong>Kirby Panel <?php echo c::get('panel.version.number') ?></strong>
 
 <?php endif ?>
 

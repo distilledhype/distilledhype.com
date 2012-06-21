@@ -52,7 +52,7 @@ p {
   font-size: 13px;
   line-height: 20px;
   font-style: italic;
-  padding: 5px 0px;
+  padding: 5px 0;
   border-bottom: 1px solid #ddd;
 }
 
@@ -99,7 +99,7 @@ p {
 }
 .header .logout {
   position: absolute;
-  top: 0px;
+  top: 0;
   right: 0;
   font-weight: bold;
   background: #fff;
@@ -165,12 +165,13 @@ p {
 
 .menu {
   position: absolute;
-  top: 0px;
+  top: 0;
   left: 0;
   width: 300px;
   background: #222;
   overflow: auto;
   z-index: 1000;
+  min-height: 100%;
 }
 body:before {
   position: fixed;
@@ -186,15 +187,21 @@ body:before {
 
 .menu h1 {
   border-bottom: 2px solid #fff;
-  margin: 0 20px;
+  margin: 0 20px 0 20px;
   height: 50px;
 }
 .menu h1 a.home {
   display: block;
   height: 50px;
+  margin-right: 70px;
   color: #fff;
   text-indent: -6000px;
   background: url(../images/home.png) no-repeat left center;
+}
+.menu select.lang {
+  position: absolute;
+  right: 20px;
+  top: 15px;
 }
 
 /* list of pages */
@@ -332,7 +339,7 @@ body:before {
 }
 .subpages li .handle {
   position: absolute;
-  left: 0px;
+  left: 0;
   top: -2px;
   cursor: move;
   width: 20px;
@@ -460,7 +467,7 @@ body:before {
 .form .invisible {
   position: absolute;
   right: -20px;
-  top: 0px;
+  top: 0;
   font-size: 13px;
   background: #ddd;
   color: #222;
@@ -482,7 +489,17 @@ body:before {
   font-family: Helvetica, Arial, sans-serif;
 }
 .form .field {
+  position: relative;
   margin-bottom: 20px;
+}
+.form .field.error:before {
+  position: absolute;
+  content: "";
+  width: 18px;
+  height: 14px;
+  top: 42px;
+  left: -27px;
+  background: url(../images/error.png) no-repeat center center;
 }
 .form label {
   font-weight: normal;
@@ -492,6 +509,25 @@ body:before {
   color: #222;
   padding-bottom: 5px;
 }
+.form label small {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 11px;
+  padding-left: 7px;
+  color: #999;
+}
+.form label .required {
+  position: relative;
+  display: inline-block;
+  top: 6px;
+  padding-left: 7px;
+  color: #999;
+  font-weight: normal;
+  font-size: 20px;
+}
+.form label.inline {
+  font-weight: normal;
+}
 .form .field.text,
 .form .field.date,
 .form .field.textarea,
@@ -499,22 +535,25 @@ body:before {
   margin-right: -7px;
 }
 .form .input {
-  font-family: "Monaco", "Courier", monospace;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Monaco", "Consolas", "Courier", monospace;
   border: 1px solid #ddd;
   padding: 9px 5px;
   font-size: 16px;
-  line-height: 26px;
   width: 100%;
   margin-bottom: 5px;
   background: #f9f9f9;
-  -webkit-box-shadow: rgba(0,0,0, .05) 0px 2px 4px inset;
-  -moz-box-shadow: rgba(0,0,0, .05) 0px 2px 4px inset;
-  box-shadow: rgba(0,0,0, .05) 0px 2px 4px inset;
+  -webkit-box-shadow: rgba(0,0,0, .05) 0 2px 4px inset;
+  -moz-box-shadow: rgba(0,0,0, .05) 0 2px 4px inset;
+  box-shadow: rgba(0,0,0, .05) 0 2px 4px inset;
   color: #333;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
   -webkit-appearance: none;
+}
+.form textarea.input {
+  line-height: 24px;
 }
 .form .field.url .url {
   overflow: hidden;
@@ -612,6 +651,33 @@ body:before {
   float: right;
 }
 
+.form-buttons {
+  margin-bottom: 10px;
+}
+.form-buttons li {
+  display: inline-block;
+  margin-right: -3px;
+}
+.form-buttons a {
+  display: block;
+  background: #222;
+  color: #fff;
+  padding: 1px 10px;
+}
+.form-buttons a:hover {
+  color: #fff;
+  background: #333;
+}
+.form-buttons li:first-child a {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.form-buttons li:last-child a {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+
 /* file manager */
 .files {
   padding-bottom: 200px;
@@ -691,7 +757,7 @@ body:before {
 .files .info {
   position: absolute;
   left: 170px;
-  right: 0px;
+  right: 0;
   margin-left: 0;
 }
 .files .name {
@@ -764,7 +830,7 @@ body:before {
 /* global growl style */
 .growl {
   z-index: 1000;
-  top: 0px;
+  top: 0;
   background: #222;
   padding: 5px 20px;
   margin-bottom: 20px;
@@ -793,6 +859,16 @@ body:before {
   background: #fff;
   background: rgba(255,255,255, .90); 
 }
+.overlay.modal {
+  position: fixed;
+  display: none;
+  top: -5px;
+  left: 50%;
+  bottom: auto;
+  margin-left: -200px;
+  width: 400px;
+  background: none;
+}
 .overlay form {
   position: fixed;
   top: -5px;
@@ -803,9 +879,9 @@ body:before {
   width: 400px;
   background: #222;
   background: rgba(30,30,30, .97);
-  -webkit-box-shadow: rgba(0,0,0, .1) 0px 4px 10px;
-  -moz-box-shadow: rgba(0,0,0, .1) 0px 4px 10px;
-  box-shadow: rgba(0,0,0, .1) 0px 4px 10px;
+  -webkit-box-shadow: rgba(0,0,0, .1) 0 4px 10px;
+  -moz-box-shadow: rgba(0,0,0, .1) 0 4px 10px;
+  box-shadow: rgba(0,0,0, .1) 0 4px 10px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -822,11 +898,23 @@ body:before {
   font-size: 15px;
   border: 0;
 }
+.overlay fieldset.customfields {
+  border-top: 1px dashed #444;
+  padding: 20px 0 0 0;
+  margin: -10px 20px;
+}
 .overlay label {
   display: block;
   color: #888;  
   line-height: 20px;
   margin-bottom: 5px;
+}
+.overlay label small {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 11px;
+  padding-left: 7px;
+  color: #555;
 }
 .overlay label em {
   color: #fff;
@@ -834,6 +922,7 @@ body:before {
 .overlay .field {
   margin-bottom: 20px;
 }
+.overlay .input,
 .overlay input[type=text],
 .overlay input[type=file] {
   -webkit-font-smoothing: antialiased;
@@ -844,9 +933,9 @@ body:before {
   font-size: 15px;
   background: #444;
   color: #fff;
-  -webkit-box-shadow: rgba(0,0,0, .2) 0px 2px 10px inset;
-  -moz-box-shadow: rgba(0,0,0, .2) 0px 2px 10px inset;
-  box-shadow: rgba(0,0,0, .2) 0px 2px 10px inset;
+  -webkit-box-shadow: rgba(0,0,0, .2) 0 2px 10px inset;
+  -moz-box-shadow: rgba(0,0,0, .2) 0 2px 10px inset;
+  box-shadow: rgba(0,0,0, .2) 0 2px 10px inset;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
