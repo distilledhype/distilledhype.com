@@ -28,12 +28,12 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
     <?php foreach($items as $item): ?>
     <item>
       <title><?php echo xml($item->title()) ?></title>
-      <?php if($item->link()): ?>
-      <link><?php echo xml($item->link()) ?></link>
-      <?php else: ?>
       <link><?php echo xml($item->url()) ?></link>
-      <?php endif; ?>
+      <?php if($item->link()): ?>
+      <guid><?php echo xml($item->link()) ?></guid>
+      <?php else: ?>
       <guid><?php echo xml($item->url()) ?></guid>
+      <?php endif; ?>
       <pubDate><?php echo ($item->date()) ? date('r', $item->date()) : date('r', $item->modified()) ?></pubDate>
 
       <?php if(isset($descriptionField)): ?>
