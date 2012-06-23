@@ -1,6 +1,6 @@
 <?php
 
-$articles = $pages->find('blog')->children()->visible()->flip()->limit(10);
+$articles = $pages->find('blog')->children()->visible()->flip()->limit(20);
 
 snippet('feed', array(
   // 'link'  => url('blog'),
