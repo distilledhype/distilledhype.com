@@ -1,0 +1,21 @@
+Title: Cheddar's @samsoffes shares his ST2 Config setup
+
+----
+
+Link: https://gist.github.com/3422528
+
+----
+
+Text: Sam is the founder of [Nothing Magical](http://nothingmagical.com/) and the developer behind [Cheddar](http://twitter.com/cheddar). You can find out basically everything about him on episode [38](http://5by5.tv/founderstalk/38) and [39](http://5by5.tv/founderstalk/39) of [Founders Talk](http://5by5.tv/founderstalk/).
+
+He was so kind to share his Sublime Text 2 config on Gist. I love to see other dev's config files because there is always one or two things that you didn't know about.
+
+For instace this very useful property:
+
+    "folder_exclude_patterns": [
+        ".git",
+        ".sass-cache",
+        "coverage",
+        "log",
+        "tmp"
+    ]
