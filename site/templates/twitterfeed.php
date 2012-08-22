@@ -2,7 +2,7 @@
 
 $articles = $pages->find('blog')->children()->visible()->flip()->limit(20);
 
-snippet('feed', array(
+snippet('twitterfeed', array(
   'link'  => url('blog'),
   'items' => $articles,
   'descriptionField' => 'text',
