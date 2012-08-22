@@ -6048,18 +6048,18 @@ article {
 }
 article h1 {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 300;
-  line-height: 40px;
+  line-height: 48px;
   color: #607890;
 }
 article h1 a {
   display: block;
   position: relative;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 300;
-  line-height: 40px;
+  line-height: 48px;
   color: #607890;
   text-transform: uppercase;
 }
@@ -6082,8 +6082,8 @@ article .morelink:hover {
   font-family: "Lato";
   text-transform: uppercase;
   font-weight: 300;
-  font-size: 26px;
-  line-height: 40px;
+  font-size: 25px;
+  line-height: 48px;
 }
 .blogarticle h3 {
   margin: 20px 0 10px 0;
