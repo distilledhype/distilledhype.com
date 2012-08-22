@@ -7,8 +7,8 @@ define('KIRBY', true);
 
 ---------------------------------------
 Panel folder name
----------------------------------------                                                                                                                                 
-Will be autodetected. Only change if you 
+---------------------------------------
+Will be autodetected. Only change if you
 know what you are doing
 
 */
@@ -20,13 +20,13 @@ $folder = basename(dirname(__FILE__));
 ---------------------------------------
 Document root of your kirby installation
 ---------------------------------------
-By default the panel must be installed in a 
-subfolder of your kirby site. Otherwise it 
-won't be able to load all the required files. 
+By default the panel must be installed in a
+subfolder of your kirby site. Otherwise it
+won't be able to load all the required files.
 You can change that here but you must
 also change all the other roots to lead to
-the right folders. Don't change it if you 
-are not sure about it. 
+the right folders. Don't change it if you
+are not sure about it.
 
 */
 $root = dirname(dirname(__FILE__));
@@ -37,9 +37,9 @@ $root = dirname(dirname(__FILE__));
 ---------------------------------------
 Kirby system folder
 ---------------------------------------
-Link to the kirby system folder. 
-The panel loads a bunch of system files 
-from there, so this must be correct. 
+Link to the kirby system folder.
+The panel loads a bunch of system files
+from there, so this must be correct.
 
 */
 $rootKirby = $root . '/kirby';
@@ -53,7 +53,7 @@ Site folder
 If you moved or reanamed your site folder
 you must change it here as well.
 Blueprints, config and accounts will be loaded
-from there. 
+from there.
 
 */
 $rootSite    = $root . '/site';
@@ -90,7 +90,7 @@ if(c::get('debug')) {
   ini_set('display_errors', 0);
 }
 
-// set the timezone to make sure we 
+// set the timezone to make sure we
 // avoid errors in php 5.3
 @date_default_timezone_set(c::get('timezone'));
 
