@@ -28,7 +28,7 @@
                 <article class="linkpost">
                     <h1>
                         <a href="<?php echo $article->link() ?>">
-                        <?php echo html($article->title()) ?> &#8674;</a>
+                        <?php echo html($article->title()) ?>&nbsp;&#8674;</a>
                     </h1>
 
                     <?php echo kirbytext($article->text()) ?>
