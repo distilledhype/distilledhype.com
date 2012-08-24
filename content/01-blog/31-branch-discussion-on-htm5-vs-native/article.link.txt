@@ -7,5 +7,3 @@ Link: http://branch.com/b/a-blow-to-html5
 ----
 
 Text: MG Siegler takes Facebook's move to a native iOS app as an opportunity to start a conversation about HTML5 vs. native apps.
-
-Interesting.
