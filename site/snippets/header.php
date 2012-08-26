@@ -30,5 +30,5 @@
 <body class="preload">
 	<header class="container header">
     	<h1><a href="<?php echo url() ?>" id="header">Distilled Hype</a></h1>
-        <p class="subtitle">Hyperlinks for front-end developers and geeks distilled from the latest hype by @<a href="http://twitter.com/hellokahlil">hellokahlil</a></p>
+        <p class="subtitle">Hyperlinks for front-end developers distilled from the latest hype by @<a href="http://twitter.com/hellokahlil">hellokahlil</a></p>
 	</header>
