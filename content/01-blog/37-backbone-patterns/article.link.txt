@@ -2,7 +2,7 @@ Title: Backbone Patterns By @rstacruz
 
 ----
 
-Link: https://twitter.com/rstacruz
+Link: http://ricostacruz.com/backbone-patterns/
 
 ----
 
