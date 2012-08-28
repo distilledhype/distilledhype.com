@@ -1,0 +1,11 @@
+Title: Best Practices For REST API Docs By @ireneros
+
+----
+
+Link: http://weblog.bocoup.com/documenting-your-api/
+
+----
+
+Text: > Conveniently when the time comes to publish an API externally, this serves as an invaluable tool for creating public documentation.
+
+Indeed.
