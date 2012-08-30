@@ -10,4 +10,4 @@ Text: I already watched the Backbone one which was awesome. I am hearing good th
 
 I like the thing they do on Infoq.com where the slide changes get triggerd by the video. That's how it should be. The Infoq site otherwise looks pretty trashy... Well, I take function over form in this case I guess ;)
 
-[Throne Of JS](http://throneofjs.com/) site looks mega-awesome though! Reminds me of [something I posted earlier today](/blog/samurai) :)
+[Throne Of JS](http://throneofjs.com/) site looks mega-awesome though! Reminds me of [something I posted earlier today](/blog/samurai).
