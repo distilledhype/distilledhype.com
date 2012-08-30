@@ -2,7 +2,7 @@ Title: HTML5 Boilerplate 4 Announcement By @drublic
 
 ----
 
-Link: http://drublic.de/blog/h5bp-v4-0-0
+Link: http://drublic.de/blog/html5bp-v4-0-0/
 
 ----
 
