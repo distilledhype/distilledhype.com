@@ -1,0 +1,15 @@
+Title: A Proposition To Upgrade The Select Element By @paul_irish
+
+----
+
+Link: https://github.com/h5bp/lazyweb-requests/issues/92
+
+----
+
+Date: 05/09/2012
+
+----
+
+Text: > The idea: let's get this upgrade into browsers. We can make massive UX gains on both desktop and mobile, and kill off javascript that many sites have to ship with.
+
+Paul wants to get [Chosen](http://harvesthq.github.com/chosen/)-style select elements into the browser. What a great idea! You should totally chime in and/or help out.
