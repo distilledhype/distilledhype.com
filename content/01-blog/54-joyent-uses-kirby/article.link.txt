@@ -1,0 +1,17 @@
+Title: Who Totally Bets On @getkirby To Build Their Huge Website? Oh, just @joyent...
+
+----
+
+Link: http://getkirby.com/blog/joyent-builds-on-kirby
+
+----
+
+Date: 06/09/2012
+
+----
+
+Text: > It's probably the most complex and complete Kirby project so far, with hundreds of subpages, dozens of different templates and data sets and a superb responsive design.
+
+What an awesome reference and endorsement for [Kirby](http://getkirby.com).
+
+Distilled Hype is built with Kirby too and if you don't know of it, you should check it out! <3
