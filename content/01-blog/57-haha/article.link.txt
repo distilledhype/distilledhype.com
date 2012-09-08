@@ -10,6 +10,6 @@ Date: 09/08/2012
 
 ----
 
-Text: The man with the beard is right!
+Text: [The man with the beard](http://5by5.tv/people/jim-dalrymple) is right!
 
 _Caution: this is a link to a link to a link to a link. Don't get caught in the matrix._
