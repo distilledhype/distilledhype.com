@@ -1,0 +1,15 @@
+Title: Source Maps Coming To CoffeScript & UglifyJS! WICKED!
+
+----
+
+Link: https://twitter.com/paul_irish/statuses/244481512936964096
+
+----
+
+Date: 09/08/2012
+
+----
+
+Text: > Sourcemaps Sourcemaps!
+
+Extra! Extra! Read all about it!
