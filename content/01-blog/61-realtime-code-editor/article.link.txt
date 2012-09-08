@@ -10,4 +10,4 @@ Date: 09/08/2012
 
 ----
 
-Text: [According to Paul](https://twitter.com/paul_irish/statuses/243798388271898624) it is even offline enabled. He writes about his inspiration [here](http://news.ycombinator.com/item?id=4478618).
+Text: [According to Paul](https://twitter.com/paul_irish/statuses/243798388271898624) it is even offline enabled. It's maker writes about his inspiration [here](http://news.ycombinator.com/item?id=4478618).
