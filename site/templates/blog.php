@@ -38,12 +38,11 @@
                     <!-- <a href="<?php echo $article->url() ?>" class="morelink">&#9749;</a> -->
                     <a href="<?php echo $article->url() ?>" class="morelink">
                         <img src="/assets/img/coffeecup_20.png" alt="Coffee cup">
-
-
                     </a>
                     <?php if ( $article->date('c') ) : ?>
-                     <time datetime="<?php echo $article->date('c') ?>" pubdate="pubdate">
-                        Distilled on <?php echo $article->date('l') ?>, the <?php echo $article->date('jS') ?> of <?php echo $article->date('F Y') ?>
+                    <time datetime="<?php echo $article->date('c') ?>" pubdate="pubdate">
+                        <a href="<?php echo $article->url() ?>">Distilled on <?php echo $article->date('l') ?>, the <?php echo $article->date('jS') ?> of <?php echo $article->date('F Y') ?>
+                        </a>
                     </time>
                     <?php endif ?>
                 </article>
