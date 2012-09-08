@@ -6,7 +6,7 @@ Link: http://getkirby.com/blog/joyent-builds-on-kirby
 
 ----
 
-Date: 06/09/2012
+Date: 09/06/2012
 
 ----
 

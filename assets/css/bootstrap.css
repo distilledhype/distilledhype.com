@@ -6122,3 +6122,8 @@ footer a:hover {
   -ms-transition: none !important;
   -o-transition: none !important;
 }
+time {
+  font-size: 11px;
+  display: none;
+  line-height: 12px;
+}

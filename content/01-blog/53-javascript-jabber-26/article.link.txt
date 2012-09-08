@@ -6,7 +6,7 @@ Link: http://javascriptjabber.com/026-jsj-code-organization-and-reuse/
 
 ----
 
-Date: 05/09/2012
+Date: 09/05/2012
 
 ----
 

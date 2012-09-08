@@ -28,13 +28,24 @@
                 <article class="linkpost">
                     <h1>
                         <a href="<?php echo $article->link() ?>">
-                        <?php echo html($article->title()) ?>&nbsp;&#8674;</a>
+                        <?php echo html($article->title()) ?>
+                            &nbsp;&#8674;
+                        </a>
                     </h1>
 
                     <?php echo kirbytext($article->text()) ?>
 
                     <!-- <a href="<?php echo $article->url() ?>" class="morelink">&#9749;</a> -->
-                    <a href="<?php echo $article->url() ?>" class="morelink"><img src="/assets/img/coffeecup_20.png" alt=""></a>
+                    <a href="<?php echo $article->url() ?>" class="morelink">
+                        <img src="/assets/img/coffeecup_20.png" alt="Coffee cup">
+
+
+                    </a>
+                    <?php if ( $article->date('c') ) : ?>
+                     <time datetime="<?php echo $article->date('c') ?>" pubdate="pubdate">
+                        Distilled on <?php echo $article->date('l') ?>, the <?php echo $article->date('jS') ?> of <?php echo $article->date('F Y') ?>
+                    </time>
+                    <?php endif ?>
                 </article>
 
             <?php elseif($article->template() == 'article.video'): ?>
