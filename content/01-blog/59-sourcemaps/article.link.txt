@@ -1,4 +1,4 @@
-Title: Source Maps Coming To CoffeScript & UglifyJS! WICKED!
+Title: Source Maps Coming To CoffeeScript & UglifyJS! WICKED!
 
 ----
 
