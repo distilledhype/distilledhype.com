@@ -28,8 +28,7 @@
                 <article class="linkpost">
                     <h1>
                         <a href="<?php echo $article->link() ?>">
-                        <?php echo html($article->title()) ?>
-                            &nbsp;&#8674;
+                        <?php echo html($article->title()) ?>&nbsp;&#8674;
                         </a>
                     </h1>
 
