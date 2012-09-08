@@ -1,0 +1,15 @@
+Title: $.data() Quirks
+
+----
+
+Link: http://www.youtube.com/watch?v=9anCUpoiFVw&feature=youtu.be&t=19m46s
+
+----
+
+Date: 09/08/2012
+
+----
+
+Text: This links to a specific point in Elijah Manors jQuery Conf talk where he talks about some interesting details concerning $.data().
+
+Thanks for the tip @[fhemberger](http://twitter.com/fhemberger) and big ups for the link @[mkuehnel](https://twitter.com/mkuehnel/statuses/244510637605134336).
