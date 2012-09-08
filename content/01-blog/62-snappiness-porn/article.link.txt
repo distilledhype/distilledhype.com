@@ -14,4 +14,6 @@ Text: ERMAHGERD IT'S SO SNERPY!!!
 
 Just like their (super snappy) web apps this video presenting one of them, is extremely well made.
 
+Check out [one of my earlier posts](http://distilledhype.com/blog/when-pjax-when-js-mvc) to learn about how they make them so snappy.
+
 <3 37signals.
