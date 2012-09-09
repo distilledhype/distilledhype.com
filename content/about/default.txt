@@ -1,0 +1,14 @@
+﻿Title: About
+
+----
+
+Text: Distilled Hype is a link blog mostly for front-end developers that takes recent news and hype from the realm of front-end development, web design, web apps and startups and distills it down to the most important ones, according to the opinion and taste of
+
+Kahlil Lechelt
+Ruhrstr. 15
+70374 Stuttgart
+kahlil@kahlil.co
+
+Kahlil also has [a personal blog](http://kahlil.co) he doesn't update very frequently, is an executive producer on the [Agent Lexie project](http://agentlexie.com) and works at [ETECTURE](http://etecture.de).
+
+Opinions are his own.

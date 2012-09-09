@@ -37,7 +37,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
 
-#RedirectMatch 301 ^/blog/(.*)$ /$1
+RedirectMatch 301 ^/blog/(.*)$ /$1
 RewriteRule ^(.*) index.php [L]
 
 </IfModule>
