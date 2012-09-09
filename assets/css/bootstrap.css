@@ -6125,6 +6125,7 @@ footer a:hover {
 time {
   font-size: 11px;
   line-height: 12px;
+  display: none;
 }
 time a {
   -webkit-transition: all 0.3s ease-out;
