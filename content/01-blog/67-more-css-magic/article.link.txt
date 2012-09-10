@@ -1,0 +1,13 @@
+Title: CSS Magic By @ademilter
+
+----
+
+Link: http://codepen.io/yirmiuc/pen/Dwelk
+
+----
+
+Date: 09/10/2012
+
+----
+
+Text: Via @[chriscoyier](https://twitter.com/chriscoyier/statuses/244910861846736897).
