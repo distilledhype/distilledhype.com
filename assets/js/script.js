@@ -22,4 +22,7 @@ $(window).load(function() {
             $(this).next( 'time' ).fadeOut();
         }
     });
+
+    $('h1, h2, .next, .prev').jknav();
+    $.jknav.init();
 });
