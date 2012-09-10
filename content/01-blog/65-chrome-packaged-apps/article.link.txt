@@ -1,0 +1,15 @@
+Title: Chrome Packaged Apps
+
+----
+
+Link: http://developer.chrome.com/apps/about_apps.html
+
+----
+
+Date: 09/10/2012
+
+----
+
+Text: > Packaged apps have access to Chrome APIs and services not available to traditional web sites. You can build powerful apps that interact with network and hardware devices, media tools, and much more.
+
+Ooh, that's sweet! I've been having some ideas for native Mac apps lately and nobody wants to learn Objective-C here...
