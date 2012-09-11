@@ -1,0 +1,22 @@
+Title: V1 Of @yeoman Released
+
+----
+
+Link: http://yeoman.io
+
+----
+
+Date: 09/11/2012
+
+----
+
+Text: Many of us have been waiting for this eagerly since it has been first announced on Google/IO by [Paul Irish](http://paulirish.com) and [Addy Osmani](http://addyosmani.com). Having played with it a little while it was in beta and having looked at the introduction video, I can say that I really like Yeoman's mightyness. It allows you to scaffold your apps, update your dependencies, create your own generators, compile your COMPASS code and it comes with it's own LiveReload server among many other things.
+
+Unfortunately I can't really put the Yeoman to work in current projects since there are many Windows users in my team and Yeoman is not cross-platform yet. [Sindre Sorhus](http://twitter.com/sindresorhus), one of the contributors to the project, [said that](https://twitter.com/sindresorhus/statuses/245195271691173888) complete cross platform support is planned for the next version. I am glad to hear that!
+
+I wonder how big of an obstacle this will be for the spreading of Yeoman, also I think Yeoman's capabilities might be slightly overwhelming for beginners.
+
+Beginners don't have to fret though: as of a few minutes ago [Andy Matthews](http://twitter.com/commadelimited) is coming to the rescue with [an article on adobe.com](http://www.adobe.com/devnet/html5/articles/yeoman-at-your-service.html) on how to get started with Yeoman.
+
+Personally, I am happy to stick with Grunt.js (which Yeoman uses too, btw.) & Co. until Yeoman gets cross-platform support and I will roll with the wild boar while I watch how it all plays out.
+
