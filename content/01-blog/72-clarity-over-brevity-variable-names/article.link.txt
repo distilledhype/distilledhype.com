@@ -14,4 +14,4 @@ Text: > At times being exceedingly clear will seem almost silly at first glance.
 
 This is very true. The benefits of clear and descriptive variable names outweigh the downsides by far. Have a look at the code snippet in the article.
 
-Via @[nicolahery](https://twitter.com/nicolahery/statuses/245598015316971520)
+via @[nicolahery](https://twitter.com/nicolahery/statuses/245598015316971520)
