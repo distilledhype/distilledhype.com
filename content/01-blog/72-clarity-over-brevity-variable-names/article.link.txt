@@ -1,4 +1,4 @@
-Title: Clarity Over Brevity By @dhh
+Title: Clarity Over Brevity In Variable And Method Names By @dhh
 
 ----
 
