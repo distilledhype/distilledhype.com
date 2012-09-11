@@ -10,4 +10,4 @@ Date: 09/10/2012
 
 ----
 
-Text: Via @[chriscoyier](https://twitter.com/chriscoyier/statuses/244910861846736897).
+Text: via @[chriscoyier](https://twitter.com/chriscoyier/statuses/244910861846736897).
