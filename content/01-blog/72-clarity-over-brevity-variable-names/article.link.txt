@@ -1,0 +1,17 @@
+Title: Clarity Over Brevity By @dhh
+
+----
+
+Link: http://37signals.com/svn/posts/3250-clarity-over-brevity-in-variable-and-method-names
+
+----
+
+Date: 09/11/2012
+
+----
+
+Text: > At times being exceedingly clear will seem almost silly at first glance. The name of the method or variable can be longer than the operation being performed! But the silliness quickly dissipates the first time you return to a piece of code and know exactly what it does.
+
+This is very true. The benefits of clear and descriptive variable names outweigh the downsides by far. Have a look at the code snippet in the article.
+
+Via @[nicolahery](https://twitter.com/nicolahery/statuses/245598015316971520)
