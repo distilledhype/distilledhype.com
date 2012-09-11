@@ -14,7 +14,7 @@ Text: Many of us have been waiting for this eagerly since it has been first anno
 
 Unfortunately I can't really put the Yeoman to work in current projects since there are many Windows users in my team and Yeoman is not cross-platform yet. [Sindre Sorhus](http://twitter.com/sindresorhus), one of the contributors to the project, [said that](https://twitter.com/sindresorhus/statuses/245195271691173888) complete cross platform support is planned for the next version. I am glad to hear that!
 
-I wonder how big of an obstacle this will be for the spreading of Yeoman, also I think Yeoman's capabilities might be slightly overwhelming for beginners.
+I wonder how big of an obstacle this will be for the adoption of Yeoman, also I think Yeoman's capabilities might be slightly overwhelming for beginners.
 
 Beginners don't have to fret though: as of a few minutes ago [Andy Matthews](http://twitter.com/commadelimited) is coming to the rescue with [an article on adobe.com](http://www.adobe.com/devnet/html5/articles/yeoman-at-your-service.html) on how to get started with Yeoman.
 
