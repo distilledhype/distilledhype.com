@@ -139,6 +139,9 @@
   .vertical-nav {
     margin-top: 0;
   }
+  .vertical-nav li {
+    margin-bottom: 10px;
+  }
 }
 @media (max-width: 767px) {
   body {
