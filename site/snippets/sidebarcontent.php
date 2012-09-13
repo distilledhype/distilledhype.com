@@ -1,5 +1,5 @@
 <!-- <div class="coffeecup"><span>&#9749;</span></div> -->
-<div class="coffeecup"><img src="/assets/img/coffeecup.png" alt="Coffee cup"></div>
+<div class="coffeecup"><img src="/assets/img/coffeecup.png" alt="Coffee cup" width="160" height="160"></div>
 <ul class="vertical-nav">
     <li>
         <a href="http://twitter.com/distilledhype" title="Stay up to date, send link tips and holler.">@distilledhype</a>
