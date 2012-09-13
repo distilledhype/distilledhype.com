@@ -37,7 +37,7 @@
 
                         <!-- <a href="<?php echo $article->url() ?>" class="morelink">&#9749;</a> -->
                         <a href="<?php echo $article->url() ?>" class="morelink">
-                            <img src="/assets/img/coffeecup_20.png" alt="Coffee cup">
+                            <img src="/assets/img/coffeecup_20.png" alt="Coffee cup" width="20" height="20">
                         </a>
                         <?php if ( $article->date('c') ) : ?>
                         <time datetime="<?php echo $article->date('c') ?>" pubdate="pubdate">
