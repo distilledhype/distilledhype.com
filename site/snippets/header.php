@@ -15,9 +15,7 @@
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
   <meta name="robots" content="index, follow" />
 
-  <link rel="shortcut icon" href="<?php echo url('assets/img/favicon.png') ?>" type="image/png" />
-  <link rel="icon" href="<?php echo url('assets/img/favicon.png') ?>" type="image/png" />
-  <link rel="apple-touch-icon" href="<?php echo u('assets/images/apple-touch-icon.png') ?>" />
+  <link rel="shortcut icon" href="<?php echo url('assets/img/favicon.ico') ?>" />
 
   <meta name="viewport" content="width=device-width">
   <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/DistilledFromTheHype" title="Distilled From The Hype - The Feed" />
