@@ -12,4 +12,6 @@ Date: 09/15/2012
 
 Text: > To ensure you are doing it right and save time doing things over and over again, try using Yeoman, it will help.
 
-Yep. If you are not using a build tool yet yourself or in your team, you should use Yeoman. [You can even make it work on Windows now](http://www.decodize.com/css/installing-yeoman-front-end-development-stack-windows/).
+Yep. If you are not using a build tool yet yourself or in your team, you should start to use Yeoman now. [You can even make it work on Windows now](http://www.decodize.com/css/installing-yeoman-front-end-development-stack-windows/).
+
+Yeoman is a little monster when it comes to tools but it really makes sense to take time out and carefully inspect how you can put it to good use for you. You might only need a few features but it will make your life so much better.
