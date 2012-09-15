@@ -4845,20 +4845,28 @@ footer a:hover {
   -ms-transition: none !important;
   -o-transition: none !important;
 }
-time {
+.date_article {
   font-size: 11px;
   line-height: 12px;
   display: none;
 }
-time a {
+.date_article a {
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
   color: #bbbbbb;
 }
-time a:hover {
+.date_article a:hover {
   color: #555555;
+}
+.dailydate {
+  text-transform: uppercase;
+  color: #cccccc;
+  font-size: 11px;
+  display: block;
+  padding: 20px 0 40px 0;
+  letter-spacing: 0.3em;
 }
 .pagination {
   margin-bottom: 0;

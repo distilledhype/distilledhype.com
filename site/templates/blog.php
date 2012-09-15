@@ -1,7 +1,4 @@
 <?php snippet('header') ?>
-
-<?php // snippet('menu') ?>
-
 <section class="container blog">
 
     <div class="row">
@@ -26,6 +23,24 @@
 
                 <?php elseif($article->template() == 'article.link'): ?>
 
+                    <?php
+                        $current_date = $article->date();
+                        // Do the damn thing.
+                        if ( $next_date && $article->date() ) {
+                            if ( $current_date < $next_date ) {
+                    ?>
+                            <time class="dailydate" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
+                                <?php echo date( 'l', $current_date ) ?>,
+                                <?php echo ' ' . date( 'j F Y', $current_date ) ?>
+                            </time>
+
+                    <?php
+                            }
+                        }
+
+                        $next_date = $article->date();
+                    ?>
+
                     <article class="linkpost">
                         <h1>
                             <a href="<?php echo $article->link() ?>">
@@ -40,7 +55,7 @@
                             <img src="/assets/img/coffeecup_20.png" alt="Coffee cup" width="20" height="20">
                         </a>
                         <?php if ( $article->date('c') ) : ?>
-                        <time datetime="<?php echo $article->date('c') ?>" pubdate="pubdate">
+                        <time class="date_article" datetime="<?php echo $article->date('c') ?>" pubdate="pubdate">
                             <a href="<?php echo $article->url() ?>">Distilled on <?php echo $article->date('l') ?>, the <?php echo $article->date('jS') ?> of <?php echo $article->date('F Y') ?>
                             </a>
                         </time>

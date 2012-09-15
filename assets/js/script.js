@@ -7,19 +7,19 @@ $(window).load(function() {
     $('body').removeClass( "preload" );
     $morelink.find( 'img' ).on({
         mouseenter: function() {
-           $(this).parent().next( 'time' ).fadeIn();
+           $(this).parent().next( '.date_article' ).fadeIn();
         },
         mouseout: function() {
-            $(this).parent().next( 'time' ).fadeOut();
+            $(this).parent().next( '.date_article' ).fadeOut();
         }
     });
 
     $morelink.on({
         focus: function() {
-           $(this).next( 'time' ).fadeIn();
+           $(this).next( '.date_article' ).fadeIn();
         },
         focusout: function() {
-            $(this).next( 'time' ).fadeOut();
+            $(this).next( '.date_article' ).fadeOut();
         }
     });
 
