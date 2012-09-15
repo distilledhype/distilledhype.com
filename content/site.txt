@@ -6,11 +6,11 @@ Author: Kahlil Lechelt
 
 ----
 
-Description: Hyperlinks for front-end developers and geeks distilled from the latest hype by Kahlil Lechelt
+Description: Premium links for front-end developers, distilled from the latest hype by Kahlil Lechelt.
 
 ----
 
-Keywords: links, webdev, nerdery, geekery
+Keywords: links, webdev, nerdery, geekery, startups, front-end development
 
 ----
 
