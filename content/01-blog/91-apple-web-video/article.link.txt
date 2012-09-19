@@ -1,4 +1,4 @@
-Title: How Apple compresses video using JPEG, JSON, and <canvas>
+Title: How Apple compresses video using JPEG, JSON, and canvas
 
 ----
 
@@ -10,6 +10,6 @@ Date: 09/19/2012
 
 ----
 
-Text: > That's right, Apple is using this compression strategy to recreate QTVR. When you drag and drop the earbuds, you're actually scrubbing a video of the earbuds rotating around. And the video is using the same JS/JSON/<canvas> compression technique.
+Text: > That's right, Apple is using this compression strategy to recreate QTVR. When you drag and drop the earbuds, you're actually scrubbing a video of the earbuds rotating around. And the video is using the same JS/JSON/canvas compression technique.
 
 Damn yo.
