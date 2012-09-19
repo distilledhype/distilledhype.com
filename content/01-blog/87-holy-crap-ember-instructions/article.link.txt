@@ -1,0 +1,69 @@
+Title: Holy Crap!!1! This Guy Knows His Way Around Ember
+
+----
+
+Link: http://trek.github.com/
+
+----
+
+Date: 09/19/2012
+
+----
+
+Text: This must be the most useful article on how to use Ember I have encountered so far. First he goes on an insightful rant about how Ember is the shit for big web apps and Backbone is not and then goes through how to build an app in Ember step by step with lots of helpful insights and instructions on how to build it out into a bigger app.
+
+Here a few quotes from the article:
+
+> But only Ember is approaching this task in a larger scope of UI Engineering that involves even harder architecture concerns. This is part of what makes Ember.js challenging for a learner to approach.
+
+People are complaining a lot about how hard it is to grasp Ember. A major reason for this is that a lot of decisions have been made for you and the documentation is rather sparse.
+
+> Have you ever written an app that is long-running, stateful, requires identity mapping, or must serialize state for later re-entry?
+
+No.
+
+> Listen: it's not Ember that's hard. It's the concepts.
+
+Interesting...
+
+> Ever run into zombie events in a Backbone application? No? You've either not used it for anything big, have Rain Man-like ability to craft software, or are fucking shitting me.
+
+I'll go for the Rain Man thing...?
+
+> There's a lot of writing comparing the three, but once you become familiar with them you'll see it's a totally nonsensical comparison.
+
+That is what I have gathered from other discussions aswell.
+
+> Ember gets a lot of flack for it's lack of "a persistence layer" when compared to Backbone or Batman. I've never thought of this as fair criticism because I don't think of thin wrappers around $.ajax() that follow a Rails-style-REST pattern really merit the "persistence layer" label. And many other frameworks are starting to realize this too as their thin $.ajax() delegation is being fleshed out to handle [the real and difficult problems of reliably synchronizing data between two environments when there are few structural standards to rely on](https://plus.google.com/u/0/106300407679257154689/posts/Hv6xvZsuBBF).
+
+This makes a lot of sense to me.
+
+> Because Ember has a good property observation system we can handle the asynchronicity from multiple points within the application structure where it's most appropriate rather than being forced to handle it at the communication layer.
+
+That seems practical.
+
+> That's an Ember application. States, transitioning between them, and loading data when you need it. You can build up surprisingly sophisticated and robust UIs by repeating this process until you're happy.
+> [...]
+> You'll be surprised how quickly you can express very advanced UIs by just repeating this pattern. More importantly, your UIs will be crazy robust.
+
+At this point the author has given you a very useful pattern that you'd just have to repeat to add functionality. Very useful.
+
+> Judicious separation of states ensures users can't accidentally navigate into frustrating edge case scenarios.
+
+Awesome.
+
+> When your applications gets a bit larger than this example, start exploring [Ember Data](https://github.com/emberjs/data) to cut down the number of unnecessary ajax calls (and, more importantly, hide this interaction behind a nice API).
+
+Some great pointers into the right direction if your app gets large.
+
+> I'll share my secret vision for Ember: I want Ember to be a gateway drug for good UI engineering the way Rails was for good application development. You may scoff – "Rails is bloated, I prefer express.js" – but express is just stealing the best tricks from years of battle tested Rails experimentation.
+
+After reading this, Ember seems rather compelling to me.
+
+> You might reject Ember, but I hope it's after you've toyed with it and built something serious so you can reject it for substantive reasons or informed aesthetics, not simply because it seemed odd, new, or frighteningly different.
+
+A reasonable request.
+
+It seems that this article is a good guide on how to build your first Ember app.
+
+
