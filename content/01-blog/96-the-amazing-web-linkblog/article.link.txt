@@ -1,0 +1,15 @@
+Title: A Web Dev Blog By @_martinwolf Of @quotefm
+
+----
+
+Link: http://theamazingweb.net/
+
+----
+
+Date: 09/20/2012
+
+----
+
+Text: > I want to post about cool CSS stuff, tutorials, snippets, ideas and thoughts. I also want to interview more people like I already did with Harry Roberts and Jonathan Snook. And I want to point you to interesting and new stuff that happens around the web. Furthermore I want to take you with me on my journey building QUOTE.fm and growing as a Front End Engineer.
+
+Awesome stuffz. Keep it up!
