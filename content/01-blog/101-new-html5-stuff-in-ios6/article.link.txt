@@ -1,0 +1,15 @@
+Title: New Stuff For HTML5 Developers in iOS 6 By @firt
+
+----
+
+Link: http://www.mobilexweb.com/blog/iphone-5-ios-6-html5-developers
+
+----
+
+Date: 09/20/2012
+
+----
+
+Text: > As every big change, lot of new stuff is available for HTML5 developers and -as always- no much official information is available.
+
+Fortunately we have @[firt](http://twitter.com/firt) to give us that information. <3
