@@ -10,4 +10,4 @@ Date: 09/20/2012
 
 ----
 
-Text: xkcd's [last comic](http://xkcd.com/1110/) has inspired a lot of different solutions to explore the image. This is the best one.
+Text: xkcd's [last comic](http://xkcd.com/1110/) has inspired a lot of different solutions to explore the image. This is the best one using [leaflet](http://leaflet.cloudmade.com/).
