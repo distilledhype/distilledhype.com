@@ -1,0 +1,13 @@
+Title: Coverage & Slides Of The @SmashingConf
+
+----
+
+Link: http://lanyrd.com/2012/smashingconf/coverage/
+
+----
+
+Date: 09/20/2012
+
+----
+
+Text: This is the place where all the coverage and the slides aber being collected by the Smashing team. Definitely check out the notes from [Brad Frosts blog](http://bradfrostweb.com/blog/).
