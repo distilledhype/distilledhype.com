@@ -9,6 +9,8 @@ Ruhrstr. 15
 70374 Stuttgart
 kahlil@kahlil.co
 
+The concept of link blogging is totally stolen from [John Gruber's Daring Fireball](http://daringfireball.net).
+
 Kahlil also has [a personal blog](http://kahlil.co) he doesn't update very frequently, is an executive producer on the [Agent Lexie project](http://agentlexie.com) and works at [ETECTURE](http://etecture.de).
 
 Opinions are his own.
