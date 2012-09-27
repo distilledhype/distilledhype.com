@@ -1,4 +1,4 @@
-Title: Distilled From The Hype - The Feed
+Title: The Distilled Hype Twitter Feed
 ----
-Description: The latest updates from the Distilled From The Hype blog.
+Description: The latest updates from Distilled Hype, formatted for Twitter.
 ----
