@@ -12,7 +12,7 @@
             <a href="mailto:hi@distilledhype.com" title="Send feedback or link tips.">Contact</a>
         </li>
         <li>
-            <a href="http://feeds.feedburner.com/DistilledFromTheHype" title="Get the feed.">RSS</a>
+            <a href="/feed" title="Get the feed.">RSS</a>
         </li>
         <li>
             <a href="https://www.facebook.com/distilledhype" title="Like it up.">f</a>
