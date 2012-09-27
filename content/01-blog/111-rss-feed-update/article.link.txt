@@ -1,0 +1,15 @@
+Title: Please Update Your Distilled Hype RSS Feed
+
+----
+
+Link: http://distilledhype.com/feed
+
+----
+
+Date: 09/27/2012
+
+----
+
+Text: Since Feedburner is dying I deleted my feeds there so they redirect to the original feed on my site. Pleaes update your feeds today since the redirect will be stop in less than 30 days!
+
+I am using [Marco's shell script](http://www.marco.org/2012/09/25/feedburner-counter-replacement) to mail me my subscriber count everyday which is so much <s>nerdier</s> cooler than stupid Feedburner!
