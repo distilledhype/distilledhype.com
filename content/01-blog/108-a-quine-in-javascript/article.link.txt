@@ -1,0 +1,15 @@
+Title: A Quine In JavaScript Explained By @rauschma
+
+----
+
+Link: http://www.2ality.com/2012/09/javascript-quine.html
+
+----
+
+Date: 09/27/2012
+
+----
+
+Text: > A quine is a computer program which takes no input and produces a copy of its own source code as its only output.
+
+@rauschma explains why and how @[cowboy](http://twitter.com/cowboy)'s example of a quine in JavaScript works. Fuck yeah computer science!

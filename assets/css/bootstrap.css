@@ -4799,6 +4799,10 @@ article .morelink:hover {
 .blog .linkpost .morelink {
   font-size: 26px;
 }
+.blog .linkpost .morelink a {
+  width: 15px;
+  height: 15px;
+}
 .blogarticle h1 {
   color: #607890;
   padding: 0px 0 20px 0;

@@ -1,0 +1,15 @@
+Title: An Opinionated Backbone: Thorax
+
+----
+
+Link: http://walmartlabs.github.com/thorax/beta
+
+----
+
+Date: 09/27/2012
+
+----
+
+Text: > An opinionated Backbone application framework providing a filesystem structure, on demand module loading, model and collection view binding, inheritable view and DOM events, data loading helpers, form serialization / population and validation. Built using Backbone, Underscore, Zepto, Handlebars, Stylus and Lumbar.
+
+I like this sort of thing. Sad face for not using Grunt.js as a build tool though!
