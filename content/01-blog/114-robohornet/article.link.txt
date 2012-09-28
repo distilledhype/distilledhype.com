@@ -2,7 +2,7 @@ Title: The @paul_irish Announces Open-Sourcing Of RoboHornet
 
 ----
 
-Link: A weblog about simple, useful software.
+Link: http://paulirish.com/2012/a-browser-benchmark-that-has-your-back-robohornet/
 
 ----
 
