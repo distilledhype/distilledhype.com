@@ -1,0 +1,35 @@
+Title: Interesting Insights About Twitter From @sacca
+
+----
+
+Link: http://www.youtube.com/watch?feature=player_detailpage&v=6VOQnK7O2To#t=3097s
+
+----
+
+Date: 09/29/2012
+
+----
+
+Text: The link points to a [This Week In Startups episode](http://www.youtube.com/watch?v=6VOQnK7O2To) where @[Jason](http://twitter.com/jason) starts asking @[sacca](http://twitter.com/sacca) about Twitter's latest decisions. Chris Sacca is a large shareholder in Twitter and he always drops some very interesting insights about Twitter in interviews. This time is no exception so here we go:
+
+> I think people sometimes overestimate how big the developer community is or how many people are in this community with respect to this company.
+> [...]
+> It's single digit percentage of tweets that come from third party clients. [...] It's just not as big a part of the ecosystem.
+
+When Jason asks if Twitter has a revenue problem Sacca says:
+
+> Aaah, I'm a buyer of the stock, is what I'll say. [...] If you are worried about Twitters business problems sell me your shares.
+> [...]
+> Zappos just released some data about the likelyhood that a tweet converts and I think it's like 33 times Pinterest and like 5 times Facebook. I mean, Facebook is a friend platform and Twitter is a commercial platform.
+> [...]
+> It's a massive commerce engine.
+> [...]
+> If you talk to the folks at Virgin America, they'll say that 4 out of 5 of their biggest sales days ever resulted out of Twitter promotion.
+> [...]
+> If Twitter has any problem, it's that advertisers want more access to the platform than Twitter has sales people to handle right now.
+
+So it definitely seems that the people assuming that Twitter is still not making any money are very wrong and that Twitter definitely is not very worried about the developer community. They are building out their "commerce engine" and that's that.
+
+Despite the fact that I, at some point, won't have the pleasure to use an awesome third-party Twitter client, Twitter still is the one social platform on the web that delivers the most amount of value for me.
+
+So I def still <3 Twitter and totally forgot about App.net. Is that thing still running?
