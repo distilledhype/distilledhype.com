@@ -82,12 +82,17 @@
             <?php if($articles->pagination()->hasPages()): ?>
                 <nav class="pagination">
 
-                  <?php if($articles->pagination()->hasNextPage()): ?>
+                  <?php
+                    $has_next = $articles->pagination()->hasNextPage();
+                    $has_prev = $articles->pagination()->hasPrevPage();
+                  ?>
+
+                  <?php if($has_next): ?>
                   <a class="next" href="<?php echo $articles->pagination()->nextPageURL() ?>">&lsaquo; older posts</a>
                   <?php endif ?>
 
-                  <?php if($articles->pagination()->hasPrevPage()): ?>
-                  <a class="prev" href="<?php echo $articles->pagination()->prevPageURL() ?>">newer posts &rsaquo;</a>
+                  <?php if($has_prev): ?>
+                  <a class="prev<?php if($has_next && $has_prev): ?> prev-padding-left<?php endif ?>" href="<?php echo $articles->pagination()->prevPageURL() ?>">newer posts &rsaquo;</a>
                   <?php endif ?>
 
                 </nav>

@@ -4882,3 +4882,6 @@ footer a:hover {
 .pagination a:hover {
   background: transparent;
 }
+.pagination a.prev-padding-left {
+  padding-left: 20px;
+}
