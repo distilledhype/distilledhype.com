@@ -1,0 +1,21 @@
+Title: Onward By @mdo & @fat
+
+----
+
+Link: http://blog.getbootstrap.com/2012/09/29/onward/
+
+----
+
+Date: 09/29/2012
+
+----
+
+Text: > [...] nothing has been more enjoyable or rewarding than working on Bootstrap.
+
+That's awesome!
+
+> [...] then it's full steam ahead on improving some key areas of the framework (modals, carousels, customizer, etc).
+
+Curious to see what the improvements are going to be.
+
+It's kinda sad to see such prolific developers leaving Twitter but I am sure they are off to do even awesomer things. According to [@fat's Twitter account](https://twitter.com/fat/status/251754142324895744) it seems like he ended up at [@ev's Obvious Corporation](https://medium.com/c/2a65aec3167b).
