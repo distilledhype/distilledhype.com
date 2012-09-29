@@ -1,0 +1,15 @@
+Title: A Front-End Tools Collection By @codylindley
+
+----
+
+Link: https://github.com/codylindley/frontend-tools
+
+----
+
+Date: 09/29/2012
+
+----
+
+Text: > An opinionated list of frontend tools for desktop/laptop (i.e. does not include tablet or phone yet) development
+
+Another great list of front-end tools. This time by Cody Lindley on his Github account with a call for pull requests.
