@@ -31,3 +31,5 @@ Text: Tons of JavaScript developers (including me) have been making fun of TypeS
 >> "CoffeeScript is to Ruby as TypeScript is to Java/C#/C++." - Luke Hoban
 >
 > If you love Ruby, you'll enjoy CoffeeScript as it makes the latter more like the former. The same is true with TypeScript. It brings useful features you are using on the server into JavaScript in an ultimately compatible and syntax-friendly way.
+
+So it looks like it is a really intelligent way to introduce features into JavaScript that Java/C#/C++ developers would like to see. But just like Dart, it most likely won't get any traction in the JavaScript community.
