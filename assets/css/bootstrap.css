@@ -4885,3 +4885,10 @@ footer a:hover {
 .pagination a.prev-padding-left {
   padding-left: 20px;
 }
+.sticky {
+  position: fixed;
+  top: 10px;
+}
+.content-margin-left {
+  margin-left: 230px !important;
+}

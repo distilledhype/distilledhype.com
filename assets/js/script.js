@@ -2,6 +2,7 @@ $('.blogarticle').find('h3').not(':first').before('<div class="coffee">&#9749;</
 
 $(window).load(function() {
 
+    // Show distillation date
     var $morelink = $('.morelink');
 
     $('body').removeClass( "preload" );
@@ -23,6 +24,25 @@ $(window).load(function() {
         }
     });
 
+    // Add jk-nav
     $('h1, h2, .next, .prev').jknav();
     $.jknav.init();
+
+    // Make sidebar content sticky
+    var $sidebarContent = $('.sidebar-content');
+    var $contentEl = $('.span5');
+    var origOffsetY = $sidebarContent.offset().top;
+
+    function onScroll( e ) {
+        if ( window.scrollY >= origOffsetY ) {
+            $sidebarContent.addClass('sticky');
+            $contentEl.addClass('content-margin-left');
+        }
+        else {
+            $sidebarContent.removeClass('sticky');
+            $contentEl.removeClass('content-margin-left');
+        }
+    }
+
+    $(document).on('scroll', onScroll);
 });
