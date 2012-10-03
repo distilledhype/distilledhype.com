@@ -1,0 +1,21 @@
+Title: The Classic Working Man "Under Construction" Gif Built With CSS
+
+----
+
+Link: http://codepen.io/joshnh/pen/ohbHl
+
+----
+
+Date: 10/03/2012
+
+----
+
+Text: On the h5bp lazy web requests Paul requested a classic Gif of a working man to be modernized:
+
+> This is a classic piece of the web. But we really need to upgrade him to the modern day. I'm talking a pure CSS version of this.
+
+And within 60 minutes [joshnh](https://github.com/joshnh) delivered this single html-element-tons-of-css-backgrounds version which weighs 60k after minification and 3k after Gzip!
+
+Sick!!!
+
+
