@@ -14,7 +14,7 @@ Text: On the h5bp lazy web requests Paul requested a classic Gif of a working ma
 
 > This is a classic piece of the web. But we really need to upgrade him to the modern day. I'm talking a pure CSS version of this.
 
-And within 60 minutes [joshnh](https://github.com/joshnh) delivered this single html-element-tons-of-css-backgrounds version which weighs 60k after minification and 3k after Gzip!
+And within 60 minutes [joshnh](https://github.com/joshnh) delivered this single-html-element-tons-of-css-backgrounds version which weighs 60k after minification and 3k after Gzip!
 
 Sick!!!
 
