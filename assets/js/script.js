@@ -31,7 +31,7 @@ $(window).load(function() {
     // Make sidebar content sticky
     var $sidebarContent = $('.sidebar-content');
     var $contentEl = $('.span5');
-    var origOffsetY = $sidebarContent.offset().top;
+    var origOffsetY = $sidebarContent.offset().top - 30;
 
     function onScroll( e ) {
         if ( window.scrollY >= origOffsetY ) {

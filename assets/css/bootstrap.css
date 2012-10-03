@@ -4887,7 +4887,7 @@ footer a:hover {
 }
 .sticky {
   position: fixed;
-  top: 10px;
+  top: 30px;
 }
 .content-margin-left {
   margin-left: 230px !important;
