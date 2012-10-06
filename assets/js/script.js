@@ -29,15 +29,18 @@ $(window).load(function() {
     $.jknav.init();
 
     // Make sidebar content sticky
-    /*
     var $sidebarContent = $('.sidebar-content');
-    var $contentEl = $('.span5');
-    var origOffsetY = $sidebarContent.offset().top - 30;
+    var $contentEl      = $('.span5');
+    var origOffsetY     = $sidebarContent.offset().top - 30;
+    var $window         = $(window);
 
     function onScroll( e ) {
+
         if ( window.scrollY >= origOffsetY ) {
-            $sidebarContent.addClass('sticky');
-            $contentEl.addClass('content-margin-left');
+            if ( $window.width() > 770 ) {
+                $sidebarContent.addClass('sticky');
+                $contentEl.addClass('content-margin-left');
+            }
         }
         else {
             $sidebarContent.removeClass('sticky');
@@ -46,5 +49,4 @@ $(window).load(function() {
     }
 
     $(document).on('scroll', onScroll);
-    */
 });
