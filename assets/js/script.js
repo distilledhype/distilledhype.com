@@ -29,6 +29,7 @@ $(window).load(function() {
     $.jknav.init();
 
     // Make sidebar content sticky
+    /*
     var $sidebarContent = $('.sidebar-content');
     var $contentEl = $('.span5');
     var origOffsetY = $sidebarContent.offset().top - 30;
@@ -45,4 +46,5 @@ $(window).load(function() {
     }
 
     $(document).on('scroll', onScroll);
+    */
 });
