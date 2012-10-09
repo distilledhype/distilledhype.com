@@ -10,6 +10,6 @@ Date: 10/09/2012
 
 ----
 
-Text: > Always ben on JS
+Text: > Always bet on JS
 
 Another video from JSConf.eu 2012 to look forward to.
