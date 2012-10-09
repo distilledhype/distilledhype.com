@@ -1,0 +1,17 @@
+Title: Designing JavaScript APIs For Usability By @rodneyrehm
+
+----
+
+Link: http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/
+
+----
+
+Date: 10/09/2012
+
+----
+
+Text:
+
+> Let’s dive into designing the APIs that developers will love using.
+
+Rodney is bringing the knowledge hammer down on us with this article, describing the intricacies of good API design in JavaScript. A must read.
