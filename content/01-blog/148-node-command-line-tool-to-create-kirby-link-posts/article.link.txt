@@ -16,7 +16,7 @@ As you may know I am maintaining this link blog with the file based [Kirby CMS](
 
 In that folder I have to create a file called `article.link.txt` and in that text file I use a certain template where title, link and text has it's own place. As discribed in [this tutorial](http://getkirby.com/blog/custom-post-types).
 
-Since it was a little tiresome for me to create a folder and file for everypost I automated it with Node.
+Since it was a little tiresome for me to create a folder and file for every post I automated it with Node.
 
 Now I just have to call
 
