@@ -1,0 +1,17 @@
+Title: CSS Diff Chrome Extension
+
+----
+
+Link: http://stackoverflow.com/questions/12592473/difference-between-two-element-styles-with-google-chrome
+
+----
+
+Date: 10/21/2012
+
+----
+
+Text:
+
+> As a result of this discussion "[CSS Diff](https://chrome.google.com/webstore/detail/css-diff/pefnhibkhcfooofgmgoipfpcojnhhljm)" extension was created.
+
+Great for debugging your CSS.
