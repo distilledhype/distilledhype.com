@@ -1,4 +1,4 @@
-Title: Good News Everyone: Yeoman And @gruntjs Sync Up
+Title: Good News Everyone: @Yeoman And @gruntjs Sync Up
 
 ----
 
