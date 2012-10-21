@@ -1,0 +1,21 @@
+Title: Good News Everyone: Yeoman And @gruntjs Sync Up
+
+----
+
+Link: https://github.com/gruntjs/grunt/issues/432#issuecomment-9613862
+
+----
+
+Date: 10/21/2012
+
+----
+
+Text:
+
+> * yeoman will be upstreaming a few solo tasks into grunt-contrib (or at least, work with tkellen on figuring how best to do that).. tasks like img, misc, manifest
+> * yeoman will upstream our generators setup (inspired by rails) into the grunt init implementation. ben's expressed interest in this for a while and we think we can share this code and all be happy here.
+> * we'll first start with a design doc for everyone to review, and we'll continue the above two items with regular checks between yeoman and grunt folks.
+> * we really want yeoman to play well within the grunt ecosystem and are focused on delivering a great end UX while still benefiting the larger community beyond our direct users.
+> * we've actually brought on sindre as a contractor to devote dedicated time to this upstreaming effort
+
+This is very good news. Also great to see that Sindre is getting hired to work on this! w00t!!1!
