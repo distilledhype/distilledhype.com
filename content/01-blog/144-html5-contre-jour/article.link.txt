@@ -1,0 +1,19 @@
+Title: Podcast "Must Listen" Tip: HTML5 Contre Jour
+
+----
+
+Link: http://hanselminutes.com/341/porting-contre-jour-to-html5-with-erik-klimczak
+
+----
+
+Date: 10/21/2012
+
+----
+
+Text:
+
+> Scott talks to Clarity Consulting Creative Director Erik Klimczak about porting the iOS touch-based game "Contre Jour" to HTML5 and JavaScript with the support of the IE team.
+
+Wow I had no idea that this was going on. Listen to the interview, amazing how much scrutiny went into making this multiple award winning game work smoothly in the browser. Which libraries did they use? What were the difficulties?
+
+Check out the game [right here](http://www.contrejour.ie/) and play in awe as I did, once you see how well it works.
