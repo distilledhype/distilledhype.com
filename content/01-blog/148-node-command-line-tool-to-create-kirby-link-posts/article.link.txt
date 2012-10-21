@@ -20,7 +20,7 @@ Since it was a little tiresome for me to create a folder and file for every post
 
 Now I just have to call
 
-`klp 'Title of post' http://externallink.com`
+    klp 'Title of post' http://externallink.com
 
 to automatically create folder, file and fill in title and link in the right place, plus it opens the file automatically in Sublime for editing.
 
