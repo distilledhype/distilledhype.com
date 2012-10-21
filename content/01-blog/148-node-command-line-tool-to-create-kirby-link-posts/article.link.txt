@@ -18,7 +18,11 @@ In that folder I have to create a file called `article.link.txt` and in that tex
 
 Since it was a little tiresome for me to create a folder and file for everypost I automated it with Node.
 
-Now I just have to call `klp 'Title of post' http://externallink.com` to automatically create folder, file and fill in title and link in the right place, plus it opens the file automatically in Sublime for editing.
+Now I just have to call
+
+`klp 'Title of post' http://externallink.com`
+
+to automatically create folder, file and fill in title and link in the right place, plus it opens the file automatically in Sublime for editing.
 
 Boom.
 
