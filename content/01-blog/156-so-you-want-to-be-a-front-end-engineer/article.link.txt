@@ -1,0 +1,17 @@
+Title: So, You Want To Be A Front-End Engineer By @dmosher
+
+----
+
+Link: https://speakerdeck.com/dmosher/so-you-want-to-be-a-front-end-engineer
+
+----
+
+Date: 10/23/2012
+
+----
+
+Text: > BROWSERS >> The most volatile programming environment the world has ever known.
+
+The design of these is amazing. Great subject too. Hopfully this talk will be recorded next time he presents it!
+
+via @[addyosmani](https://twitter.com/addyosmani/status/260739574345637889)
