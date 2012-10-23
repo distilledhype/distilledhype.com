@@ -1,0 +1,15 @@
+Title: Overlay Behind Lightbox In One Simple Line Via @leaverou
+
+----
+
+Link: https://twitter.com/wilto/status/260850475635728384
+
+----
+
+Date: 10/23/2012
+
+----
+
+Text: > `outline: 9999px solid rgba(0,0,0,.3);`
+
+Ba-Ba-Boom.
