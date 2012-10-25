@@ -15,3 +15,5 @@ Text:
 > The `with` statement is a fairly neat way to replicate block scope.
 
 And many more "blasphemic" things from Angus. Very good talk!
+
+via @[asciidisco](http://twitter.com/asciidisco)
