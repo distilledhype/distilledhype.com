@@ -18,4 +18,4 @@ Summly seems interesting, I am always interested in new ways to get high quality
 
 There is one thing I would identify as a mistake already though: showing the amount of "unread" articles on the cover page is not very useful, actually rather the opposite. It creates stress since you will never ever be able to read everything.
 
-The solution is: just don't show the number. Also don't call non-viewed articles as unread. It's not accurate anyway, at least the writer of the article has read it. The don't have be read by the app user. They have to try to peak the app user's interest and not all of them will do that.
+The solution is: just don't show the number. Also don't call non-viewed articles unread. It's not accurate anyway, at least the writer of the article has read it. The don't have be read by the app user. They have to try to peak the app user's interest and not all of them will do that.
