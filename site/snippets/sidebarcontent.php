@@ -9,7 +9,7 @@
             <a href="/newsletter" title="Get a newsletter. Maybe. Sometimes.">Newsletter</a>
         </li>
         <li>
-            <a href="mailto:kahlil@kahlil.co" title="Send feedback or link tips.">Contact</a>
+            <a href="mailto:hello@kahlil.co" title="Send feedback or link tips.">Contact</a>
         </li>
         <li>
             <a href="/feed" title="Get the feed.">RSS</a>
