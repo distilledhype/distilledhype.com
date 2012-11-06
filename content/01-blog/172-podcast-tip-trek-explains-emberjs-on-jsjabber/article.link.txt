@@ -1,0 +1,15 @@
+Title: Podcast Tip: @trek Explains @emberjs On @jsjabber
+
+----
+
+Link: http://javascriptjabber.com/034-jsj-ember-js/
+
+----
+
+Date: 11/6/2012
+
+----
+
+Text:
+
+Trek is the guy that [really knows his way around Ember](http://distilledhype.com/holy-crap-ember-instructions) remember? This episode of JSJabber gives you the low down on how Ember is different to Backbone and explains a bit of the "magic" going on.
