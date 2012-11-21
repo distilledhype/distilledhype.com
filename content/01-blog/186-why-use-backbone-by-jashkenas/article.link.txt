@@ -13,3 +13,5 @@ Date: 11/21/2012
 Text:
 
 > Backbone.js aims to provide the common foundation that data-rich web applications with ambitious interfaces require — while very deliberately avoiding painting you into a corner by making any decisions that you're better equipped to make yourself.
+
+It seems to me Jeremy wants to be very explicit about what he thinks are Backbone's advantages over Ember.js.
