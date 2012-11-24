@@ -1,0 +1,17 @@
+Title: A Best Of The New Stuffz Coming To JS By @addyosmani
+
+----
+
+Link: http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/
+
+----
+
+Date: 11/25/2012
+
+----
+
+Text:
+
+> I believe the day-to-day practice of writing JavaScript is going to change dramatically for the better when ECMAScript.next arrives.
+
+And as Addy lays out in the article there are polyfills that allow you to use many of these features today.
