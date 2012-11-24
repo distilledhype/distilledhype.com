@@ -13,3 +13,5 @@ Date: 11/25/2012
 Text:
 
 > You can go a long way with small, incremental improvements and tests (+ static analysis in my case) to back you up.
+
+Nice video tip in there too.
