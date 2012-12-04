@@ -1,0 +1,15 @@
+Title: JavaScript Snippets For Sublime By @jprichardson
+
+----
+
+Link: https://github.com/jprichardson/sublime-js-snippets
+
+----
+
+Date: 12/4/2012
+
+----
+
+Text:
+
+> Very useful.
