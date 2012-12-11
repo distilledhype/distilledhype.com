@@ -1,0 +1,17 @@
+Title: Performance Optimization With The Chrome Dev Tools By @addyosmani
+
+----
+
+Link: https://plus.google.com/115133653231679625609/posts/FMhSVPU7K2B
+
+----
+
+Date: 12/10/2012
+
+----
+
+Text:
+
+> Being aware of how to measure and improve performance can be a useful skill and in this short post, I'll give you a quick refresher on how this can be done with the Chrome DevTools Timeline and Profiles.
+
+Very thorough and might I add, very needed article on the matter. Thanks Addy.
