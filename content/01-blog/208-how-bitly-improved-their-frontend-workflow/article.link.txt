@@ -1,0 +1,17 @@
+Title: How Bitly Improved Their Frontend Workflow
+
+----
+
+Link: http://word.bitly.com/post/37725436365/improving-frontend-code-quality
+
+----
+
+Date: 12/16/2012
+
+----
+
+Text:
+
+> Once we had a chance to take a step back and regroup, I saw that we could be more productive if we invested in a common JavaScript style (both syntax and module level patterns) and re-evaluated which libraries we were leveraging to build the site.
+
+A great overview of the best practices Bitly introduced into their frontend workflow.
