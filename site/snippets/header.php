@@ -21,7 +21,7 @@
   <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/DistilledFromTheHype" title="Distilled From The Hype - The Feed" />
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700|Open+Sans:400italic,800,700,400,300,' rel='stylesheet' type='text/css'>
 
-  <?php echo css('assets/css/bootstrap.css') ?>
+  <?php echo css('assets/css/bootstrap.css?v2') ?>
   <?php echo css('assets/css/responsive.css') ?>
 
 </head>
