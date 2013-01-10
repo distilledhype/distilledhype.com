@@ -1,0 +1,15 @@
+Title: Backbone Tut By @dailyjs
+
+----
+
+Link: http://dailyjs.com/2012/11/29/backbone-tutorial-1/
+
+----
+
+Date: 1/10/2013
+
+----
+
+Text:
+
+I really like this tutorial. It is very practical and promotes professional programming practices.

@@ -1,0 +1,16 @@
+Title: Tween.js
+
+----
+
+Link: https://github.com/sole/tween.js
+
+----
+
+Date: 1/10/2013
+
+----
+
+Text:
+
+> Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.
+
