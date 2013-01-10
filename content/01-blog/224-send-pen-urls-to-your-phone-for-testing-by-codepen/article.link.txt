@@ -1,0 +1,21 @@
+Title: Send Pen URLs To Your Phone For Testing By @codepen
+
+----
+
+Link: http://blog.codepen.io/2012/12/31/new-feature-send-text-message-of-pen-url-to-your-phone-for-testing/
+
+----
+
+Date: 1/10/2013
+
+----
+
+Text:
+
+Say what, homie?!
+
+> You’ll get a text message (SMS) on your phone with a URL in it you can click to go straight to the “Full View” for that pen. Much easier.
+
+Now that is mad wicked. If you are a Pro user the link will point to the new live view of CodePen that shows changes immediately.
+
+Those features reduce friction for testing on phones immensely.
