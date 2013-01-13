@@ -1,0 +1,17 @@
+Title: Web Component Introduction Screencast
+
+----
+
+Link: http://vimeo.com/48054442
+
+----
+
+Date: 1/13/2013
+
+----
+
+Text:
+
+> An introduction into using the javascript implementation of components, walking through a quick example of how you might integrate them into your application.
+
+Pretty cool!
