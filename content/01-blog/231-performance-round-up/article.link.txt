@@ -1,0 +1,17 @@
+Title: Performance Round-Up
+
+----
+
+Link: https://plus.google.com/115133653231679625609/posts/CirvUcVVCEv
+
+----
+
+Date: 1/13/2013
+
+----
+
+Text:
+
+> I've recently seen apps whose performance is being crushed by large & expensive paints, extra layouts, bad event decoupling or too many network requests. They are all fixable items, and Chrome's DevTools and tracing tool both do a great job of showing you what's going on under the hood.
+
+Paul Lewis from Google put together all that important performance stuff that came up by the end of last year. Awesome.
