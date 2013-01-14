@@ -1,4 +1,4 @@
-Title: Lightboxes On Mobile By @bradfrost
+Title: Lightboxes On Mobile By @brad_frost
 
 ----
 
