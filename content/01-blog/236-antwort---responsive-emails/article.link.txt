@@ -14,4 +14,4 @@ Text:
 
 > Responsive Layouts for Email
 
-Nice. Good old HTML tables.
+Nice. Who knew that the good old HTML tables could do this :)
