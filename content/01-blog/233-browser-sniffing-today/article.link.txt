@@ -1,0 +1,17 @@
+Title: Browser Sniffing Today?
+
+----
+
+Link: http://www.elijahmanor.com/2013/01/does-browser-sniffing-still-have-place.html
+
+----
+
+Date: 1/15/2013
+
+----
+
+Text:
+
+> I recently became curious as to when browser sniffing might ever be acceptable. I mean, surely there must be a valid use case even if it isn't pretty. So, I went on a search on Twitter and I also polled some of my close developer friends on their thoughts. The following is a list of my findings.
+
+Great article on the subject of browser sniffing and how it might be used today.
