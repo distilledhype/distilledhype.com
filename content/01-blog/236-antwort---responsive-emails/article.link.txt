@@ -1,0 +1,17 @@
+Title: Antwort - Responsive Emails
+
+----
+
+Link: http://internations.github.com/antwort/
+
+----
+
+Date: 1/15/2013
+
+----
+
+Text:
+
+> Responsive Layouts for Email
+
+Nice. Good old HTML tables.
