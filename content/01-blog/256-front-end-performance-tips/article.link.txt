@@ -1,0 +1,15 @@
+Title: Front-End Performance Tips
+
+----
+
+Link: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+
+----
+
+Date: 1/27/2013
+
+----
+
+Text:
+
+> I’m going to share – in this massive article – a load of quick, simple and downright intriguing bits of perf knowledge to act as a primer for web designers and front-end developers alike; hopefully this article will serve as a decent introduction for anyone wanting to start learning about perf, and making their front-ends blazingly fast.
