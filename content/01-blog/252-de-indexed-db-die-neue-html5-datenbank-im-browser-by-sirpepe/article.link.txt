@@ -1,0 +1,13 @@
+Title: [DE] Indexed DB, die neue HTML5-Datenbank im Browser By @sir_pepe
+
+----
+
+Link: http://www.peterkroener.de/indexed-db-die-neue-html5-datenbank-im-browser-teil-1-ein-kurzer-ueberblick/
+
+----
+
+Date: 1/27/2013
+
+----
+
+Text: > Anders als bei Web Storage kann Indexed DB neben Strings auch Zahlen, Objekte und Arrays persistent speichern und selbst Blobs stellen kein Problem dar. Darüber hinaus können die gespeicherten Inhalte einfach aus der Datenbank herausgepickt werden und über Teile der Daten zu iterieren ist auch möglich – wie es bei einer richtigen Datenbank eben sein sollte.
