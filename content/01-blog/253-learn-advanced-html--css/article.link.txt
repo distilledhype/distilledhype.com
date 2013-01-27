@@ -1,0 +1,17 @@
+Title: Learn Advanced HTML & CSS
+
+----
+
+Link: http://learn.shayhowe.com/advanced-html-css/
+
+----
+
+Date: 1/27/2013
+
+----
+
+Text:
+
+> A Practical Guide to HTML & CSS has one goal – to teach people how to build beautiful and intuitive websites by way of clear and organized lessons. The guide covers a variety of topics within web design and development, ranging from beginner to advanced skill levels.
+
+Send to a newbie!
