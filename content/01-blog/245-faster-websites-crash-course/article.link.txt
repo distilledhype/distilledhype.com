@@ -1,0 +1,13 @@
+Title: Faster Websites Crash Course
+
+----
+
+Link: http://www.igvita.com/2013/01/15/faster-websites-crash-course-on-web-performance/
+
+----
+
+Date: 1/27/2013
+
+----
+
+Text: A 3 hour course for free. Cool beans.
