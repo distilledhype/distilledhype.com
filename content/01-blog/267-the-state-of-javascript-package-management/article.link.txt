@@ -1,0 +1,13 @@
+Title: The State Of JavaScript Package Management
+
+----
+
+Link: http://wibblycode.wordpress.com/2013/01/01/the-state-of-javascript-package-management/
+
+----
+
+Date: 1/30/2013
+
+----
+
+Text: Wibblymat offers the facts and some interesting opinions.
