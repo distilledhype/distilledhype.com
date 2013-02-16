@@ -1,0 +1,15 @@
+Title: Why Discourse Uses @emberjs
+
+----
+
+Link: http://eviltrout.com/2013/02/10/why-discourse-uses-emberjs.html
+
+----
+
+Date: 2/16/2013
+
+----
+
+Text:
+
+> One question people keep asking me is “Why did you choose Ember.js?”. It’s a good one, and one that I think can be considered in two ways: “Why use a a client side MVC Framework?” and “Why Ember out of all the frameworks?” Here’s my answer to both of those questions.
