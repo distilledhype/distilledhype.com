@@ -1,4 +1,4 @@
-Title: SynFileSystem API
+Title: SyncFileSystem API
 
 ----
 
