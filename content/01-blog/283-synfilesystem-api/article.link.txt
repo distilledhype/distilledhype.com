@@ -1,0 +1,13 @@
+Title: SynFileSystem API
+
+----
+
+Link: https://plus.google.com/100132233764003563318/posts/DvKkE83U8M7
+
+----
+
+Date: 2/23/2013
+
+----
+
+Text: > Sync FileSystem API is a storage API that appears as yet another local offline HTML5 FileSystem storage which gives app-private sandboxed file storage, except that the storage content is automatically synchronized across clients via a cloud backing service like Google Drive.
