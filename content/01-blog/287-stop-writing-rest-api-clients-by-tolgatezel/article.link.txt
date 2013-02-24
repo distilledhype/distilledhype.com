@@ -1,4 +1,4 @@
-Title: Stop Wrtiing REST API Clients By @tolga_tezel
+Title: Stop Writing REST API Clients By @tolga_tezel
 
 ----
 
