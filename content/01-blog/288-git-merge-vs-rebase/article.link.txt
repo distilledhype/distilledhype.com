@@ -1,0 +1,17 @@
+Title: Git Merge vs. Rebase
+
+----
+
+Link: http://mislav.uniqpath.com/2013/02/merge-vs-rebase/
+
+----
+
+Date: 3/20/2013
+
+----
+
+Text:
+
+> You should always pull with `git pull --rebase`. Git can be configured to make it the default behavior
+
+Useful tips galore.

@@ -1,0 +1,21 @@
+Title: Easy SVG Fallback
+
+----
+
+Link: http://germanforblack.com/post/43975575422/protip-all-browsers-that-support-svg-background-images
+
+----
+
+Date: 3/20/2013
+
+----
+
+Text:
+
+```
+.module {
+    background: url('logo.png');
+    background: none, url('logo.svg');
+}
+```
+So nifty.
