@@ -1,0 +1,19 @@
+Title: Highest Quality JavaScript Resources Curated By @superhero_js
+
+----
+
+Link: http://superherojs.com/
+
+----
+
+Date: 3/20/2013
+
+----
+
+Text:
+
+> Creating, testing and maintaining a large JavaScript code base is not easy — especially since great resources on how to do this are hard to find. This page is a collection of the best articles, videos and presentations we've found on the topic.
+
+An amazing resource for professional JavaScript developers.
+
+Thanks so much to superhero.js for linking up Distilled Hype!
