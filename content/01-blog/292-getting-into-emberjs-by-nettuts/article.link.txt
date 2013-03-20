@@ -1,0 +1,17 @@
+Title: Getting Into Ember.js By @nettuts
+
+----
+
+Link: http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/
+
+----
+
+Date: 3/20/2013
+
+----
+
+Text:
+
+> What I’d like to do is help get you up to speed with Ember.js, via a multi-part article series which will gradually introduce you to the concepts of the framework.
+
+Great overview and intro to Ember.js.

@@ -1,0 +1,15 @@
+Title: Should You Load jQuery From A CDN? -> New Research By @souders
+
+----
+
+Link: http://www.stevesouders.com/blog/2013/03/18/http-archive-jquery/
+
+----
+
+Date: 3/20/2013
+
+----
+
+Text:
+
+> Steve(W)’s article concludes by saying that loading jQuery from Google Hosted Libraries is probably NOT a good idea because of the low percentage of sites that use a single version. Instead, developers should bundle jQuery with their own scripts and host it from their own web server. Steve got his data from the HTTP Archive – a project that I run. His article was written in November 2011 so I wanted to update the numbers in this post to help the folks on that Github thread. I also raise some issues that arise from creating combined scripts, especially ones that result in sizes greater than jQuery.
