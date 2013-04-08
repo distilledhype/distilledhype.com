@@ -14,4 +14,4 @@ Text:
 
 > The exceptionally handsome dashboard framework.
 
-Exceptionally handsome, indeed.
+Exceptionally handsome indeed.
