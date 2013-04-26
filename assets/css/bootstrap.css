@@ -4788,7 +4788,7 @@ article {
 }
 article h1 {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 26px;
+  font-size: 21px;
   font-weight: 300;
   line-height: 40px;
   color: #607890;
@@ -4797,9 +4797,9 @@ article h1 a {
   display: block;
   position: relative;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 26px;
+  font-size: 21px;
   font-weight: 300;
-  line-height: 40px;
+  line-height: 33px;
   color: #607890;
   text-transform: uppercase;
 }
