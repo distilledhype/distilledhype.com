@@ -28,5 +28,5 @@
 <body class="preload">
 	<header class="container header">
     	<h1><a href="<?php echo url() ?>" id="header">Distilled Hype</a></h1>
-        <p class="subtitle">By @<a href="http://twitter.com/@distilledhype">Kahlil Lechelt</a>.</p>
+        <p class="subtitle">By <a href="http://twitter.com/@distilledhype">Kahlil Lechelt</a>.</p>
 	</header>
