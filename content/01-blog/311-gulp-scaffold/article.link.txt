@@ -1,0 +1,19 @@
+Title: gulp-scaffold
+
+----
+
+Link: https://github.com/distilledhype/gulp-scaffold
+
+----
+
+Date: 08/01/2014
+
+----
+
+Text:
+
+Yesterday I sent (link: text:this PR) for (link:https://github.com/sindresorhus/gulp-template text:gulp-template) which bloated up the Gulp plugin unnecessarily. I wanted to parse cli options and send that as data to the templating function. Sindre rejected that plugin and rightly so, since you can do what I wanted to do by just (link: text:requiring a node module in the gulp-template call).
+
+That's so cool.
+
+So I created the gulp-scaffold repo to document what I learned and maybe even collect some more scaffolding ideas.
