@@ -1,0 +1,28 @@
+{
+  "name": "distilledhype.com",
+  "version": "1.0.0",
+  "description": "A blog by Kahlil Lechelt.",
+  "main": "index.php",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-textfile": "~0.2.0"
+  },
+  "devDependencies": {
+    "grunt-textfile": "~0.2.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-qunit": "~0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://links@pegasus.uberspace.de/home/links/git/distilledfromthehype.com.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Kahlil Lechelt",
+  "license": "All rights reserved."
+}
