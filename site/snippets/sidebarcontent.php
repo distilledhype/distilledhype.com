@@ -12,6 +12,9 @@
             <a href="mailto:hello@kahlil.co" title="Send feedback or link tips.">Contact</a>
         </li>
         <li>
+            <a href="/about" title="About Kahlil Lechelt">About</a>
+        </li>
+        <li>
             <a href="/feed" title="Get the feed.">RSS</a>
         </li>
         <li>
