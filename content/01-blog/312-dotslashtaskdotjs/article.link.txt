@@ -12,7 +12,7 @@ Date: 08/01/2014
 
 Text:
 
-substack (link: http://substack.net/task_automation_with_npm_run text:has been very vocal) about his opinion on JavaScript task runners like Grunt or Gulp.
+(twitter:substack) (link: http://substack.net/task_automation_with_npm_run text:has been very vocal) about his opinion on JavaScript task runners like Grunt or Gulp.
 
 To emphasize his point further he created a new task runner called `./task.js` which does exactly what he describes in his `npm run` post but completely without using npm or bash scripts.
 
@@ -27,7 +27,7 @@ The post is very funny.
 
 > `./task.js` provides the structure, order, and authority that you as a developer so desperately crave.
 
-For context: In (link: lxjstalk text:this talk) he describes npm as proof that anarchy works. Which is a weird thing to say since npm is a centralized system with strict rules and conventions.
+For context: In (link:http://www.youtube.com/watch?v=DCQNm6yiZh0#t=616 text:this talk) he states that npm works because anarchy works. Which is a weird thing to say since npm is a centralized system with strict rules and conventions.
 
 Anyway, it's entertaining on one hand but also very interesting for me personally on the other hand, to learn how easy it is to set up your build tasks without a build tool and just simple pure JS and node modules.
 
