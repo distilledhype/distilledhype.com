@@ -1,0 +1,23 @@
+Title: Gulp vs Grunt (Please don't!)
+
+----
+
+Link: https://plus.google.com/+sindresorhus/posts/BvPrVz5fbcz
+
+----
+
+Date: 09/01/2014
+
+----
+
+Text:
+
+(twitter:sindresorhus):
+
+> Things aren't purely black and white. It's actually more vivid. Gulp isn't intended to replace Grunt. They can happily coexist serving different needs, preferences and competency levels. Please stop trying to fit a > operator between them.
+>
+> Diversity is good for innovation! Try out both and pick your poison :)
+>
+> (link:http://www.reddit.com/r/javascript/comments/1uk7we/and_just_like_that_grunt_is_out_its_all_about/cej29ig text:This) sums it up nicely:
+>
+> > Grunt and gulp are two different beasts with their own strengths and weaknesses. [...] The bottom line is that the authors behind these projects have the same end-goal: To provide great software for the JavaScript community﻿
