@@ -14,4 +14,4 @@ Text:
 
 > There are a few reasons why I believe Gulp won't push Grunt to the brink of dehydration out in the desert. If anything, it'll bring more attention to it, by pushing the boundaries of what JavaScript task runners can do. First off, Gulp won't "beat" Grunt because it isn't anyone's goal for that to happen, certainly not that of industry leaders.
 
-Really good read. Fun fact: after this article came out (twitter:substack) published `./task.js` as a npm module called "whatever".
+Really good read. Fun fact: after this article came out (twitter:substack) published `./task.js` as an npm module called "whatever".
