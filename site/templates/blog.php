@@ -6,7 +6,7 @@
             <?php snippet('sidebarcontent') ?>
         </div>
         <div class="span5">
-
+            <?php $next_date = ''; ?>
             <?php $articles = $page->children()->visible()->flip()->paginate(42) ?>
             <?php foreach( $articles as $article ): ?>
                 <article>
