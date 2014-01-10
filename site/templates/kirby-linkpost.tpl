@@ -6,7 +6,7 @@ Link: <%= grunt.option('link') %>
 
 ----
 
-Date: <%= grunt.template.today('dd/mm/yyyy') %>
+Date: <%= grunt.template.today('mm/dd/yyyy') %>
 
 ----
 
