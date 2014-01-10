@@ -13,6 +13,6 @@ hello@kahlil.co
 
 The concept of link blogging is totally stolen from [John Gruber's Daring Fireball](http://daringfireball.net).
 
-Kahlil also the owns the URL [kahlil.co](http://kahlil.co), is an executive producer on the [Agent Lexie project](http://agentlexie.com) and currently works at [ETECTURE](http://etecture.de).
+Kahlil also owns the the URL [kahlil.co](http://kahlil.co), is an executive producer on the [Agent Lexie project](http://agentlexie.com) and currently works at [ETECTURE](http://etecture.de).
 
 Opinions are his own.
