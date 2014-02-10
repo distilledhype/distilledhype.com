@@ -2,7 +2,7 @@ Title: A Static Fileserver & LiveReload with Gulp
 
 ----
 
-Link: https://medium.com/publish-what-you-learn/843af0a63a1f
+Link: https://medium.com/publish-what-you-learn/23812e4c9ec1
 
 ----
 
