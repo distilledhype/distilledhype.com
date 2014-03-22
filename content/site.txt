@@ -14,5 +14,4 @@ Keywords: links, webdev, nerdery, geekery, startups, front-end development
 
 ----
 
-Copyright: © (date: Year) (link: http://kahlil.co text: Kahlil Lechelt) • [About](http://kahlil.co)
-Built with [Kirby](http://getkirby.com) [&amp; &hearts;](http://getkirby.com/made-with-kirby-and-love) • Hosted on [Uberspace](http://uberspace.de) • Use j and k to navigate posts
+Copyright: © (date: Year). (link: http://kahlil.co text: Kahlil Lechelt)

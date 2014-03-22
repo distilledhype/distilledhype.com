@@ -41,27 +41,15 @@ module.exports = function(grunt) {
         files: '<%= jshint.lib_test.src %>',
         tasks: ['jshint:lib_test', 'qunit']
       }
-    },
-    textfile: {
-      options: {
-        templateDir: 'site/templates',
-        dest: 'content/01-blog',
-        openFile: true
-      },
-      linkpost: {
-        options: {
-          template: 'kirby-linkpost.tpl',
-          urlFormat: 'PREFIX-SLUG/article.link.txt'
-        }
-      }
     }
   });
+
+  grunt.loadTasks('grunt');
 
   // These plugins provide necessary tasks.
   grunt.loadNpmTasks('grunt-contrib-qunit');
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-textfile');
 
   // Default task.
   grunt.registerTask('default', ['jshint', 'qunit']);

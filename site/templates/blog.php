@@ -1,108 +1,91 @@
 <?php snippet('header') ?>
-<section class="container blog">
+<?php snippet('sidebar') ?>
+<div class="posts">
+  <?php $next_date = ''; ?>
+  <?php $articles = $page->children()->visible()->flip()->paginate(42) ?>
+  <?php foreach( $articles as $article ): ?>
 
-    <div class="row">
-        <div class="span2">
-            <?php snippet('sidebarcontent') ?>
-        </div>
-        <div class="span5">
-            <?php $next_date = ''; ?>
-            <?php $articles = $page->children()->visible()->flip()->paginate(42) ?>
-            <?php foreach( $articles as $article ): ?>
-                <article>
+  <?php
+      $current_date = $article->date();
+      // Do the damn thing.
+      if ( $next_date && $article->date() ) {
+          if ( $current_date < $next_date ) {
+          }
+      }
 
-                <?php
-                    $current_date = $article->date();
-                    // Do the damn thing.
-                    if ( $next_date && $article->date() ) {
-                        if ( $current_date < $next_date ) {
-                ?>
-                        <time class="dailydate" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
-                            <?php echo date( 'l', $current_date ) ?>,
-                            <?php echo ' ' . date( 'j F Y', $current_date ) ?>
-                        </time>
+      $next_date = $article->date();
+  ?>
 
-                <?php
-                        }
-                    }
+  <?php if($article->template() == 'article.text'): ?>
 
-                    $next_date = $article->date();
-                ?>
+  <div class="post">
+    <h1 class="post-title">
+      <a href="<?php echo $article->url() ?>">
+      <?php echo html($article->title()) ?></a>
+    </h1>
 
-                <?php if($article->template() == 'article.text'): ?>
+    <time class="post-date" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
+      <?php echo date( 'l', $current_date ) ?>,
+      <?php echo ' ' . date( 'j F Y', $current_date ) ?>
+    </time>
 
-                    <h1>
-                        <a href="<?php echo $article->url() ?>">
-                        <?php echo html($article->title()) ?></a>
-                    </h1>
+    <p><?php echo kirbytext($article->text()) ?></p>
+  </div>
 
-                    <p><?php echo excerpt($article->text(), 250) ?></p>
-                    <a href="<?php echo $article->url() ?>" class="morelink">more &#8250;</a>
+  <?php elseif($article->template() == 'article.link'): ?>
 
-                <?php elseif($article->template() == 'article.link'): ?>
+  <div class="post linkpost">
+    <h1 class="post-title">
+      <a href="<?php echo $article->link() ?>">
+      <?php echo html($article->title()) ?>&nbsp;&#8674;
+      </a>
+    </h1>
 
+    <time class="post-date" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
+      <a href="<?php echo $article->url() ?>">
+        <?php echo date( 'l', $current_date ) ?>,
+        <?php echo ' ' . date( 'j F Y', $current_date ) ?>
+      </a>
+    </time>
 
+    <?php echo kirbytext($article->text()) ?>
+  </div>
 
-                    <article class="linkpost">
-                        <h1>
-                            <a href="<?php echo $article->link() ?>">
-                            <?php echo html($article->title()) ?>&nbsp;&#8674;
-                            </a>
-                        </h1>
+  <?php elseif($article->template() == 'article.video'): ?>
 
-                        <?php echo kirbytext($article->text()) ?>
+  <!-- put the HTML for the video post here -->
 
-                        <!-- <a href="<?php echo $article->url() ?>" class="morelink">&#9749;</a> -->
-                        <a href="<?php echo $article->url() ?>" class="morelink">
-                            <img src="/assets/img/coffeecup_20.png" alt="Coffee cup" width="20" height="20">
-                        </a>
-                        <?php if ( $article->date('c') ) : ?>
-                        <time class="date_article" datetime="<?php echo $article->date('c') ?>" pubdate="pubdate">
-                            <a href="<?php echo $article->url() ?>">Distilled on <?php echo $article->date('l') ?>, the <?php echo $article->date('jS') ?> of <?php echo $article->date('F Y') ?>
-                            </a>
-                        </time>
-                        <?php endif ?>
-                    </article>
+  <?php elseif($article->template() == 'article.image'): ?>
 
-                <?php elseif($article->template() == 'article.video'): ?>
+  <!-- put the HTML for the image post here -->
 
-                <!-- put the HTML for the video post here -->
+  <?php elseif($article->template() == 'article.quote'): ?>
 
-                <?php elseif($article->template() == 'article.image'): ?>
+  <!-- put the HTML for the quote post here -->
 
-                <!-- put the HTML for the image post here -->
+  <?php endif ?>
 
-                <?php elseif($article->template() == 'article.quote'): ?>
+  <?php endforeach ?>
 
-                <!-- put the HTML for the quote post here -->
+  <?php if($articles->pagination()->hasPages()): ?>
+  <nav class="pagination">
 
-                <?php endif ?>
+    <?php
+      $has_next = $articles->pagination()->hasNextPage();
+      $has_prev = $articles->pagination()->hasPrevPage();
+    ?>
 
-                </article>
-            <?php endforeach ?>
+    <?php if($has_next): ?>
+    <a class="next" href="<?php echo $articles->pagination()->nextPageURL() ?>">&lsaquo; older posts</a>
+    <?php endif ?>
 
-            <?php if($articles->pagination()->hasPages()): ?>
-                <nav class="pagination">
+    <?php if($has_prev): ?>
+    <a class="prev<?php if($has_next && $has_prev): ?> prev-padding-left<?php endif ?>" href="<?php echo $articles->pagination()->prevPageURL() ?>">newer posts &rsaquo;</a>
+    <?php endif ?>
 
-                  <?php
-                    $has_next = $articles->pagination()->hasNextPage();
-                    $has_prev = $articles->pagination()->hasPrevPage();
-                  ?>
+  </nav>
+  <?php endif ?>
 
-                  <?php if($has_next): ?>
-                  <a class="next" href="<?php echo $articles->pagination()->nextPageURL() ?>">&lsaquo; older posts</a>
-                  <?php endif ?>
-
-                  <?php if($has_prev): ?>
-                  <a class="prev<?php if($has_next && $has_prev): ?> prev-padding-left<?php endif ?>" href="<?php echo $articles->pagination()->prevPageURL() ?>">newer posts &rsaquo;</a>
-                  <?php endif ?>
-
-                </nav>
-            <?php endif ?>
-
-        </div>
-    </div>
-
-</section>
+</div>
 
 <?php snippet('footer') ?>
