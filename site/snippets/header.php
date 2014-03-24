@@ -18,7 +18,6 @@
   <link rel="shortcut icon" href="<?php echo url('assets/img/favicon.ico') ?>" />
 
   <meta name="viewport" content="width=device-width">
-  <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/DistilledFromTheHype" title="Distilled From The Hype - The Feed" />
 
   <?php echo css('assets/css/poole.css') ?>
   <?php echo css('assets/css/syntax.css') ?>
