@@ -2,7 +2,7 @@
 <?php snippet('sidebar') ?>
 <div class="posts">
   <?php $next_date = ''; ?>
-  <?php $articles = $page->children()->visible()->flip()->paginate(42) ?>
+  <?php $articles = $page->children()->visible()->flip()->paginate(5) ?>
   <?php foreach( $articles as $article ): ?>
 
   <?php
@@ -37,7 +37,7 @@
   <div class="post linkpost">
     <h1 class="post-title">
       <a href="<?php echo $article->link() ?>">
-      <?php echo html($article->title()) ?>&nbsp;&#8674;
+      <?php echo html($article->title()) ?>&nbsp;<?php echo c::get('linkicon', '&rarr;') ?>
       </a>
     </h1>
 
@@ -67,24 +67,7 @@
 
   <?php endforeach ?>
 
-  <?php if($articles->pagination()->hasPages()): ?>
-  <nav class="pagination">
-
-    <?php
-      $has_next = $articles->pagination()->hasNextPage();
-      $has_prev = $articles->pagination()->hasPrevPage();
-    ?>
-
-    <?php if($has_next): ?>
-    <a class="next" href="<?php echo $articles->pagination()->nextPageURL() ?>">&lsaquo; older posts</a>
-    <?php endif ?>
-
-    <?php if($has_prev): ?>
-    <a class="prev<?php if($has_next && $has_prev): ?> prev-padding-left<?php endif ?>" href="<?php echo $articles->pagination()->prevPageURL() ?>">newer posts &rsaquo;</a>
-    <?php endif ?>
-
-  </nav>
-  <?php endif ?>
+  <?php snippet('pagination', array('articles' => $articles)) ?>
 
 </div>
 

@@ -291,6 +291,8 @@ c::set('yourproject.yourvar', 'yourvalue');
 
 */
 
+c::set('linkicon', '&#10513;');
+
 
 /*
 

@@ -3,18 +3,6 @@
   <?php echo snippet('sidebar-about') ?>
   <ul class="sidebar-nav">
     <?php echo snippet('menu-loop') ?>
-    <li class="sidebar-nav-item">
-      <a href="http://twitter.com/distilledhype" title="Kahlil's Twitter.">@distilledhype</a>
-    </li>
-    <li class="sidebar-nav-item">
-      <?php echo str::email('hello@kahlil.co', 'eMail') ?>
-    </li>
-    <li class="sidebar-nav-item">
-      <a href="/feed" title="Get the feed.">RSS feed</a>
-    </li>
-    <li class="sidebar-nav-item">
-      <a href="https://www.facebook.com/distilledhype" title="Like it up.">fb</a>
-    </li>
   </ul>
 
   <div class="influad">

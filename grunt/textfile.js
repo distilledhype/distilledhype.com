@@ -1,4 +1,5 @@
 module.exports = function(grunt) {
+
   grunt.config('textfile', {
     options: {
       templateDir: 'site/templates',
@@ -15,6 +16,13 @@ module.exports = function(grunt) {
       options: {
         template: 'kirby-textpost.tpl',
         urlFormat: 'PREFIX-SLUG/article.text.txt'
+      }
+    },
+    grunttask: {
+      options: {
+        dest: 'grunt',
+        template: 'grunt-task.tpl',
+        urlFormat: 'SLUG.js'
       }
     }
   });
