@@ -3,9 +3,7 @@
 	<!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <?php echo js('assets/js/jquery.js') ?>
-    <?php echo js('assets/js/jquery.jknav.js') ?>
-    <?php echo js('assets/js/script.js') ?>
+    <!-- <?php echo js('assets/js/script.js') ?> -->
 
     <script>
         var _gaq=[['_setAccount','UA-31083292-1'],['_trackPageview']];
