@@ -1,7 +1,0 @@
-Title: Feeds
-
-----
-
-Text:
-
-You can consume the feed of this blog over (link: /feed text: RSS), (link: http://twitter.com/dh_feed, text: Twitter) or (link: https://www.facebook.com/distilledhype text: Facebook).
