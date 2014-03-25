@@ -15,7 +15,7 @@
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
   <meta name="robots" content="index, follow" />
 
-  <link rel="shortcut icon" href="<?php echo url('assets/img/favicon.ico') ?>" />
+  <link rel="shortcut icon" href="<?php echo url('assets/img/favicon.ico?v=2') ?>" />
 
   <meta name="viewport" content="width=device-width">
 
