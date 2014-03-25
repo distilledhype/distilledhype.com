@@ -10,6 +10,7 @@ header('Content-type: text/xml; charset="utf-8"');
 echo '<?xml version="1.0" encoding="utf-8"?>';
 
 ?>
+
 <!-- generator="<?php echo c::get('feed.generator', 'Kirby') ?>" -->
 
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -26,6 +27,8 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
     <?php endif ?>
 
     <?php foreach($items as $item): ?>
+    <?php if ($item->draft() != 'true'): ?>
+
     <item>
       <title><?php echo xml($item->title()) ?></title>
       <link><?php echo xml($item->url()) ?></link>
@@ -45,6 +48,8 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
       <?php endif ?>
 
     </item>
+
+    <?php endif ?>
     <?php endforeach ?>
 
   </channel>
