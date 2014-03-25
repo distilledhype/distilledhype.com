@@ -8,7 +8,10 @@
       <i class="icon-github-circled"></i>
     </a>
     <a href="http://twitter.com/distilledhype">
-      <i class="icon-twitter"></i>
+      <i class="icon-twitter-circled-1"></i>
+    </a>
+    <a href="<?php echo str::encode('mailto:hello@kahlil.co') ?>">
+      <i class="icon-mail-circled"></i>
     </a>
   </div>
 

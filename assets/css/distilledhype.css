@@ -1,6 +1,6 @@
 [class^="icon-"] {
   line-height: 1em;
-  width: 48%;
+  width: 30%;
   display: inline-block;
   text-align: center;
 }
@@ -11,7 +11,8 @@
 }
 
 .sidebar-icons {
-  margin-bottom: 1rem;
+  padding-top: .5rem;
+  margin-bottom: 1.5rem;
 }
 
 .sidebar-icons a {
