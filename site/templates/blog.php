@@ -25,9 +25,11 @@
         <?php echo html($article->title()) ?></a>
       </h1>
 
-      <time class="post-date" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
-        <?php echo date( 'l', $current_date ) ?>,
-        <?php echo ' ' . date( 'j F Y', $current_date ) ?>
+      <time class="post-date" datetime="<?php echo $article->date() ?>" pubdate="pubdate">
+        <a href="<?php echo $article->url() ?>">
+          <?php echo date( 'l', $article->date() ) ?>,
+          <?php echo ' ' . date( 'j F Y', $article->date() ) ?>
+        </a>
       </time>
 
       <p><?php echo kirbytext($article->text()) ?></p>
@@ -42,10 +44,10 @@
         </a>
       </h1>
 
-      <time class="post-date" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
+      <time class="post-date" datetime="<?php echo $article->date() ?>" pubdate="pubdate">
         <a href="<?php echo $article->url() ?>">
-          <?php echo date( 'l', $current_date ) ?>,
-          <?php echo ' ' . date( 'j F Y', $current_date ) ?>
+          <?php echo date( 'l', $article->date() ) ?>,
+          <?php echo ' ' . date( 'j F Y', $article->date() ) ?>
         </a>
       </time>
 

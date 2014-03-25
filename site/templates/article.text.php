@@ -13,4 +13,6 @@
 
 </div>
 
+<?php snippet('disqus') ?>
+
 <?php snippet('footer') ?>

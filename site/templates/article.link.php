@@ -16,4 +16,6 @@
   <?php echo kirbytext($page->text()) ?>
 </div>
 
+<?php snippet('disqus') ?>
+
 <?php snippet('footer') ?>
