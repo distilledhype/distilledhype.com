@@ -22,6 +22,7 @@
   <?php echo css('assets/css/poole.css') ?>
   <?php echo css('assets/css/syntax.css') ?>
   <?php echo css('assets/css/fontello.css') ?>
+  <?php echo css('assets/css/distilledhype.css') ?>
 
 </head>
 <body class="preload">

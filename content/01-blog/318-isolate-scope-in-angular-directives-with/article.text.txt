@@ -1,0 +1,17 @@
+Title: Isolate Scope in Angular Directives with "&"
+
+----
+
+Date: 03/24/2014
+
+----
+
+Draft: true
+
+----
+
+Text:
+
+Today at work I needed to isolate scope in a directive in an Angular because I was ng-repeating a directive and passing in an attribute for each directive. I didn't need it before and I always found directives very hard to understand. So finally I had to take some time out in order to dive in to what is going on here.
+
+After a few short egghead.io video tutorials I finally understood what was going on.

@@ -16,53 +16,55 @@
       $next_date = $article->date();
   ?>
 
-  <?php if($article->template() == 'article.text'): ?>
+  <?php if ($article->draft() != 'true'): ?>
+    <?php if ($article->template() == 'article.text'): ?>
 
-  <div class="post">
-    <h1 class="post-title">
-      <a href="<?php echo $article->url() ?>">
-      <?php echo html($article->title()) ?></a>
-    </h1>
+    <div class="post">
+      <h1 class="post-title">
+        <a href="<?php echo $article->url() ?>">
+        <?php echo html($article->title()) ?></a>
+      </h1>
 
-    <time class="post-date" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
-      <?php echo date( 'l', $current_date ) ?>,
-      <?php echo ' ' . date( 'j F Y', $current_date ) ?>
-    </time>
-
-    <p><?php echo kirbytext($article->text()) ?></p>
-  </div>
-
-  <?php elseif($article->template() == 'article.link'): ?>
-
-  <div class="post linkpost">
-    <h1 class="post-title">
-      <a href="<?php echo $article->link() ?>">
-      <?php echo html($article->title()) ?>&nbsp;<?php echo c::get('linkicon', '&rarr;') ?>
-      </a>
-    </h1>
-
-    <time class="post-date" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
-      <a href="<?php echo $article->url() ?>">
+      <time class="post-date" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
         <?php echo date( 'l', $current_date ) ?>,
         <?php echo ' ' . date( 'j F Y', $current_date ) ?>
-      </a>
-    </time>
+      </time>
 
-    <?php echo kirbytext($article->text()) ?>
-  </div>
+      <p><?php echo kirbytext($article->text()) ?></p>
+    </div>
 
-  <?php elseif($article->template() == 'article.video'): ?>
+    <?php elseif ($article->template() == 'article.link'): ?>
 
-  <!-- put the HTML for the video post here -->
+    <div class="post linkpost">
+      <h1 class="post-title">
+        <a href="<?php echo $article->link() ?>">
+        <?php echo html($article->title()) ?>&nbsp;<?php echo c::get('linkicon', '&rarr;') ?>
+        </a>
+      </h1>
 
-  <?php elseif($article->template() == 'article.image'): ?>
+      <time class="post-date" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
+        <a href="<?php echo $article->url() ?>">
+          <?php echo date( 'l', $current_date ) ?>,
+          <?php echo ' ' . date( 'j F Y', $current_date ) ?>
+        </a>
+      </time>
 
-  <!-- put the HTML for the image post here -->
+      <?php echo kirbytext($article->text()) ?>
+    </div>
 
-  <?php elseif($article->template() == 'article.quote'): ?>
+    <?php elseif ($article->template() == 'article.video'): ?>
 
-  <!-- put the HTML for the quote post here -->
+    <!-- put the HTML for the video post here -->
 
+    <?php elseif ($article->template() == 'article.image'): ?>
+
+    <!-- put the HTML for the image post here -->
+
+    <?php elseif ($article->template() == 'article.quote'): ?>
+
+    <!-- put the HTML for the quote post here -->
+
+    <?php endif ?>
   <?php endif ?>
 
   <?php endforeach ?>
