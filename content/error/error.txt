@@ -1,3 +1,11 @@
-Title: Error
+Title: ʕ◉.◉ʔ Yikes!!
 ----
-Text: The page has not been found
+Text:
+
+Sorry, the page you are looking for has not been found.
+Here is what you could do:
+
+* go back to (link: /home text: Home)
+* search this (link: https://www.google.de/search?q=site%3Adistilledhype.net+searchterm&oq=site%3Adistilledhype.net+searchterm&aqs=chrome..69i57j69i58.12448j0j7&sourceid=chrome&espv=210&es_sm=91&ie=UTF-8#q=site%3Adistilledhype.net+JavaScript&safe=off text: site via Google)
+
+Happy hunting! ᕙ༼ຈل͜ຈ༽ᕗ
