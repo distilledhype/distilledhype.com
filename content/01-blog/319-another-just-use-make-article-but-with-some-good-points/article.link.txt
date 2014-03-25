@@ -1,0 +1,31 @@
+Title: The case for make as a front-end build tool
+
+----
+
+Link: https://algorithms.rdio.com/post/make/
+
+----
+
+Date: 03/25/2014
+
+----
+
+Text:
+
+Everytime a new front-end build tool pops up on the scene there are a bunch of people that say "Just use make!". This article from the Rdio Engineering blog goes into a little more detail than that and makes a good case for make as a front-end build tool, especially for large projects.
+
+I like the fact that inserting logic is very flexible:
+
+> In the example above, this would just involve writing a little program in the language of your choice that, perhaps, takes the development version of the html file, parses out the script tags, and replaces them with the production versions. The beauty of this approach is that that program is entirely self contained. It's very simple, its purpose is clear, and it's such a black box that even the language its written in doesn't matter. It just needs to do the one task that's been asked of it so that it can be composed into something more useful.
+
+make could be more suitable for large projects than Grunt or Gulp because:
+
+> Many watchers are broken on Mac OS X and can't handle more than a few thousand files. This is the biggest problem.
+
+For make there apparently is a solution for that:
+
+> Enter (link: https://github.com/facebook/watchman text: Watchman). Watchman is an open source project from Facebook that solves this one problem and that's it. You define what files you're interested in watching and what you want to do when they change, and it will watch them for changes. It's fast and it works even in very large codebases on Mac OS X.
+
+Maybe we need a Makfile-preprocessor that allows us to configure make with JavaScript.
+
+｡◕‿◕｡
