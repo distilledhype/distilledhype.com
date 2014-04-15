@@ -1,9 +1,13 @@
-
+		<div class="footer">
+      <p>
+        © 2014 Kahlil Lechelt
+      </p>
+    </div>
 	</div>
 	<!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <!-- <?php echo js('assets/js/script.js') ?> -->
+    <?php echo snippet('js') ?>
 
     <script>
         var _gaq=[['_setAccount','UA-31083292-1'],['_trackPageview']];

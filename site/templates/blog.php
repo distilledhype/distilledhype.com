@@ -1,5 +1,7 @@
 <?php snippet('header') ?>
-<?php snippet('sidebar') ?>
+<?php // snippet('sidebar') ?>
+<?php snippet('masthead') ?>
+
 <div class="posts">
   <?php $next_date = ''; ?>
   <?php $articles = $page->children()->visible()->flip()->paginate(5) ?>

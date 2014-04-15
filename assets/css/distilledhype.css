@@ -44,3 +44,41 @@ input[type="submit"] {
 .tl-credit {
   font-size: .65rem;
 }
+
+
+.menu {
+  transition: opacity 0.2s linear;
+  opacity: 0;
+  padding: .5rem 0 0 0;
+}
+
+.menu ul {
+  padding: 0;
+  overflow: hidden; /* clearfix */
+}
+
+.menu ul li {
+  float: left;
+  padding: 0 1rem 0 0;
+  list-style-type: none;
+  line-height: 1rem;
+}
+
+.menu ul li.active a {
+  color: #c0c0c0;
+}
+
+.menu ul li a {
+  font-size: .7rem;
+  color: #c0c0c0;
+}
+
+.footer { margin-top: 1rem; }
+
+.masthead:hover .menu {
+  opacity: 1;
+}
+
+.masthead-title small a {
+  color: #c0c0c0;
+}

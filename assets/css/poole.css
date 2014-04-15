@@ -434,7 +434,7 @@ a.pagination-item:hover {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
-.sidebar {
+/*.sidebar {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -451,23 +451,23 @@ a.pagination-item:hover {
     text-align: left;
     margin-bottom: 0;
   }
-}
+}*/
 
 /* Sidebar links */
-.sidebar a {
+/*.sidebar a {
   color: #fff;
-}
+}*/
 
 /* About section */
-.sidebar-about h1 {
+/*.sidebar-about h1 {
   color: #fff;
-  margin-top: 0;
+  margin-top: 0;*/
   /* font-family: "Abril Fatface", serif; */
-  font-size: 3.32rem;
-}
+/*  font-size: 3.32rem;
+}*/
 
 /* Sidebar nav */
-.sidebar-nav {
+/*.sidebar-nav {
   padding-left: 0;
   list-style: none;
 }
@@ -480,14 +480,14 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
-}
+}*/
 
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
  * contents to the bottom of the sidebar in tablets and up.
  */
-
+/*
 @media (min-width: 48rem) {
   .sidebar-sticky {
     position: absolute;
@@ -495,7 +495,7 @@ a.sidebar-nav-item:focus {
     bottom: 1rem;
     left:   1rem;
   }
-}
+}*/
 
 
 /* Container
@@ -503,7 +503,7 @@ a.sidebar-nav-item:focus {
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
  */
-
+/*
 .content {
   padding-top:    1rem;
   padding-bottom: 4rem;
@@ -523,4 +523,4 @@ a.sidebar-nav-item:focus {
     margin-left: 22rem;
     margin-right: 4rem;
   }
-}
+}*/
