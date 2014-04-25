@@ -1,0 +1,15 @@
+Title: More Git Tips
+
+----
+
+Link: http://mislav.uniqpath.com/2010/07/git-tips/
+
+----
+
+Date: 3/20/2013
+
+----
+
+Text:
+
+This guy rolls deep with Git, yo.

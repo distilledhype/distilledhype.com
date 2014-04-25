@@ -1,0 +1,16 @@
+Title: Want To Learn Code?
+
+----
+
+Link: http://blog.zackshapiro.com/want-to-learn-to-code-start-here
+
+----
+
+Date: 4/8/2013
+
+----
+
+Text:
+> This post is intended for working professionals who feels a strong desire to code to build things that they want to see exist in the world.
+
+Some great tips on how to get started with coding.

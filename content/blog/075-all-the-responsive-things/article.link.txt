@@ -1,0 +1,17 @@
+Title: All The Responsive Things
+
+----
+
+Link: http://bradfrost.github.com/this-is-responsive/index.html
+
+----
+
+Date: 09/12/2012
+
+----
+
+Text: > Patterns, resources and news for creating responsive web experiences.
+
+So very useful.
+
+via [visuellegedanken.de](http://visuellegedanken.de/2012-09-12/responsive-web-design-resources/)

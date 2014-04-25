@@ -1,0 +1,15 @@
+Title: Talk: Tooling For The Modern WebApp Dev By@addyosmani
+
+----
+
+Link: http://www.youtube.com/watch?v=3C5-LjRfomY
+
+----
+
+Date: 1/27/2013
+
+----
+
+Text:
+
+Nice overview.

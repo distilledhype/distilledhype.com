@@ -1,0 +1,17 @@
+Title: Vertical Rhythm With Compass
+
+----
+
+Link: http://atendesigngroup.com/blog/vertical-rhythm-compass
+
+----
+
+Date: 2/23/2013
+
+----
+
+Text:
+
+> The Vertical Rhythm tools in Compass make it easy. However, despite Compass' amazing documentation, I did find a bit of a learning curve with Vertical Rhythm. Hopefully after reading this, you'll be able to dive right in and harness the delicious power of these tools right away.
+
+A decent guide on how to use Compass' vertical rhythm features.

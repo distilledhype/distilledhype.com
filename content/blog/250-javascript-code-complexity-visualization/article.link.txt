@@ -1,0 +1,15 @@
+Title: JavaScript Code Complexity Visualization
+
+----
+
+Link: http://ariya.ofilabs.com/2013/01/javascript-code-complexity-visualization.html
+
+----
+
+Date: 1/27/2013
+
+----
+
+Text:
+
+> Given a set of JavaScript files, Plato from Jarrod Overson (GitHub: github.com/jsoverson/plato) will happily consume it, run some analysis (using JSComplexity, among others), and output an interactive chart at your disposal. If you missed my previous post on code complexity, JSComplexity basically uses Esprima to parse your code, obtain the abstract syntax tree (AST), and then process it based on the complexity analysis algorithm.

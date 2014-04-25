@@ -1,0 +1,13 @@
+Title: Slides Of @addyosmanis Dev Toolbelt Talk On @fronteersconf
+
+----
+
+Link: http://dl.dropbox.com/u/70775642/talks/tooling/fronteers/index.html#1
+
+----
+
+Date: 10/06/2012
+
+----
+
+Text: Addy is presenting Yeoman. Fronteers will release videos of the talks later.

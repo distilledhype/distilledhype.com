@@ -1,0 +1,19 @@
+Title: Bower By @twitter
+
+----
+
+Link: http://twitter.github.com/bower/
+
+----
+
+Date: 09/09/2012
+
+----
+
+Text: Contrary to Twitter's moves concerning developers in the native client environment they are literally killing it on contributions they make towards the front-end developers/the open web. From what everybody is saying the open web is what they are betting on 100% for the usage and consumption of Twitter so that makes sense. Also it makes one curious, what Twitter may be coming out with on the web side of things.
+
+> Bower offers a generic, unopinionated solution to the problem of package management, while exposing an API that can be consumed by a more opinionated build stack.
+
+I really like what I am seeing so far. The decision to make it unopinionated and solely to rely on Git paths makes it incredibly attractive to me. I like [Volo](http://volojs.org/) too, but because of it's dependency on Github it doesn't compel me as much as Bower does. It feels more reliable and I want to use it.
+
+The list of contributors on the bottom of the Bower page speaks bundles too.

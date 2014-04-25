@@ -1,0 +1,23 @@
+Title: The New Gist <3
+
+----
+
+Link: https://github.com/blog/1276-welcome-to-a-new-gist
+
+----
+
+Date: 12/11/2012
+
+----
+
+Text:
+
+If you didn't know: I am a huge Gist and Gist API fan. So I am soo happy about the new re-written version of it. Long awaited features come with the new rewrite like:
+
+> You can now view the full history of every Gist, complete with diffs. Never be blamed for sloppy coding again.
+
+And
+
+> The new Gist tells you which forks have activity, making it easier to find interesting changes from coworkers or complete strangers.
+
+<3

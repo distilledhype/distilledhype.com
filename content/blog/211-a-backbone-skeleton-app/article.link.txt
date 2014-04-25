@@ -1,0 +1,19 @@
+Title: A Backbone Skeleton App
+
+----
+
+Link: http://codeartists.com/post/38153430040/how-to-start-with-backbone-js-a-simple-skeleton-app
+
+----
+
+Date: 12/18/2012
+
+----
+
+Text:
+
+> It took me some time to get an optimal code/directory layout for Backbone.js apps.
+Because I think this is a major pain for beginners, I prepared a well commented sample skeleton app.
+Get it from Github while it’s hot, pull requests/feedback are welcome.
+
+Nice.

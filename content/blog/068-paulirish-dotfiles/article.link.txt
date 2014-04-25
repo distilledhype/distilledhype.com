@@ -1,0 +1,13 @@
+Title: Updated Dotfiles By @paulrish
+
+----
+
+Link: https://github.com/paulirish/dotfiles
+
+----
+
+Date: 09/10/2012
+
+----
+
+Text: There is some awesome stuffz there. Also check out [Mathias' orginal set](http://mths.be/dotfiles).

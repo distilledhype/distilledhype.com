@@ -1,0 +1,23 @@
+Title: The Breakpoint: Episode 2 With @paul_irish And @addyosmani
+
+----
+
+Link: https://plus.google.com/u/0/115133653231679625609/posts/5Z1Vj7AoSBM
+
+----
+
+Date: 11/1/2012
+
+----
+
+Text:
+
+> In this week's episode, +Paul Irish and I talk about new DevTools features for your SASS workflow, a ton of new hotness in the console, Inspector theming and a number of things we now support inspecting better.
+
+Great console tips!
+
+The music in the beginning is a little ridiculous though. It is also too long I am sure some people just stop watching because of it.
+
+Addy has a Yeoman hoodie! I want a Grunt hoodie!
+
+**Update:** The beginning of the video has been trimmed [says Paul](https://twitter.com/paul_irish/status/264083084159381506), woohoo!

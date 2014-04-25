@@ -1,0 +1,16 @@
+Title: A (Short) Rant About Working Remotely
+
+----
+
+Link: http://ericfarkas.com/posts/a-short-rant-about-working-remotely/
+
+----
+
+Date: 1/31/2013
+
+----
+
+Text:
+
+> I joined TalentSoup as a technical co-founder, and worked for a year and a half with my partner before we met face to face. All communication was done on the phone, through email, Basecamp, Github, iChat, whatever. We built (and continue to build) a profitable company, completely remotely. So I just don't get the reluctance from other companies to embrace remote workers. Are the problems you're working on that difficult, is your product that special, that everyone needs to be in the same room every working day?
+

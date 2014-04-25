@@ -1,0 +1,18 @@
+Title: Forcing Garbage Collection With Node
+
+----
+
+Link: http://simonmcmanus.wordpress.com/2013/01/03/forcing-garbage-collection-with-node-js-and-v8/
+
+----
+
+Date: 1/6/2013
+
+----
+
+Text:
+
+> When you run your node script just add the option: `–expose-gc`
+
+This seems extremely useful.
+

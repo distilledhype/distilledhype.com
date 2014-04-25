@@ -1,0 +1,13 @@
+Title: When To Use PJAX And When To Use JavaScript MVC With @dhh
+
+----
+
+Link: http://www.youtube.com/watch?v=FkLVl3gpJP4#t=33m38s
+
+----
+
+Text: It is always a pleasure to hear David talk because of his direct no-bullshit approach and his depth of knowledge. In this case it is especially interesting to me since he is sharing his point of view on when to use his beloved Ruby in conjunction with PJAX and when to use client-side MVC for best efficiency and performance.
+
+You also get some terrific insight into his thought process when he was deciding on the technology stack for the new Basecamp.
+
+Even if you don't agree with his decisions, it definitely makes you think about the benefits that backend logic delivering HTML with PJAX can have over JavaScript MVC in some cases.

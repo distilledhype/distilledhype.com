@@ -1,0 +1,11 @@
+﻿Title: Retinafy Your Website
+
+----
+
+Link: http://mir.aculo.us/2012/06/26/flowchart-how-to-retinafy-your-website/
+
+----
+
+Text: > Here’s the process I use (for both mobile and desktop) in the form of a flowchart for some more sanity in all of this.
+
+Thomas Fuchs shared the process he uses to retinafy websites. Interesting and useful. Processes like this will soon be part of every project we work on.

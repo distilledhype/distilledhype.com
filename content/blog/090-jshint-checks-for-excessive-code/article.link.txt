@@ -1,0 +1,15 @@
+Title: JSHint Can Check For Excessive Code Now
+
+----
+
+Link: http://www.jshint.com/changelog/
+
+----
+
+Date: 09/19/2012
+
+----
+
+Text: > New checks for excessive code! You can now use JSHint to check number of parameters per function, nested block depth per function, number of statements per function and function's cyclomatic complexity.
+
+Nice.

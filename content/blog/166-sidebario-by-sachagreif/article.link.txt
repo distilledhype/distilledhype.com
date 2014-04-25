@@ -1,0 +1,19 @@
+Title: Sidebar.io By @SachaGreif
+
+----
+
+Link: http://sidebar.io/
+
+----
+
+Date: 11/1/2012
+
+----
+
+Text:
+
+> The 5 best design links, every day.
+
+Mr. Sacha "Side-Project" Greif strikes again! This time he built a little curated design-links service with [Meteor](http://meteor.com), rumor has it that there will be an open source release following.
+
+You can also receive the linkings via newsletter. I like it, the only thing missing for my taste is a little bit of context from the curators to better understand why they personally linked to something.

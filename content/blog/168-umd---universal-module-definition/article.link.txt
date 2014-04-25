@@ -1,0 +1,17 @@
+Title: UMD - Universal Module Definition
+
+----
+
+Link: https://github.com/umdjs/umd#readme
+
+----
+
+Date: 11/1/2012
+
+----
+
+Text:
+
+> UMDs typically attempt to define modules which can work anywhere, be in in the client, on the server or anywhere else. This pattern typically attempts to offer compatibility with the most popular script loaders of the day (e.g RequireJS amongst others), and in many cases uses AMD as a base, with special-casing added to handle CJS compatability.
+
+One module definition to rule them all!

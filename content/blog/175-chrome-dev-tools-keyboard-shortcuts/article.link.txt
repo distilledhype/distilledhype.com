@@ -1,0 +1,20 @@
+Title: Chrome Dev Tools Keyboard Shortcuts
+
+----
+
+Link: https://plus.google.com/u/0/115133653231679625609/posts/e4W2kdrFJY9
+
+----
+
+Date: 11/6/2012
+
+----
+
+Text:
+
+> To search scripts, stylesheets and snippets by filename you can use:
+>
+> * Ctrl + O (Windows)
+> * Cmd + O (Mac OSX)
+
+So useful.

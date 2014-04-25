@@ -1,0 +1,17 @@
+Title: Sane Bindings For Backbone.js By NYTimes @delambro
+
+----
+
+Link: http://nytimes.github.com/backbone.stickit/
+
+----
+
+Date: 09/20/2012
+
+----
+
+Text: > Stickit differs, however, in that it is a more natural fit with Backbone's style and functionality. In Backbone fashion, stickit leaves rendering up to you, with no special attributes, configuration, or markup needed in the DOM; in fact, stickit will probably clean up your templates, as you will need to interpolate fewer variables while rendering.
+
+Sweet.
+
+via @[asciidisco](https://twitter.com/asciidisco/statuses/248487944367779840)

@@ -1,0 +1,15 @@
+Title: Podcast Tip: This Developer's Life – 2.0.9 Drama
+
+----
+
+Link: http://thisdeveloperslife.com/post/2-0-9-drama
+
+----
+
+Date: 09/20/2012
+
+----
+
+Text: > Where does drama come from? How do we react to it? How much drama can be created by simple semicolon? This week we explore The Great Semicolon Affair.
+
+This Developer's Life is one of my favorite podcasts ever. It is so very well produced and so much fun to listen to. This episode is all about trolls and drama explored by looking at the The Great Semicolon Affair in the JavaScript community.

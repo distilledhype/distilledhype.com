@@ -1,0 +1,13 @@
+Title: Twitter's @jbrewer Responsive Measure jQuery Plugin
+
+----
+
+Link: http://jbrewer.github.com/Responsive-Measure/
+
+----
+
+Date: 09/20/2012
+
+----
+
+Text: On the SmashingConf gave a talk about the complete backstory of this plugin. It was awesome and you should check it out once the videos are out in a few weeks. The plugin responsively calculates the optimal font size for a given container.

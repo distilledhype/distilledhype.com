@@ -1,0 +1,15 @@
+Title: Podcast Tip: @jsjabber – Code Organization And Reuse
+
+----
+
+Link: http://javascriptjabber.com/026-jsj-code-organization-and-reuse/
+
+----
+
+Date: 09/05/2012
+
+----
+
+Text: Very interesting discussions about very basic to more sophisticated code organization in JavaScript.
+
+I definitely generally recommend [JavaScript Jabber](http://javascriptjabber). Also check out the episodes on Ember and Backbone with Yehuda and Jeremy going at it.

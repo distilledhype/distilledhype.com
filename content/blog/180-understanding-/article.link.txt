@@ -1,0 +1,17 @@
+Title: Understanding delete By @kangax
+
+----
+
+Link: http://perfectionkills.com/understanding-delete/
+
+----
+
+Date: 11/14/2012
+
+----
+
+Text:
+
+> Unsurprisingly, explanations of delete on the web are rather scarce.
+
+Yes, but fortunately @kangax wrote a very good, in-depth article about it. I needed to learn about `delete` today and found this. So good.

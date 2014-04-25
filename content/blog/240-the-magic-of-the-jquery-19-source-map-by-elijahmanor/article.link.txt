@@ -1,0 +1,17 @@
+Title: The Magic Of The jQuery 1.9 Source Map By @elijahmanor
+
+----
+
+Link: http://www.elijahmanor.com/2013/01/the-magic-of-jquery-source-map.html
+
+----
+
+Date: 1/19/2013
+
+----
+
+Text:
+
+> One of the most excited pieces of the version is support for Source Maps!
+
+A nice little post in which Elijah explains what exactly the jQuery 1.9 Source Maps are good for.

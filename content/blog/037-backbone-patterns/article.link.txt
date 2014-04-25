@@ -1,0 +1,9 @@
+Title: Backbone Patterns By @rstacruz
+
+----
+
+Link: http://ricostacruz.com/backbone-patterns/
+
+----
+
+Text: Very nice collection of Backbone patterns and antipatterns. I hope this will be maintained in the long haul since this is a very useful reference for people starting out with Backbone and developers using it everyday.

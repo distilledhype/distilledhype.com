@@ -1,0 +1,16 @@
+Title: CORS For Images
+
+----
+
+Link: http://remysharp.com/2013/01/14/cors-isnt-just-for-xhr/
+
+----
+
+Date: 1/23/2013
+
+----
+
+Text:
+
+> there’s one major use case: when you’re creating a dynamic canvas image and you want to export it. The canvas element has a method called toDataURL which gives you a base64 string representing the content of the canvas.
+

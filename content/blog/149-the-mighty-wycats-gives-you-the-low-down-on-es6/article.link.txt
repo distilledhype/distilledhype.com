@@ -1,0 +1,17 @@
+Title: The Mighty @wycats Gives You The Low Down On ES6
+
+----
+
+Link: http://www.youtube.com/watch?v=AkjcxlAuyLI
+
+----
+
+Date: 10/21/2012
+
+----
+
+Text:
+
+> There is actually a lot of reasons to care [about ES6].
+
+I agree. Watch it and see what's new!

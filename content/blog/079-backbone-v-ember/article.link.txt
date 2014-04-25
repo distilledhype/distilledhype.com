@@ -1,0 +1,15 @@
+Title: Backbone VS. Ember
+
+----
+
+Link: http://net.tutsplus.com/tutorials/javascript-ajax/game-on-backbone-and-ember/
+
+----
+
+Date: 09/13/2012
+
+----
+
+Text: > If you're scared of what to do or which one to pick, then I struck a nerve of yours and that's good! Want a good answer on which to choose? Both.
+
+This article gives you a very good grasp on the differences between Backbone and Ember and helps you making a decision on where to start or which one might suit you better.

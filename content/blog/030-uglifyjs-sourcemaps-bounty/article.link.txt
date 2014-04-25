@@ -1,0 +1,11 @@
+Title: Rake In The Source Maps For Uglify.js Bounty!
+
+----
+
+Link: http://gun.io/open/64/
+
+----
+
+Text: We need source maps in Uglify.js.
+
+Support the cause!

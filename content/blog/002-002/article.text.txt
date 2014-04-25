@@ -1,0 +1,83 @@
+title: Issue 002: For Realz
+
+----
+
+text: Distilled From The Hype, the English version of "Die illsten Links von neulich" just moved to it's own domain. Here is the second issue directly from the link distillery.
+
+### [Meteor.js &rarr;](http://www.meteor.com/)
+
+> Meteor is a set of new technologies for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
+
+Meteor is based on Node.js and is written in JavaScript for both the server and the client-side. This framework enables its user to write realtime-apps which means that all clients are updated automatically when a change in the database occures. MongoDB is used as the persistence-layer. One of the main features of this framework is the direct connection to the database from the client-side.
+
+At the moment Meteor is under “rapid development” and not meant to be used in production as there is no means of authentication built into the framework yet. It seems like it is a proof-of-concept for now.
+
+The term “rapid development” meams that the API of this framework is still in a state of flux and will likely be changed often in the near future.
+
+When Meteor was published on [Hacker News](http://news.ycombinator.com/item?id=3824908) last week people talked about it eagerly and were delighted. But apart from that ,questions about [security issues](http://tgriff3.tumblr.com/post/21025342161/how-can-client-side-databases-be-secure) ([HN](http://news.ycombinator.com/item?id=3839871)) and solutions for them came up. Others questioned the usage of the [GPL-licence](http://news.ycombinator.com/item?id=3836212). Luckily this brought up the discussion of other frameworks in the same league as Meteor which are currently in the same state of development:
+
+* [Firebase](http://firebase.com)
+* [SpaceMagic](http://spacemagic.io)
+* [Derby.js](http://derbyjs.com)
+
+After some requests, the devs of Derby.js published a comparison of Meteor and their approach [on their blog](http://blog.derbyjs.com/2012/04/14/our-take-on-derby-vs-meteor/), which bears some great insights.
+
+As it turns out there is a new class of frameworks, which enables you to build realtime-web-apps in a short amount of time without a deep knowledge of this topic. All I can say is this:
+
+WANT!
+
+After I understood the difference between Derby and Meteor I think Derby is currently more thought through. But at the end of the day all of these frameworks are still in development and all look very interesting.
+
+**Update:** Meteor just changed their [licensing to MIT](http://meteor.com/faq/how-is-meteor-licensed). In their latest newsletter update they also call for anybody to create a blog with Meteor that they will then use. They also give advice on how to secure the clients communication with the database for that purpose.
+
+### [Crockford: Principles of Security &rarr;](http://www.youtube.com/watch?v=zKuFu19LgZA)
+This in this video Douglas Crockford talkes about the principles of security in web development. Pretty interesting that this comes at the same time as the security-issues for Meteor.js arise.
+
+Crockford talks about general security concerns in web-design and presents a solution for this in JavaScript called the Actor Model.
+
+### [Kirby Toolkit 101 &rarr;](http://getkirby.com/blog/toolkit-101)
+Once again the language design of PHP was [criticized](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) last week. Since PHP is still pretty useful, some people [reacted](http://www.codinghorror.com/blog/2008/05/php-sucks-but-it-doesnt-matter.html) [this way](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) and stood up for the language and its oddities.
+
+To me the best of all contributions is Bastian Allgeier’s Kirby Toolkit.
+It’s a set of classes which helps your daily usage of PHP by making functions that you use often more concise and very easy to remember.
+
+### [Light Table - A New IDE Concept &rarr;](http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/)
+> Light Table is based on a very simple idea: we need a real work surface to code on, not just an editor and a project explorer. We need to be able to move things around, keep clutter down, and bring information to the foreground in the places we need it most.
+
+Pretty impressive. This seems like un inevitable development. It is a totally new paradigm for an IDE and a long way to go, but exciting nevertheless.
+
+### [Understanding MVVM &rarr;](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+> MVVM (Model View ViewModel) is an architectural pattern based on MVC and MVP, which attempts to more clearly separate the development of user-interfaces (UI) from that of the business logic and behaviour in an application.
+
+Addy Osmani, now of Google, has written another post about the MV*-patterns. This time he talks about MVVM which is the underlying pattern for Knockout.js for example.
+
+### [YC Facelift: Flutter &rarr;](http://kyrobeshay.com/post/20950516669/yc-facelift-flutter)
+Kyro writes about the first Facelift:
+> In an effort to refine my design skills, I’ve decided each week or so to redesign the landing page of a YC company I dig and whose website I don’t feel so similarly about.
+
+This is the second facelift for a YC startup. I like these sort of experiments.
+
+### [mag.js &rarr;](www.magjs.de)
+The first issue of the German JavaScript online-magazine is out now.
+
+### [A New Baseline For Front-End Developers &rarr;](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
+> Here are a few things that I want to start expecting people to be familiar with, along with some resources you can use if you feel like you need to get up to speed.
+
+Front-end development has evolved and is “maturing”. If you are serious you will have to be comfortable with a lot more technologies now, than before. Rebecca presents a pretty round-up in her blog post.
+
+**Update:** She recently held a presentation about that topic in Berlin. You can find the slides of her talk [here](http://speakerdeck.com/u/rmurphey/p/a-new-baseline-for-front-end-devs).
+
+### [Budnitz Bicycles &rarr;](http://37signals.com/svn/posts/3158-basecamp-behooves-boutique-bike-business)
+
+Ok so this video is an ad for 37signals’ Basecamp. But since Basecamp is awesome I have no problem linking to it. The main reason I am doing that though is this Budnitz guy they are interviewing in the video. He is making beautiful stuffz and its interesting to see how people like him work.
+
+### [Todo MVC Labs &rarr;](http://addyosmani.github.com/todomvc/labs/)
+> TodoMVC Labs showcases sample Todo applications for frameworks that have just been released or are still awaiting consideration for inclusion in TodoMVC.
+
+### [HN Pod &rarr;](http://hnpod.com/episodes/kickstarter-raspberry-pi-instagram?hn=1)
+> I want to listen to a half-hour podcast discussing the week's [top HN stories](http://news.ycombinator.com/best).
+>
+> There isn't one.
+>
+> So I'm making it.
+

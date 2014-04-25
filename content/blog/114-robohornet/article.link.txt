@@ -1,0 +1,24 @@
+Title: The @paul_irish Announces Open-Sourcing Of RoboHornet
+
+----
+
+Link: http://paulirish.com/2012/a-browser-benchmark-that-has-your-back-robohornet/
+
+----
+
+Date: 09/28/2012
+
+----
+
+Text: >Today, a cross-vendor collection of developers, led by Google, is open-sourcing RoboHornet. As project lead Alex Komoroske put it, “it’s a living, dynamic benchmark that aims to use the collective efforts of the web development community and ultimately get browser vendors to fix real-world performance pain points.” Let’s look at how RoboHornet will hopefully flip the above situation on its head.
+>
+> 1. Web app developers identify and isolate a specific pain point in their app
+> 2. That issue is reduced down to a solid benchmark
+> 3. Propose it to a committee of JavaScript experts from JSPerf, YUI, Google, Facebook, and others
+> 4. Everyone votes for which issues should make it
+> 5. Of the top voted items, as long as the committee thinks they are good, they head into the benchmark
+> 6. The RoboHornet Suite now better represents the web app developer communities biggest priorities for performance
+> 7. Browser vendors compete on their RoboHornet score, optimizing the slow behaviors that developers prioritize
+> 8. Everybody wins. Yay ice cream for everyone!
+
+Yay ice cream! ... and also way to innovate on benchmarking and finding the REAL pain points in browsers. Also read [Jeremy Keith's post on the subject](http://adactio.com/journal/5778/).

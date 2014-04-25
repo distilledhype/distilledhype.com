@@ -1,0 +1,19 @@
+Title: Violin - Instrumenting JavaScript By @philip_roberts
+
+----
+
+Link: http://latentflip.github.com/violin/
+
+----
+
+Date: 11/1/2012
+
+----
+
+Text:
+
+> The app's code has been instrumented to draw and animate the graph as the JavaScript runs without having to modify the app's original code at all (by hand anyway).
+
+A real-time visual representation of what your app does.
+
+Woah, dude O.o

@@ -1,0 +1,15 @@
+Title: Gifsockets
+
+----
+
+Link: https://github.com/videlalvaro/gifsockets
+
+----
+
+Date: 09/15/2012
+
+----
+
+Text: > We use Animated Gif images to stream data in real time to the browser. Since a gif image doesn't specify how many frames it has, once the browser opens it, it will keep waiting for new frames until you send the bits indicating that there's no more image to fetch.
+
+Such an awesome hack.

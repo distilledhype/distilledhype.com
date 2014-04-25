@@ -1,0 +1,15 @@
+Title: Stop Writing REST API Clients By @tolga_tezel
+
+----
+
+Link: http://ttezel.github.com/
+
+----
+
+Date: 2/24/2013
+
+----
+
+Text: > So I propose that we build a list of JSON documents describing as many REST APIs as possible. We can then import these specs as needed into a simple client like the one I wrote above, and start making HTTP requests without wasting time implementing yet another REST API client.
+
+This is an awesome idea! <3

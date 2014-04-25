@@ -1,0 +1,17 @@
+Title: Project Management With Kirby
+
+----
+
+Link: http://getkirby.com/blog/project-management-with-kirby
+
+----
+
+Date: 12/4/2012
+
+----
+
+Text:
+
+> [...] this is a fully usable project management tool for web designers and developers build with Kirby.
+
+Pretty neat.

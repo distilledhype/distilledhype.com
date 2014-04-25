@@ -1,0 +1,21 @@
+Title: The @wycats On Turbolinks
+
+----
+
+Link: https://plus.google.com/106300407679257154689/posts/A65agXRynUn
+
+----
+
+Date: 10/20/2012
+
+----
+
+Text:
+
+> If you are thinking about using Turbolinks, make sure:
+>
+> * Your JavaScript is designed to be long-lived across many different HTML pages without a refresh
+> * Your refresh handlers are idempotent. Don't register event handlers or other bindings in a refresh handler unless you reliably tear them down.
+> * You audit all third-party code that you use to make sure that they do not rely on DOM Ready events, or if they do, that they DOM Ready events are idempotent. If you don't feel comfortable auditing and cleaning up third-party code, don't use any. (note that the "turbolinks community", such as it is, might vet existing libraries for compliance, and that would help).
+
+Yehuda giving his take on [Turbolinks](https://github.com/rails/turbolinks). He points out the good & the bad and then gives a list of things you want to make sure of, if you are thinking of using it.

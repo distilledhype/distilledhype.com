@@ -1,0 +1,15 @@
+Title: Daily Design Linkings Of High Quality Curated By @sachagreif and others
+
+----
+
+Link: http://sidebar.io/
+
+----
+
+Date: 10/25/2012
+
+----
+
+Text: > The 5 best design links, every day.
+
+Sacha built it with Meteor. Open sourcing-action soon to follow.

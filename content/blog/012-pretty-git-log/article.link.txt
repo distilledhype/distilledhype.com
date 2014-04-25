@@ -1,0 +1,13 @@
+﻿Title: Pretty Git log
+
+----
+
+Link: http://coderwall.com/p/euwpig?i=3&p=1&t=git
+
+----
+
+Text: I really enjoy this tip but I prefer to put that into a global alias in the `.bash_profile` instead of git though. Like so:
+
+    alias gl='git log --color --graph --pretty=format:"%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset" --abbrev-commit --'
+
+Now just call `gl` in any Git repo and there you go.

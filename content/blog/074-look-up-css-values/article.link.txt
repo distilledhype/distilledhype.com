@@ -1,0 +1,15 @@
+Title: Look Up CSS Values
+
+----
+
+Link: http://cssvalues.com/
+
+----
+
+Date: 09/12/2012
+
+----
+
+Text: Great little utility to quickly look up all valid values for a CSS property.
+
+via @[addyosmani](https://twitter.com/addyosmani/statuses/245832987277676544)

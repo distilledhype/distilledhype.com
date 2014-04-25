@@ -1,0 +1,11 @@
+Title: Backbone Has Made @appltn A Better Programmer
+
+----
+
+Link: http://floatleft.com/notebook/backbone-has-made-me-a-better-programmer
+
+----
+
+Text: > I was really surprised at the state of the code I had written not all that long ago. I have been rewriting it to use a number of design patterns that I have (somewhat) inadvertently picked up from Backbone (and underscore).
+
+A really well written and very instructional little article on how Andy was able to un-tangle his code because of his experience with Backbone and Underscore.

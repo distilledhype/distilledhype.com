@@ -1,0 +1,18 @@
+Title: Faster Than C By @felixge
+
+----
+
+Link: https://github.com/felixge/faster-than-c
+
+----
+
+Date: 10/09/2012
+
+----
+
+Text:
+
+> This document contains the outline and code snippets for my 2012 JSConf.eu talk: Faster than C? Parsing binary data in JavaScript
+
+So apparently JavaScript can beat C and here is how you do it! Awesome.
+

@@ -1,0 +1,17 @@
+Title: Decouple CSS By @drublic
+
+----
+
+Link: http://thenittygritty.co/decouple-css
+
+----
+
+Date: 12/4/2012
+
+----
+
+Text:
+
+> Decoupling components of your website or app are essential to be able to work independent from HTML and JavaScript.
+
+Great insights in how to modularize your CSS properly with SASS and SMACSS.

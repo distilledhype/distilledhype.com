@@ -1,0 +1,9 @@
+Title: Grunt.js Has A New Website
+
+----
+
+Link: http://gruntjs.com
+
+----
+
+Text: And it looks awesome. Most importantly it finally received an angry wild boar as a logo made by @[isaacdm](http://twitter.com/isaacdm). As it righfully should. The site was built by teh awesome @[sindresorhus](http://twitter.com/sindresorhus).

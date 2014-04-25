@@ -1,0 +1,23 @@
+Title: Sparky.js
+
+----
+
+Link: http://sparkyjs.com/
+
+----
+
+Date: 1/10/2013
+
+----
+
+Text:
+
+A great way to organize your JavaScript code if you don't want to use an MVC framework for single page apps, or your problem doens't merit that.
+
+I like Sparky's routing method especially:
+
+> The best way of doing this is outputting a Controller and an Action in your head meta, but that data can be replaced with whatever you want.
+
+It also works well together with Require.js.
+
+

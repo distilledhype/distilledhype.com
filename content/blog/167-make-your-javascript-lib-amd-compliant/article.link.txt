@@ -1,0 +1,17 @@
+Title: Make Your JavaScript Lib AMD compliant
+
+----
+
+Link: http://javascriptplayground.com/blog/2012/10/making-your-library-amd-compliant
+
+----
+
+Date: 11/1/2012
+
+----
+
+Text:
+
+> The way to define something is simple - check if window.define exists, and if it does, use it to define our module. To define a module we need to pass it a function that simply returns what we want a user of our library to access. Sometimes that's just one method, or it might be an object of multiple methods.
+
+Great little tutorial.

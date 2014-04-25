@@ -1,0 +1,17 @@
+Title: Webplatform <3
+
+----
+
+Link: http://blog.webplatform.org/2012/10/one-small-step/
+
+----
+
+Date: 10/09/2012
+
+----
+
+Text:
+
+> [WebPlatform.org](http://webplatform.org) will have accurate, up-to-date, comprehensive references and tutorials for every part of client-side development and design, with quirks and bugs revealed and explained. It will have in-depth indicators of browser support and interoperability, with links to tests for specific features. It will feature discussions and script libraries for cutting-edge features at various states of implementation or standardization, with the opportunity to give feedback into the process before the features are locked down. It will have features to let you experiment with and share code snippets, examples, and solutions. It will have an API to access the structured information for easy reuse. It will have resources for teachers to help them train their students with critical skills. It will have information you just can’t get anywhere else, and it will have it all in one place.
+
+This is so awesome. I love this. We need this! I hope you created your account already...

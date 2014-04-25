@@ -1,0 +1,9 @@
+Title: JavaScript MVC: Client VS. Server via @codylindley
+
+----
+
+Link: https://docs.google.com/presentation/d/1K4RY_1dOi2o_0RBPTr05WL0Vr9E28rRJsnbUP23D6hc/edit?pli=1#slide=id.gf37f796_147_0
+
+----
+
+Text: Cody [linked up](https://twitter.com/codylindley/statuses/239029931793858560) a few slides today, classifying different JavaScript MVC architectures and offering up some thoughts on how it could be in the future as well as a decision tree for Node.js frameworks.

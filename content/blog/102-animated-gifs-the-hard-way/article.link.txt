@@ -1,0 +1,17 @@
+Title: Better Animated Gifs, The Hard Way
+
+----
+
+Link: http://www.sublimetext.com/~jps/animated_gifs_the_hard_way.html
+
+----
+
+Date: 09/23/2012
+
+----
+
+Text: > I wrote a small Python script that takes a collection of PNG frames as input, and emits a single packed PNG file as output, which contains all the differences between the frames, and some JSON meta-data specifying which bits of the packed PNG file correspond to each frame. JavaScript turns the PNG and JSON into an animation, using either the canvas element, or emulating it using overlaid div elements for older browsers.
+
+What an aweseome idea. This tool is still very fragile and not even tested on Mac or Windows, but I would love to see this developed into a more stable tool that works cross-platform. It is very useful for product presentation or short screen casts.
+
+via @[addyosmani](https://twitter.com/addyosmani/statuses/249512182692343808)

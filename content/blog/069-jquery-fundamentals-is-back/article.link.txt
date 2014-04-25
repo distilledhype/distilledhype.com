@@ -1,0 +1,15 @@
+Title: Bocoup Training Revives @rmurphey's jQuery Fundamentals
+
+----
+
+Link: http://weblog.bocoup.com/jquery-fundamentals/
+
+----
+
+Date: 09/11/2012
+
+----
+
+Text: > Bocoup’s support of the overhaul and its commitment to the open web means that now, you can look forward to a much improved (and much more frequently updated) jQuery Fundamentals, with a price tag still set firmly at $0. We hope you like it.
+
+I like it! A lot.

@@ -1,0 +1,31 @@
+Title: The @Stackexchange Podcast Episode 45
+
+----
+
+Link: http://blog.stackoverflow.com/2013/03/podcast-45-keeping-it-sharp/
+
+----
+
+Date: 3/20/2013
+
+----
+
+Text:
+
+This episode has some great insights. My favorite was this story by Eric Lippert:
+
+When Eric started working at Microsoft his manager told him:
+
+> I want you to be a recognized industry expert on something. And since we work on the Javascript team at Microsoft that would probably be a good thing. But don't pick something that's too big. Right, don't try to be the recognized industry expert on the whole thing. Pick some aspect like the semantics of the language.
+
+So he asked him:
+
+> Well, how do I do that?
+
+And the manager answered:
+
+> Find a source of questions, answer every question that you know the answer to, that is in that domain and if there is a question that you not know the answer to, make it your business to find out.
+
+So Eric did that.
+
+I love that story.

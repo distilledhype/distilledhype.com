@@ -1,0 +1,9 @@
+Title: Volo.js Update
+
+----
+
+Link: http://volojs.org/
+
+----
+
+Text: Volo.js website looks nice now. Also [a new version is out](http://tagneto.blogspot.de/2012/08/volo-023-semver-and-web-site.html) with improvements and fixes.

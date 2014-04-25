@@ -1,0 +1,15 @@
+Title: app-UI
+
+----
+
+Link: http://triceam.github.com/app-UI/
+
+----
+
+Date: 09/08/2012
+
+----
+
+Text: > The primary motivation for creating app-UI was to have reusable application containers that are highly performant, and do not force any prescriptive development paradigms. With respect to animations/transitions, app-UI outperforms the alternatives, particularly on mobile devices.
+
+I find the focus on those "application containers" and performance interesting...

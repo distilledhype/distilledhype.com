@@ -1,0 +1,17 @@
+Title: The Backbonification Of A Large JavaScript App
+
+----
+
+Link: http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/
+
+----
+
+Date: 12/18/2012
+
+----
+
+Text:
+
+> This blog post is about decomposing NewsBlur's single-file 8,500 line JavaScript application into its component parts: 8 models, 12 views, 3 routers, 3 collections. This post explores patterns, techniques, and common pitfalls in migrating from vanilla JavaScript to Backbone.js. It covers moving routers, models, and views, and the process used to migrate a living app.
+
+A nice post on transferring your spaghetti app to Backbone.js.
