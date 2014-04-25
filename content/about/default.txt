@@ -4,7 +4,9 @@
 
 Text:
 
-Distilled Hype is a blog about JavaScript and other things by
+Distilled Hype is a blog about JavaScript and other things. You can subscribe to the (link:/newsletter text: newsletter) if you prefer to get updates by email and you can get all the feeds of this blog (link: /feeds text: here).
+
+This site is run by
 
 Kahlil Lechelt
 Ruhrstr. 15
