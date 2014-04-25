@@ -9,8 +9,13 @@ Distilled Hype is a blog about JavaScript and other things by
 Kahlil Lechelt
 Ruhrstr. 15
 70374 Stuttgart
-hello@kahlil.co
+(email: hello@kahlil.co)
 
 Kahlil also owns the the URL [kahlil.co](http://kahlil.co), is an executive producer on the [Agent Lexie project](http://agentlexie.com) and currently works at [ETECTURE](http://etecture.de) as a front-end developer.
+
+You can also find Kahlil here:
+
+* (link: http://github.com/distilledhype text: GitHub)
+* (link: http://twitter.com/distilledhype text: Twitter)
 
 Opinions are his own.

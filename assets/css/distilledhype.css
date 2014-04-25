@@ -48,7 +48,6 @@ input[type="submit"] {
 
 .menu {
   transition: opacity 0.2s linear;
-  opacity: 0;
   padding: .5rem 0 0 0;
 }
 

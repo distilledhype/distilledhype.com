@@ -8,10 +8,10 @@ Date: 04/25/2014
 
 Text:
 
-Human JavaScript is a book written by Henrik Joreteg. I just finished it and I must say that I really enjoyed it. Henrik proposes a specific architecture for pure JavaScript apps that are especially "human friendly". Meaning the code is easy to understand and to maintain. He uses Browserify, Backbone and slightly modified models and views which he calls "Human Views" and "Human Models".
+Human JavaScript is a book written by (link: http://twitter.com/henrikjoreteg text:Henrik Joreteg). I just finished it and I must say that I really enjoyed it. Henrik proposes a specific architecture for pure JavaScript apps that are especially "human friendly". Meaning the code is easy to understand and to maintain. He uses Browserify, Backbone and slightly modified models and views which he calls "Human Views" and "Human Models".
 
 I really enjoyed reading this book. It is very well written and if you have gaps in your MVC knowledge like me, this book will definitely close some for you.
 
-I am very intrigued by this app architecture and will definitely try it out in a side project soon. I think this is a wonderful fit for Hoodie apps as well.
+I am very intrigued by this app architecture and will definitely try it out in a side project soon. I have a hunch that this might be a wonderful fit for Hoodie apps as well.
 
-If you are interestd
+If you are interested in JavaScript app architectures I highly recommend you read this book. Get it at (link: http://humanjavascript.com text: humanjavascript.com).
