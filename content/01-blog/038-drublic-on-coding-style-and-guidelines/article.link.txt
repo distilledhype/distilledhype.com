@@ -1,9 +1,0 @@
-Title: Coding Style And Guidelines By @drublic
-
-----
-
-Link: http://drublic.de/blog/my-coding-style-and-guidelines/
-
-----
-
-Text: It's always great to see how other developers work and organize their code. You always find something useful to incorporate into your habits.

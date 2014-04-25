@@ -1,9 +1,0 @@
-Title: @siracusa's 2 hour analysis on the Twitter API changes
-
-----
-
-Link: http://5by5.tv/hypercritical/81
-
-----
-
-Text: I don't know if you know, but I love this guy and he brings up a lot of interesting points concerning the latest "[Calfornia knife in your back](http://5by5.tv/buildanalyze/84)" by Twitter.

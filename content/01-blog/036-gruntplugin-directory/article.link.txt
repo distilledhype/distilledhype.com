@@ -1,9 +1,0 @@
-Title: The Gruntplugin Directory By @sindresorhus
-
-----
-
-Link: http://sindresorhus.com/grunt-plugins/
-
-----
-
-Text: This gruntplugin directory shows all the gruntplugins that have been published to the npm repository with the keyword "gruntplugin". Ben Almans [jsFiddle that did the same thing](http://jsfiddle.net/cowboy/qzRjD/show/) minus the "Latest" section, seems to be dead.

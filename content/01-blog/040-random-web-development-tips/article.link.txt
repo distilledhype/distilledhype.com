@@ -1,9 +1,0 @@
-Title: Web Dev Tips By @can
-
-----
-
-Link: http://duruk.net/some-web-development-tips/
-
-----
-
-Text: A random but very good collection of web development tips and best practices.
