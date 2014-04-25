@@ -2,11 +2,7 @@ Title: Human JavaScript
 
 ----
 
-Date: 03/31/2014
-
-----
-
-Draft: true
+Date: 04/25/2014
 
 ----
 
