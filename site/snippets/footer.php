@@ -1,6 +1,9 @@
 		<div class="footer">
       <p>
         © 2014 Kahlil Lechelt
+<!-- 				<ul class="menu">
+					<?php echo snippet('menu-loop') ?>
+				</ul> -->
       </p>
     </div>
 	</div>
