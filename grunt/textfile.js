@@ -3,7 +3,7 @@ module.exports = function(grunt) {
   grunt.config('textfile', {
     options: {
       templateDir: 'site/templates',
-      dest: 'content/01-blog',
+      dest: 'content/blog',
       openFile: true
     },
     linkpost: {

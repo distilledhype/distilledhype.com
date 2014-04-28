@@ -1,0 +1,58 @@
+Title: How To Organize JavaScript Meetups
+
+----
+
+Date: 04/25/2014
+
+----
+
+Draft: true
+
+----
+
+Text:
+
+If all you want to do is to organize a JavaScript meetup in your city that gives the community a healthy and comfortable place to meet and exchange ideas here are a few tips on how to do it.
+
+### First Check for Existing Events
+
+Make sure to check for existing events that offer what you have in mind. If there are none proceed. If there are events but they don't do what you have in mind contact them, tell them what you want to do and coordinate with the other event organizers in order to avoid scheduling conflicts. See if you and the other events can cross-promote. Be present at the other events.
+
+### Find A Company To Sponsor The Event
+
+When it comes to JavaScript we are in the fortunate position that there will most likely be one or more companies that would love to tie their name to it. Just ask around.
+
+I would recommend to not take any monetary sponsoring but let the company sponsor venue, food, and tech. In return they get to put their logos up and a few minutes to present themselves before the talks.
+
+This makes it easy for both sides and takes a lot of the organizational burden off of your shoulders.
+You have to tell them exactly what you need and then check back with them to make sure they follow trough. Maybe pass by a couple of times and check if everything is cool. In my experience companies are very good at organizing simple events like that especially when they are properly briefed.
+
+### Make Sure Content Is Not Touched By Sponsors
+
+I believe this is a major factor that contributes to the success or the failure of the event.
+
+Some companies expect an employee of their company to speak at the event they are sponsoring. It needs to be made extremely clear to them that this is not a given. There can be speakers of the sponsoring company but they need to send in a proposal like everybody else and they can't get any preferential treatment. In fact their proposals must be looked at with more scrutiny than others.
+
+The content must come out of the community a 100%. These events are from the community for the community. Sponsors are welcome but they are not allowed to steer content.
+
+### Make Sure There Is Food And Drinks
+
+Make sure that the food is decent and that there is enough for everybody. There should be beer as well and soft drinks and everything should be free! People are taking out a few hours of their days and away from their families to come to this event and they should be comfortable and not hungry and thirsty.
+
+Thankfully with the help of an awesome sponsor this is easily done.
+
+### Make Sure The Tech Is Solid
+
+Make sure there is a projector, enough chairs, adaptors for the different computers. Speakers should come in early so you can check the tech with them. Make sure they're and have a place to stand in front of the audience.
+
+### Setup Website, Twitter
+
+I guess this is obvious. Make a website for the event and set up a Twitter account. Communicate all the things and respond to questions etc.
+
+### Ask The Community To Participate
+
+
+
+### Don't Be Afraid To Ask People Directly To Speak
+
+### Introduce The Speakers
