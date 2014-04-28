@@ -1,0 +1,17 @@
+Title: DHH Talks TDD On RailsConf
+
+----
+
+Link: https://twitter.com/dhh/status/458930953738387456
+
+----
+
+Date: 04/28/2014
+
+----
+
+Text:
+
+I have never practiced TDD but I am watching this talk anyway because it's always awesome to see DHH talk! What he says about TDD makes a lot of sense to me. I love his perspective on programming because it mirrors mine pretty well.
+
+There is always a lot to learn from DHHs talks. Note how well his story is constructed and how easy it seems for him to make very clear points. Definitly worth a watch.
