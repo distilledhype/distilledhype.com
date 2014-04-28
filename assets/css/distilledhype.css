@@ -74,10 +74,18 @@ input[type="submit"] {
 
 .footer { margin-top: 1rem; }
 
+.masthead {
+  margin-bottom: 4rem;
+}
+
 .masthead:hover .menu {
   opacity: 1;
 }
 
 .masthead-title small a {
   color: #c0c0c0;
+}
+
+.post {
+  margin-bottom: 5rem;
 }
