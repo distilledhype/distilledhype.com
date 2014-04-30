@@ -1,0 +1,15 @@
+Title: Web Components Can Do That?! by @addyosmani
+
+----
+
+Date: 04/29/2014
+
+----
+
+Link: http://addyosmani.github.io/fitc-wccdt/
+
+----
+
+Text:
+
+(image: wccdt.png)
