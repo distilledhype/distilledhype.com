@@ -13,3 +13,7 @@ Link: http://addyosmani.github.io/fitc-wccdt/
 Text:
 
 (image: wccdt.png)
+
+Amazing slides about Web Components. Just by going through the slides you will get an overview over what is possible with Web Components today. So if you didn't care to look into that yet this is the perfect update for you.
+
+I really hope they will release a video of the talk as well.
