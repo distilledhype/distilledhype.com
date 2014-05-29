@@ -196,11 +196,11 @@ class site extends obj {
     }
     
     // send a 404 header if this is the error page
-    if($page->isErrorPage()) header("HTTP/1.0 404 Not Found");
+    if($page->isErrorPage() && c::get('404.header')) header("HTTP/1.0 404 Not Found");
             
     if(empty($cacheData)) {
       // load the main template
-      $html = tpl::load($page->template(), false, true);
+      $html = tpl::load($page->template(), array(), true);
       if($this->htmlCacheEnabled) cache::set($cacheID, (string)$html, true);
     } else {
       $html = $cacheData;
@@ -390,8 +390,8 @@ class site extends obj {
         
   }
   
-  function modified() {
-    return ($this->modified) ? $this->modified : time();
+  function modified($format=false) {
+    return ($this->modified) ? ($format ? date($format, $this->modified) : $this->modified) : ($format ? date($format) : time());
   }
 
   function dataCacheID() {

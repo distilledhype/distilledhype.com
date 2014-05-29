@@ -50,7 +50,7 @@ class page extends obj {
     if(is_object($this->children)) return $this->children->sortBy($sort, $direction);
   
     $pages  = array();
-    $ignore = array_merge(array('.svn', '.git', '.htaccess'), (array)c::get('content.file.ignore', array()));
+    $ignore = array_merge(array('.svn', '.git', '.hg', '.htaccess'), (array)c::get('content.file.ignore', array()));
         
     foreach($this->children as $child) {
 
@@ -428,7 +428,13 @@ class page extends obj {
 	}
 
   static function parseDirURI($root) {
-    $base = ltrim(str_replace(c::get('root'), '', $root), '/');
+
+    if(c::get('root') == '/') {
+      $base = ltrim($root, '/');
+    } else {
+      $base = ltrim(str_replace(c::get('root'), '', $root), '/');
+    }
+
     return $base;    
   }
     

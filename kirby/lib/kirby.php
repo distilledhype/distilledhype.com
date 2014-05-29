@@ -2747,14 +2747,19 @@ class str {
     * @return string
     */  
   static function encode($string) {
+    $decoded = utf8_decode($string);
     $encoded = '';
     $length = str::length($string);
     for($i=0; $i<$length; $i++) {
-      $encoded .= (rand(1,2)==1) ? '&#' . ord($string[$i]) . ';' : '&#x' . dechex(ord($string[$i])) . ';';
+      if($decoded[$i] === $string[$i]) {
+        $encoded .= (rand(1,2)==1) ? '&#'.ord($string[$i]).';' : '&#x'.dechex(ord($string[$i])).';';
+      } else {
+        $encoded .= (rand(1,2)==1) ? '&#'.ord($decoded[$i]).';' : '&#x'.dechex(ord($decoded[$i])).';';
+      }
     }
     return $encoded;
   }
-
+  
   /**
     * Creates an encoded email address, including proper html-tags
     *
@@ -3046,7 +3051,7 @@ class str {
     // replace all special characters
     $text = str_replace(array_keys($replace), array_values($replace), $text);
     // replace spaces with simple dashes
-    $text = preg_replace('![^a-z0-9]!i','-', $text);
+    $text = preg_replace('![^a-z0-9._-]!i','-', $text);
     // remove double dashes
     $text = preg_replace('![-]{2,}!','-', $text);
     // trim trailing and leading dashes
@@ -3168,7 +3173,7 @@ class str {
         $string = self::urlify($string);
         break;
       case 'filename':
-        $string = f::save_name($string);
+        $string = f::safe_name($string);
         break;
     }
 
