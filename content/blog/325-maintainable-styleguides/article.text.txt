@@ -1,0 +1,27 @@
+Title: Maintainable Style Guides
+
+----
+
+Date: 05/29/2014
+
+----
+
+Text:
+
+Where I work we have been working on a living style guide for a while on the basis of Node.
+
+This was how it worked: you would have one Markdown document, that document would contain CSS selectors that corresponded to components on your website, some text documenting the components and the respective URL where those components would be found. The Node program would then load the page in PhantomJS, make screenshots of the UI components, parse out the CSS snippets for the different components, then insert them into the markdown document and then render everything into HTML. The prototype we had running actually did a decent job at it.
+
+Unfortunately two of the main devs working on it left and I just had too much other stuff on my plate at this point to continue working on it.
+
+I still love the idea though. I think a living style guide should be an essential part of every long running project.
+
+Just yesterday I read Ian Feather's article on "A Maintainable Style Guide" and how they built one at Lonely Planet. I find their way of doing it actually very compelling.
+
+Basically they refactored their application templates to be highly componentized, focused and testable and then just used the exact same templates they used in the app to render their style guide.
+
+GENIUS!
+
+Of course this means there is no boilerplate-framework-thingie that they can put out for everybody to use. This approach is customized to your technical stack but it sounds absolutely beautiful to use once you have it set up.
+
+(link: http://ianfeather.co.uk/a-maintainable-style-guide/ text: Go ahead and read all about it).

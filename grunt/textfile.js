@@ -4,7 +4,8 @@ module.exports = function(grunt) {
     options: {
       templateDir: 'site/templates',
       dest: 'content/blog',
-      openFile: true
+      openFile: true,
+      openWith: 'atom'
     },
     linkpost: {
       options: {
