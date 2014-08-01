@@ -1,0 +1,35 @@
+Title: Marcocast
+
+----
+
+Date: 08/01/2014
+
+----
+
+Text:
+
+As an avid podcast listener and a fan of [Marco Arment](http://marco.org) and his work, I was very interested in his newest release, a podcast app for iPhone called [Overcast](http://overcast.fm).
+
+After taking a look at the app, I am really impressed, although not surprised, with the amount of thoughtfulness that went into creating this app.
+
+A few stand out features that make it useful are:
+
+* The Smart Speed feature which is genius, and so far nobody else seems to have thought of yet, "dynamically shortens silences in talk shows".
+* The Smarter Playlist feature allows you to prioritise podcasts and new episodes will play accordingly.
+* There are multiple discovery features but the one I find most useful is the one that suggests podcasts from your Twitter followers.
+* There is a section in the settings view in which Marco links to his (indie) competitors in case you don't like his app. (So classy!)
+
+The features listed above that Marco has implemented in Overcast are indicative of the thoughtfulness of his work and is one of the reasons I have been listening to Marco on podcasts for years now.
+
+I have grown to appreciate his thoroughness, be it in the software he develops, his writing, and speaking on podcasts. The same care is also evident in his newest work.
+
+Even though I highly recommend Overcast, I deleted it from my phone a few hours after installing it. The reason I deleted it is because I have an iPhone 4S and support for iOS 7 will be discontinued as soon as iOS 8 is out. I expect iOS 8 to perform very poorly on the iPhone 4S and I don't plan on installing iOS 8. Therefore, Overcast is not the best option for me. I am also very happy with my current app, [Pocket Casts](http://www.shiftyjelly.com/android/pocketcasts).
+
+If you are looking for a podcast app I highly recommend both Pocket Casts and Overcast.
+
+To find out more about Marco's thoughts and the technical details behind Overcast, check out the following links to recent podcast episodes about Overcast:
+
+* The Talk Show - 'Cat Pictures' with Marco Arment [Side 1](http://daringfireball.net/thetalkshow/2014/07/19/ep-088) | [Side 2](http://daringfireball.net/thetalkshow/2014/07/19/ep-089)
+* [ATP - 74: One Of Us Shipped Something](http://atp.fm/episodes/74)
+* [ATP - 75: You Had Your Moment](http://atp.fm/episodes/75)
+* [Debug 43: Marco Arment on Overcast](http://www.imore.com/debug-43-exclusive-marco-arment-breaks-his-silence-overcast)
