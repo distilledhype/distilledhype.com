@@ -10,7 +10,7 @@ Text:
 
 As an avid podcast listener and a fan of [Marco Arment](http://marco.org) and his work, I was very interested in his newest release, a podcast app for iPhone called [Overcast](http://overcast.fm).
 
-After taking a look at the app, I am really impressed, although not surprised, with the amount of thoughtfulness that went into creating this app.
+After taking a look at the app, I am really impressed, although not surprised, with the amount of thought that went into creating this app.
 
 A few stand out features that make it useful are:
 
