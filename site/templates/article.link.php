@@ -1,6 +1,5 @@
 <?php snippet('header') ?>
 <?php // snippet('sidebar') ?>
-<?php snippet('masthead') ?>
 
 <div class="post linkpost">
   <h1 class="post-title">

@@ -1,6 +1,5 @@
 <?php snippet('header') ?>
 <?php // snippet('sidebar') ?>
-<?php snippet('masthead') ?>
 
 <div class="posts">
   <?php $next_date = ''; ?>
