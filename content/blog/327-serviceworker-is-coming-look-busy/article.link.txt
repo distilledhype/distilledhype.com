@@ -1,0 +1,15 @@
+Title: Serviceworker Is Coming. Look Busy.
+
+----
+
+Link: https://www.youtube.com/watch?v=Rr2vXDIVerI
+
+----
+
+Date: 09/22/2014
+
+----
+
+Text:
+
+Jake Archibald shows how Serviceworker works and how you can use it today to make your web app more robust. Most excellent!
