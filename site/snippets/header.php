@@ -26,7 +26,7 @@
 
 </head>
 <body class="preload">
-
+  
   <?php snippet('masthead') ?>
 
   <div class="container content">

@@ -1,3 +1,21 @@
+body {
+  background-color: #dcdcdc;
+}
+
+a {
+  color: #d40000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+blockquote {
+  border-left: .25rem solid #C7C7C7;
+}
+
 [class^="icon-"] {
   line-height: 1em;
   width: 30%;
@@ -75,17 +93,62 @@ input[type="submit"] {
 .footer { margin-top: 1rem; }
 
 .masthead {
+  padding: .4rem 1rem;
   margin-bottom: 4rem;
+  background-color: #e7e7e7;
+  padding-left: 1rem;
+  border-bottom: 1px solid #ccc;
 }
 
 .masthead:hover .menu {
   opacity: 1;
 }
 
+.masthead-title {
+  /*text-align: center;*/
+  text-transform: none;
+  font-size: 1.5rem;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 900;
+}
+.masthead-title a {
+  color: #afafaf;
+}
 .masthead-title small a {
   color: #c0c0c0;
 }
 
 .post {
   margin-bottom: 5rem;
+}
+
+.post-title {
+  font-weight: normal;
+  text-transform: uppercase;
+}
+.linkpost .post-title {
+  font-size: 1.2rem;
+}
+
+.pagination {
+  font-family: Helvetica, Arial, sans-serif;
+}
+.pagination-item {
+  border: none;
+}
+a.pagination-item:hover {
+  background-color: transparent;
+}
+
+.stripe {
+  font-weight: bold;
+}
+.red {
+  color: #ea0000;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
 }
