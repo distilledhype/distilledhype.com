@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<?php // snippet('sidebar') ?>?>
+<?php // snippet('sidebar') ?>
 <div class="post">
 
   <h1 class="post-title"><?php echo html($page->title()) ?></h1>
