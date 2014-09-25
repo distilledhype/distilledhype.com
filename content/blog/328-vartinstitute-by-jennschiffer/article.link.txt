@@ -1,0 +1,21 @@
+Title: vart.institute by @jennschiffer
+
+----
+
+Link: http://vart.institute
+
+----
+
+Date: 09/25/2014
+
+----
+
+Text:
+
+Jenn combines writing, art and coding in this new project of hers. She gives context on an artist and describes their art and then shows how to create that same art with code.
+
+She is taking cues from her work as a teacher, teaching kids and adults how to code, where she found that using art as a vehicle worked well since everybody could relate to it.
+
+This project is brilliant, you should go read [the first installement](http://vart.institute/mondrian/) of the series about Piet Mondrian.
+
+Also: bonus points on the .institute TLD btw.
