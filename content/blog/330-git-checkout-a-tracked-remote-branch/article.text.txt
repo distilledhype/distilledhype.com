@@ -1,0 +1,35 @@
+Title: Checking Out Remote Git Branches
+
+----
+
+Date: 09/29/2014
+
+----
+
+Text:
+
+I just joined a project that has a lot of remote Git branches. I had to check out a few specific branches in order to get to work.
+
+First, because I was to lazy to google for it I just made branches from master and named them after the remote branch and did a `git pull`. Git then gets all "Yo dawg, where do you want me pull from? Here is how you can set up this branch to track a remote branch so I know where to pull from". Git is very friendly like that. So I set up the local branch to track the right remote branch and pulled from there. Whee that worked! Kinda. Mostly.
+
+It can also create unnecessary conflicts depending from which branch you branched off.
+
+So since this solution is neither simple nor efficient I finally scoured the net for that way simpler solution that had to exist and of course it does. I found what I needed on [gitready](http://gitready.com/intermediate/2009/01/09/checkout-remote-tracked-branch.html):
+
+    git checkout -t <remote>/<tracked branch>
+
+This creates and checks out a branch locally that tracks the specified remote branch, it is also named identically to that remote branch. So if I wanted to checkout a branch called "dev" from the remote repo named "origin" it would look like this:
+
+    git checkout -t origin/dev
+
+Short and sweet <3
+
+Of course there is a long version of this command as well. It lets you set the local branch name explicitly.
+
+    git checkout --track -b <local branch> <remote>/<tracked branch>
+
+Using the example above it would translate to:
+
+    git checkout --track -b dev origin/dev
+
+Definitly a little command one should have handy.

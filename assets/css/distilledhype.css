@@ -11,6 +11,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   text-transform: uppercase;
 }
+.page-title, .post-title, .post-title a {
+  color: #515151;
+  /*color: #d40000;*/
+}
 
 blockquote {
   border-left: .25rem solid #C7C7C7;
@@ -113,6 +117,12 @@ input[type="submit"] {
 }
 .masthead-title a {
   color: #afafaf;
+  /*color: #d40000;*/
+}
+.masthead-title a:hover {
+  /*color: #7aa2ce;*/
+  color: #d40000;
+  text-decoration: none;
 }
 .masthead-title small a {
   color: #c0c0c0;
@@ -126,9 +136,16 @@ input[type="submit"] {
   font-weight: normal;
   text-transform: uppercase;
 }
+
 .linkpost .post-title {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
+  /*text-transform: none;*/
 }
+.linkpost .post-title a {
+  font-size: 1.3rem;
+  /*text-transform: none;*/^
+}
+
 
 .pagination {
   font-family: Helvetica, Arial, sans-serif;
@@ -151,4 +168,14 @@ a.pagination-item:hover {
 }
 .blue {
   color: blue;
+}
+
+
+code {
+  color: #515151;
+  background-color: #e6e6e6;
+}
+
+pre {
+  background-color: #e6e6e6;
 }
