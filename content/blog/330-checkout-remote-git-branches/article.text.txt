@@ -8,7 +8,7 @@ Date: 09/29/2014
 
 Text:
 
-I just joined a project that has a lot of remote Git branches. I had to check out a few specific branches in order to get to work.
+I just joined a project that has a lot of remote Git branches. In order to be able to work I had to check out just couple of them. I had no idea how to do it.
 
 First, because I was to lazy to google for it I just made branches from master and named them after the remote branch and did a `git pull`. Git then gets all "Yo dawg, where do you want me pull from? Here is how you can set up this branch to track a remote branch so I know where to pull from". Git is very friendly like that. So I set up the local branch to track the right remote branch and pulled from there. Whee that worked! Kinda. Mostly.
 
