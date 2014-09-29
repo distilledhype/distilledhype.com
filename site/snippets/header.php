@@ -22,11 +22,11 @@
   <?php echo css('assets/css/poole.css') ?>
   <?php echo css('assets/css/prism.css') ?>
   <?php echo css('assets/css/fontello.css') ?>
-  <?php echo css('assets/css/distilledhype.css') ?>
+  <?php echo css('assets/css/distilledhype.css?v=1') ?>
 
 </head>
 <body class="preload">
-  
+
   <?php snippet('masthead') ?>
 
   <div class="container content">
