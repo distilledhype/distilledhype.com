@@ -1,0 +1,16 @@
+Title: JavaScript Jabber 128: Famo.us with Steve Newcomb
+
+----
+
+Link: http://javascriptjabber.com/128-jsj-famo-us-with-steve-newcomb/
+
+----
+
+Date: 10/01/2014
+
+----
+
+Text:
+
+Steve Newcomb explains what the deal is with Famo.us.
+If you are building user interfaces you have to listen to this.
