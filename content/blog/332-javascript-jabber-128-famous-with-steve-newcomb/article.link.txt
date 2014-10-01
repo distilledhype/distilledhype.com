@@ -1,4 +1,4 @@
-Title: JavaScript Jabber 128: Famo.us with Steve Newcomb
+Title: JSJabber 128: Famo.us with Steve Newcomb
 
 ----
 
