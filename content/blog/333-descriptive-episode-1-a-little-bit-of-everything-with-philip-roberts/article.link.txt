@@ -1,0 +1,22 @@
+Title: DESCRIPTIVE 1: A Little Bit of Everything with Philip Roberts
+
+----
+
+Link: http://descriptive.audio/episodes/1
+
+----
+
+Date: 10/07/2014
+
+----
+
+Text:
+
+As a podcast fan with ambitions of being a podcaster I have been thinking about launching my podcast for a long time.
+I finally decided on a format and started production.
+
+[DESCRIPTIVE](http://descriptive.audio) is an interview podcast with people from the JavaScript and web development world.
+
+I am happy to announce the first episode with my very esteemed guest [Philip Roberts](http://twitter.com/philip_roberts) who is a [JSConf.eu](http://jsconf.eu) speaker and works for [&yet](http://andyet.com).
+
+We talked about his way into development and JavaScript, as well as his JSConf.eu talk about the event loop, &yet and [AmpersandJS](http://ampersandjs.com).
