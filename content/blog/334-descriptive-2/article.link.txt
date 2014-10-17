@@ -12,6 +12,6 @@ Date: 10/17/2014
 
 Text:
 
-> Brandon Hays talks to Kahlil about Frontside, why Frameworks are awesome and refactoring legacy jQuery code into EmberJS components.
+> Brandon Hays talks to Kahlil about [Frontside](http://frontside.io), why Frameworks are awesome and [refactoring legacy jQuery code into EmberJS components](https://www.youtube.com/watch?v=VMmaKj8hCR4).
 
 I was a little sleep-deprived when recording this but it was great fun and Brandon is a tremendous guest.
