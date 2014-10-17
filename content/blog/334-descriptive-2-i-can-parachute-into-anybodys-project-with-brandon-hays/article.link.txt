@@ -1,0 +1,17 @@
+Title: DESCRIPTIVE 2: I Can Parachute into Anybody's Project with Brandon Hays
+
+----
+
+Link: http://descriptive.audio/episodes/2
+
+----
+
+Date: 10/17/2014
+
+----
+
+Text:
+
+> Brandon Hays talks to Kahlil about Frontside, why Frameworks are awesome and refactoring legacy jQuery code into EmberJS components.
+
+I was a little sleep-deprived when recording this but it was great fun and Brandon is a tremendous guest.
