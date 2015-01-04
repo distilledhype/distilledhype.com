@@ -1,0 +1,11 @@
+Title: DESCRIPTIVE 3: On the Fly You Can Sound Like You're a Robot with Jan Monschke
+
+----
+
+Link: http://descriptive.audio/episodes/3
+
+----
+
+Text: > Kahlil talks to Jan Monschke about how he got into JavaScript and his work with the Web Audio API.
+
+If you are curious about the Web Audio API check out this episode.
