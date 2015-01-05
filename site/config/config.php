@@ -341,4 +341,29 @@ c::set('upload.allowed', array(
   'application/zip',
 ));
 
+
+// Routes
+c::set('routes', array(
+  array(
+    'pattern' => '(:any)',
+    'action'  => function($uid) {
+
+      $page = page($uid);
+
+      if(!$page) $page = page('blog/' . $uid);
+      if(!$page) $page = site()->errorPage();
+
+      return site()->visit($page);
+
+    }
+  ),
+  array(
+    'pattern' => 'blog/(:any)',
+    'action'  => function($uid) {
+      go($uid);
+    }
+    )
+  )
+);
+
 ?>
