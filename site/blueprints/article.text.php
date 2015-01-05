@@ -3,12 +3,17 @@
 # text blueprint
 
 title: Text Post
-pages: true
+pages: false
 files: true
 fields:
   title:
     label: Title
     type:  text
+
+  date:
+    label: Date
+    type: text
+
   text:
     label: Text
     type:  textarea

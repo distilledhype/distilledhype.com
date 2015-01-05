@@ -6,7 +6,7 @@ use Kirby\Request;
 
 class Kirby extends Obj {
 
-  static public $version = '2.0.1';
+  static public $version = '2.0.5';
   static public $instance;
 
   public $roots;
@@ -95,14 +95,19 @@ class Kirby extends Obj {
     // load all available config files
     $root    = $this->roots()->config();
     $configs = array(
-      'main' => $root . DS . 'config.php',
-      'host' => $root . DS . 'config.' . server::get('HTTP_HOST') . '.php',
-      'addr' => $root . DS . 'config.' . server::get('SERVER_ADDR') . '.php',
+      'main' => 'config.php',
+      'host' => 'config.' . server::get('SERVER_NAME') . '.php',
+      'addr' => 'config.' . server::get('SERVER_ADDR') . '.php',
     );
 
+    $allowed = array_filter(dir::read($root), function($file) {
+      return substr($file, 0, 7) === 'config.' and substr($file, -4) === '.php';
+    });
+
     foreach($configs as $config) {
-      if(file_exists($config)) include_once($config);
-    }
+      $file = $root . DS . $config;
+      if(in_array($config, $allowed, true) and file_exists($file)) include_once($file);
+    } 
 
     // apply the options
     $this->options = array_merge($this->options, c::$data);
@@ -182,20 +187,21 @@ class Kirby extends Obj {
       $routes[] = array(
         'pattern' => '/',
         'method'  => 'ALL',
-        'action'  => function() use($site) {
+        'action'  => function() use($kirby, $site) {
 
-          if(!s::get('language')) {
+          // check if the language detector is activated
+          if($kirby->option('language.detect')) {
 
-            // get the last session language
-            if($language = $this->site()->sessionLanguage()) {
-              $language = $language;
-            // detect the user language
+            if(s::get('language') and $language = $kirby->site()->sessionLanguage()) {
+              // $language is already set
             } else {
-              $language = $this->site()->detectedLanguage();
+              // detect the user language
+              $language = $kirby->site()->detectedLanguage();
             }
 
           } else {
-            $language = $this->site()->defaultLanguage();
+            // always use the default language if the detector is disabled
+            $language = $kirby->site()->defaultLanguage();
           }
 
           // redirect to the language homepage if necessary
@@ -503,7 +509,7 @@ class Kirby extends Obj {
   public function template(Page $page, $data = array()) {
 
     // apply the basic template vars
-    tpl::$data = array_merge(array(
+    tpl::$data = array_merge(tpl::$data, array(
       'kirby' => $this,
       'site'  => $this->site(),
       'pages' => $this->site()->children(),
@@ -592,14 +598,9 @@ class Kirby extends Obj {
       $this->response = null;
     }
 
-    // auto-detect the matching language for the user
-    // and redirect to the according page
-    if($page and $this->site()->multilang()) {
-      if(!s::get('language')) {
-        $this->site()->switchLanguage($this->site()->detectedLanguage());
-      } else {
-        $this->site()->switchLanguage($this->site()->language());
-      }
+    if($this->site()->multilang() and $language = $this->site()->language()) {
+      // store the current language in the session
+      s::set('language', $language->code());
     }
 
     return $this->response;

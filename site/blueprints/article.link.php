@@ -6,15 +6,19 @@ title: Link Post
 pages: false
 files: true
 fields:
-    title:
-        label: Title
-        type:  text
+  title:
+    label: Title
+    type:  text
 
-    link:
-        label: Link
-        type: text
+  link:
+    label: Link
+    type: url
 
-    text:
-        label: Text
-        type:  textarea
-        size:  large
+  date:
+    label: Date
+    type: date
+
+  text:
+    label: Text
+    type:  textarea
+    size:  large

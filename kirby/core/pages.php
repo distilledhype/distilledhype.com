@@ -156,7 +156,7 @@ abstract class PagesAbstract extends Collection {
    * @return boolean
    */
   public function has($page) {
-    $uri = is_string($page) ? $page : $page->uri();
+    $uri = is_string($page) ? $page : $page->id();
     return isset($this->data[$uri]);
   }
 
@@ -207,15 +207,15 @@ abstract class PagesAbstract extends Collection {
       foreach($keys as $key) {
 
         $score = a::get($options['score'], $key, 1);
-
+        
         // check for a match
-        if($matches = preg_match_all($preg, $data[$key])) {
+        if($matches = preg_match_all($preg, $data[$key], $r)) {
 
           $page->searchHits  += $matches;
           $page->searchScore += $matches * $score;
 
           // check for full matches
-          if($matches = preg_match_all('!' . preg_quote($query) . '!i', $data[$key])) {
+          if($matches = preg_match_all('!' . preg_quote($query) . '!i', $data[$key], $r)) {
             $page->searchScore += $matches * $score;
           }
 

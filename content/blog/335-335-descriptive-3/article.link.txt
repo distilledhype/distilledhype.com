@@ -6,6 +6,10 @@ Link: http://descriptive.audio/episodes/3
 
 ----
 
+Date: 10/24/2014
+
+----
+
 Text: > Kahlil talks to Jan Monschke about how he got into JavaScript and his work with the Web Audio API.
 
 If you are curious about the Web Audio API check out this episode.

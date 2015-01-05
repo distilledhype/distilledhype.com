@@ -1,5 +1,5 @@
-﻿Title: Home
+Title: Blog
 
 ----
 
-Text:
+Text: 
