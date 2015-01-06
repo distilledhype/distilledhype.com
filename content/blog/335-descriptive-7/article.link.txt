@@ -1,0 +1,13 @@
+Title: DESCRIPTIVE 7: I Don't Know, Why Don't You Write A BitTorrent Client? with Mathias Buus
+
+----
+
+Link: http://descriptive.audio/episodes/7
+
+----
+
+Date: 2015-01-06
+
+----
+
+Text: > Kahlil talks to Mathias Buus about working with Node early on, application structure, LevelDB, distributed infrastructure and his JSConf.eu talk on streaming anything with BitTorrent and Node.

@@ -28,8 +28,8 @@
 
       <time class="post-date" datetime="<?php echo $article->date() ?>" pubdate="pubdate">
         <a href="<?php echo $article->url() ?>">
-          <?php echo date( 'l', $article->date() ) ?>,
-          <?php echo ' ' . date( 'j F Y', $article->date() ) ?>
+          <?php echo ' ' . date( 'F j', $article->date() ) ?>,
+          <?php echo ' ' . date( ' Y', $article->date() ) ?>
         </a>
       </time>
 
@@ -47,8 +47,8 @@
 
       <time class="post-date" datetime="<?php echo $article->date() ?>" pubdate="pubdate">
         <a href="<?php echo $article->url() ?>">
-          <?php echo date( 'l', $article->date() ) ?>,
-          <?php echo ' ' . date( 'j F Y', $article->date() ) ?>
+          <?php echo ' ' . date( 'F j', $article->date() ) ?>,
+          <?php echo ' ' . date( ' Y', $article->date() ) ?>
         </a>
       </time>
 

@@ -179,3 +179,13 @@ code {
 pre {
   background-color: #e6e6e6;
 }
+
+
+/* Meta data line below post title */
+.post-date, .post-date a {
+  display: block;
+  margin-top: -.2rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  font-size: .85rem;
+}
