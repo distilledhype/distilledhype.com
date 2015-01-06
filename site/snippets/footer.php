@@ -1,6 +1,6 @@
 		<div class="footer">
       <p>
-        © 2014 Kahlil Lechelt &bullet; <a href="/about">About</a>
+        © 2014 Kahlil Lechelt &bullet; <a href="http://feed.distilledhype.net">RSS</a> &bullet; <a href="/about">About</a> 
       </p>
     </div>
 	</div>
