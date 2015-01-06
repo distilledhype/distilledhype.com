@@ -1,4 +1,4 @@
-Title: The Distilled Hype Feed
+Title: Distilled Hype
 ----
 Description: The latest updates from Distilled Hype.
 ----
