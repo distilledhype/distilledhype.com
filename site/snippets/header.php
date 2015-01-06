@@ -15,6 +15,8 @@
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
   <meta name="robots" content="index, follow" />
 
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feed.distilledhype.net">
+
   <link rel="shortcut icon" href="<?php echo url('assets/img/favicon.ico?v=2') ?>" />
 
   <meta name="viewport" content="width=device-width">
