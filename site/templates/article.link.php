@@ -9,8 +9,8 @@
   </h1>
 
   <time class="post-date" datetime="<?php echo $previous_date ?>" pubdate="pubdate">
-    <?php echo date( 'l', $page->date() ) ?>,
-    <?php echo ' ' . date( 'jS F Y', $page->date() ) ?>
+    <?php echo date( 'F j', $page->date() ) ?>,
+    <?php echo ' ' . date( ' Y', $page->date() ) ?>
   </time>
 
   <?php echo kirbytext($page->text()) ?>
